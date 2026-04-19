@@ -14,7 +14,7 @@ For every token, ask:
 1. Does this complete or materially advance a protected set objective?
    - Highest priority examples: Mage 2p, Rogue 4p, Hunter 4p, Enhance 4p, main-tank/tank-set pieces, Holy Priest 4p, Boomkin/Shadow 4p when close.
 2. Can the player equip it tonight without breaking something better?
-   - Watch for Hunter Beast Lord 4p, Enhancement T4 2p, Mage Spellfire/T5 routing, Rogue Bloodsea chest route, Holy Priest Primal Mooncloth chest, tank crush/defense requirements, and engineering helm setups.
+   - Watch for Hunter Beast Lord 4p, Enhancement T4 2p, Mage Spellfire/T5 routing, Rogue Bloodsea chest route, Holy Priest Primal Mooncloth chest, Prot Paladin T4 chest/shoulder routing, tank crush/defense requirements, and engineering helm setups.
 3. If it will be banked, is LC committing to finish that player soon?
    - If yes, award toward the planned set. If no, prefer a real immediate equip or the next protected set plan.
 
@@ -28,7 +28,7 @@ Have this written before pull:
 | Hunters | Which Hunter is being stacked to 4p first? Are they BM with non-tier legs, or Survival with tier legs? |
 | Rogues | Which Rogue is on helm/shoulders/gloves/legs plus `Bloodsea Brigand's Vest`? |
 | Enhance | Which four pieces are planned, and will a token break T4 2p too early? |
-| Tanks | Which tanks can equip tier without losing crush-immunity, defense, stamina, or required threat? |
+| Tanks | Which tanks can equip tier without losing crush-immunity, defense, stamina, or required threat? Is Prot Paladin actually using T5 helm/legs/gloves, or preserving T4 chest/shoulders? |
 | Priests/Druids | Which Defender users are close to 4p, and which are only asking for a single-slot upgrade? |
 | Warlocks | Which offpieces are owed instead of tier: `Vestments of the Sea-Witch`, `Wand of the Forgotten Star`, `Fang of the Leviathan`, `Fathomstone`, boots, rings? |
 
@@ -118,12 +118,13 @@ Do not:
 
 ### Vanquished Champion Helm: Paladin, Rogue, Shaman
 
-Default: Rogue > Enhance > Ret/Holy/Resto > Prot > Elemental.
+Default: Rogue > Enhance > Prot if this is the planned tank route > Ret/Holy/Resto > Elemental.
 
 Ask:
 1. Does this advance or complete Rogue 4p?
 2. Is Enhance close enough to 4p that helm creates the final or near-final swap?
-3. If a healer/Ret/Prot wants it, will they equip it tonight and is Rogue/Enhance covered?
+3. If Prot wants it, does it complete a real uncrushable/threat set rather than replacing engineering goggles or a better route?
+4. If a healer/Ret wants it, will they equip it tonight and is Rogue/Enhance covered?
 
 Do not:
 - Give Prot Paladin helm before checking engineering goggles and tank stat requirements.
@@ -172,7 +173,7 @@ Do not:
 
 ### Vanquished Defender Shoulders: Warrior, Priest, Druid
 
-Default: Bear > Prot Warrior > Balance/Holy Priest > Shadow if finishing 4p > Resto/Fury.
+Default: Bear > Prot Warrior > Balance/Holy Priest > Shadow if finishing 4p > Resto/Fury/Arms.
 
 Ask:
 1. Does Bear or Prot Warrior need these for a real tank set?
@@ -180,7 +181,7 @@ Ask:
 3. Does this finish Shadow 4p, or is it just another weak single piece?
 
 Do not:
-- Give to Fury except as leftover.
+- Give to Fury/Arms except as leftover.
 - Give to Resto Druid over active tank or 4p Defender plans unless it is a deliberate healer equity call.
 
 ### Vanquished Hero Shoulders: Hunter, Mage, Warlock
@@ -222,7 +223,7 @@ Ask:
 
 Do not:
 - Give Holy Priest chest early; `Primal Mooncloth Robe` is the normal route.
-- Give Fury chest while tank/Feral/caster 4p users still need it.
+- Give Fury/Arms chest while tank/Feral/caster 4p users still need it.
 
 ### Vanquished Hero Chest: Hunter, Mage, Warlock
 

@@ -1,0 +1,295 @@
+What's up everybody? In this video, I'll
+be covering the Resto Druid and all of
+the reasons why it may or may not be the
+right healer for you. As with any of my
+other class picking guides, the goal
+here is to make your decision easier.
+So, feel free to leave a comment if you
+have questions. So, with that out of the
+way, restoids in vanilla. They were
+known for being generally an undesirable
+healer, but that does not follow them
+into TPC. And that's partly due to the
+several changes that were made to the
+way that healing overtime spells worked.
+There can now be multiple applications
+of the same healing overtime spell on a
+single target, and bonus healing from
+gear has a much greater contribution to
+their effects. But that's not the only
+thing that changed with druids. They
+received a new talent called tree of
+life, which drastically changed their
+play style. This is a new shapeshift
+form that's exclusive to the resto
+druid. And like any other druid
+shapeshift form, it grants enhanced
+capabilities for your role while
+limiting your ability to use spells
+outside of your role. While in tree
+form, you have a 20% reduced cost on all
+healing overtime spells. It's hard to
+state just how good that is. The
+secondary benefit that tree form
+provides is the aura that it gives to
+your group members. It increases their
+healing taken by 25% of your total
+spirit. And that ends up being quite a
+significant bonus because of the amount
+of spirit that resto druids have on
+their gear. Like I already mentioned,
+there are some negatives that come with
+any druid shapeshift form. And tree of
+life is no exception. While in tree
+form, you're limited to casting only
+healing over time spells, swift men,
+nature swiftness, intervate, battle res,
+and cure poison effects. That means you
+can't cast any damaging spells,
+crowdcontrolling spells, healing touch,
+or deurse without being kicked out of
+tree form. That sounds bad at first, but
+most of it doesn't really interfere with
+your role as a healer. For the most
+part, TBC raids don't require healers to
+deal damage, and healing touch is only
+used in one specific scenario. So, that
+leaves deurse as the one minor annoyance
+that you'll notice with this
+restriction. You're still one of the
+only two classes that are able to
+deurse. So, it's just something you'll
+have to deal with when it comes up. The
+other downside to tree form is you move
+20% slower in this form. But if you know
+the mechanics of the fight, you won't
+actually be affected by this very often.
+As a druid, you have the incredible perk
+of being able to heal while moving, and
+this allows you to preposition yourself
+for mechanics before they actually
+happen. The benefits of tree form far
+outweigh the negatives, and outside of
+very specific scenarios, you'll always
+be in this form. So, you'll have to get
+used to this. Onto the druid's healing
+spells. Lifeloom is Rust Druid's new
+healing overtime effect with this
+expansion. It's easily their most mana
+efficient heal, and it's incredibly
+versatile once the druid understands how
+it works. The spell ticks every second
+for 7 seconds. If the druid doesn't
+refresh the lifeloom by the seventh
+tick, the effect delivers a burst of
+healing as it expires. However, if the
+druid does refresh life bloom before it
+expires, the effect gains an additional
+stack, and the healing overtime portion
+is doubled. This effect can be stacked
+up to three times for up to triple the
+initial periodic healing. A three stack
+lifelume is an incredible tool for
+dealing with heavy and sustained damage,
+particularly on tanks. But lifelume has
+other uses. A one stack lifelume can be
+used to top off raid members who have
+recently received moderate damage.
+Rejuvenation is another instant healing
+over time effect and it offers similar
+healing to a single stack of lifelume,
+but it delivers that healing at a much
+slower pace than lifeloom and at a
+significantly higher mana cost too. That
+doesn't mean rejuvenation doesn't have
+its place. For tank healing, it's used
+in addition to lifeloom, but maintaining
+its effect is not nearly as important.
+But raid healing is where rejuvenation
+really shines. even when you compare it
+to lifelume. That's because rejuvenation
+enables the use of swift mend. Swift
+mend is an instant cast burst heal spell
+with a very short cooldown. The catch is
+that you can only use it on targets with
+an active rejuvenation or regrowth
+effect. So when a party member is in
+critical condition and has no active
+hots, your best course of action is
+usually to use rejuvenation and then
+swift men. This combination produces a
+ton of healing in the span of a global
+cooldown. But like I mentioned before, a
+single stack lifelume is also a great
+tool for raid healing. And this choice
+between rejuvenation and lifelume comes
+up a lot. While it's pretty obvious that
+in situations where a large amount of
+spot healing is required, rejuvenation
+is the correct choice. What's not so
+obvious is the proper spell to use when
+only a moderate amount of healing is
+needed. It's this judgment call that
+defines the skill ceiling for the resto
+druid. Lifeloom heals faster and for
+much less mana, but rejuvenation gives
+you the option to swift men the target
+for the next 12 seconds. It's up for the
+druid to anticipate whether or not swift
+men will be needed or could be needed on
+the target in the next 12 seconds. In
+order to make the correct call all of
+the time, the druid needs to have an
+intimate understanding of the damage
+patterns for every fight. So, like I
+said, this is a huge part of mastering
+the resto druid. Regrowth is another
+healing spell in the resto druid's
+arsenal. It's a 2- second casted spell
+that has a high initial heal and leaves
+a moderate heal overtime effect. The
+initial heal of this spell is actually
+quite strong due in part to the improved
+regrowth talent. The talent gives you a
+50% increased chance to critically
+strike with the initial heal. That's
+before factoring in your base stats and
+gear. The heal overtime portion of the
+spell has its place as your third
+priority hot when assigned to healing a
+main tank. We'll talk more on healing
+assignments in a later section, but a
+lot of the spell's value comes when the
+druid is raid healing. You see, Swift
+Men has a 15-second cool down, and if
+several raid members are taking heavy
+amounts of damage, you can't use Swift
+Mend on all of them. That's where the
+initial heal from regrowth comes in. It
+also has the benefit of leaving a
+21-second hot on the target, giving you
+a much longer window to use swift men
+should they need it. The next healing
+spell on our list is Tranquility. It's a
+group healing spell that heals up to
+four of your nearby party members every
+2 seconds for 8 seconds. This spell does
+have a lengthy cooldown of 10 minutes,
+and it requires the druid to stand still
+and channel it for the full 8 seconds.
+This cooldown is so valuable that you'll
+probably be assigned to use it at a
+certain time designated by your raid
+leader. Last up is healing touch, which
+is a very niche spell for the druiden
+TBC. The spell heals for a massive
+amount, but it has a ridiculously long
+cast time of 3.5 seconds, and like I
+said before, it cannot be used in tree
+form. As a result, there's really only
+one practical application for it, and
+that's to be used in conjunction with
+nature's swiftness. Nature's swiftness
+is a resto talent that makes your next
+nature cast an instant cast. So, combine
+that with healing touch, and you've got
+the druid equivalent of lay on hands. As
+for the important non-healing spells,
+you have innervate, which is a
+threeminute cooldown that can be used on
+any raid member, including the druid. It
+works by increasing the targets
+spiritbased mana regeneration by 400%
+and allowing them to fully regenerate
+mana while casting for 20 seconds. While
+the druid does get a lot of mana out of
+intervate due to their high levels of
+spirit, they're pretty mana efficient on
+their own. This cooldown is often best
+used for the holy priest, which is
+another healer that uses a lot of
+spirit, but has a much harder time with
+mana compared to druids. Rebirth is the
+druid's resurrection spell, and it has
+the advantage of being usable in combat
+at the cost of having a 30inut cool
+down. In 25man raids, where there are
+tons of other healers, having a cooldown
+base resurrection spell is typically not
+a problem. However, it can be very
+frustrating if you do a lot of five and
+10-man content. So, if you like what
+you've heard so far, let's talk about
+the raid assignments that you'll
+typically receive as a resto druid.
+Sometimes you'll be asked to be a
+primary raid healer. While druids are
+definitely serviceable in this role,
+shamans and priests are typically
+better, but there are times where it
+makes sense for a druid to be a primary
+raid healer. One example that comes to
+mind is during the reverberation effect
+during the Grul encounter. You may also
+be asked to serve as a main tank healer.
+This responsibility is typically
+reserved for holy paladins or improved
+divine spirit priests, but it's
+sometimes delegated to a resto druid,
+especially in situations where the main
+tank healer is going to be
+crowdcontrolled. In these cases, the
+druid keeps up all his healing overtime
+effects on the main tank before the
+crowd control lands. These effects
+stabilize the main tank's health long
+enough for the druid to come out of the
+crowd control and use swift men to
+recover. But while druids are great main
+tank healers, it's still not their
+specialty. The druid truly shines when
+he's assigned to healing multiple tanks
+as well as light spot healing. They can
+do this efficiently by keeping three
+stacks of light bloom on each tank and
+then using the remaining globals to
+either heal the raid or pump more
+healing into the tanks. This assignment
+is where druids are the most flexible
+and fun to play. Which is a nice segue
+into the last section where I'll give
+you my procon list for the resto druid
+and TBC. As a disclaimer, this list is
+based only on PvE content. I made a PvP
+guide for healers which you can find by
+clicking on the top right of this video
+frame. So, as I just mentioned, druids
+are probably the most fun and flexible
+healers to play with priest being a very
+close second. There's also a lot of
+decision-making on which healing
+overtime spell to use in what
+situations, and that makes the druid
+feel very skillful compared to other
+healers. And they bring excellent
+utility with mark of the wild, tree
+form, aura, innervate, battle res, and
+tranquility. On top of that, they're
+just excellent healers. Their mana
+efficiency is unparalleled, and their
+throughput is very strong. As for the
+negatives, you're probably the worst
+healer for daily questing and gold
+farming. Also, needing to shape-shift in
+and out of tree form to perform tasks
+such as decursing and buffing may annoy
+some people. And if you're looking to
+play the all-around best healer, you
+probably won't find that in a druid.
+They're very strong, but not as strong
+as resto shamans or holy priests. So,
+are you going to play a restored in TBC?
+If so, leave a comment. If not, still
+leave a comment. Thanks for watching,
+guys. I'll see you in the next one.
+Peace.

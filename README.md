@@ -24,6 +24,7 @@ This is not a personal BiS list. The docs are written for an LC that needs to de
 | [ssc-tk-tier-token-priority.md](ssc-tk-tier-token-priority.md) | Standalone token policy: token mapping, slot priority, set plans, equip constraints, banked-piece rules, and longevity flags. | LC planning before raid |
 | [ssc-tk-weapons-trinkets-opportunity-cost.md](ssc-tk-weapons-trinkets-opportunity-cost.md) | Weapon/trinket priority, offhand ladders, multi-phase items, later hit/crit/threat swaps, and spec-by-spec tradeoffs. | LC resolving contested non-tier drops |
 | [ssc-tk-loot-priority-lc-guide.md](ssc-tk-loot-priority-lc-guide.md) | Full boss-by-boss guide with token matrix, trinkets, weapons, rings, offpieces, Warlock plan, and Verdant Sphere routing. | LC doing full loot policy review |
+| [ssc-tk-spec-transcript-synthesis.md](ssc-tk-spec-transcript-synthesis.md) | Evidence ledger for newly captured Fury, Arms, Enhancement, Holy Priest, Resto Druid, Prot Paladin, and tank/healer transcripts. | Source audit before policy edits |
 | [sources/xaTf4e4y-mc-transcript.txt](sources/xaTf4e4y-mc-transcript.txt) | Local plain-text transcript of the starting Zatar video. | Source audit |
 | [sources/class-video-transcripts/](sources/class-video-transcripts/) | Local transcript captures for class-specialist and cross-check videos. | Source audit |
 
@@ -33,7 +34,7 @@ This is not a personal BiS list. The docs are written for an LC that needs to de
 2. For loot policy or pre-raid planning, use the [tier-token doc](ssc-tk-tier-token-priority.md).
 3. For weapons, trinkets, and long-lived swaps, use the [weapons/trinkets appendix](ssc-tk-weapons-trinkets-opportunity-cost.md).
 4. For a full boss-by-boss loot review, use the [main LC guide](ssc-tk-loot-priority-lc-guide.md).
-5. When a call is controversial, check the source transcripts and linked videos before editing policy.
+5. When a call is controversial, check the [spec transcript synthesis](ssc-tk-spec-transcript-synthesis.md), source transcripts, and linked videos before editing policy.
 
 ## Scope
 
@@ -43,8 +44,34 @@ This is not a personal BiS list. The docs are written for an LC that needs to de
 | Tier 5 token class mapping and slot priority | Automated loot distribution tooling |
 | Relative weapon and trinket priority | DKP/EPGP math |
 | Equip constraints and set-bonus timing | A replacement for player attendance/performance judgment |
-| Normal raid-comp specs, including Boomkin, Survival Hunter, Enhance Shaman, Fury Warrior, Ret, Shadow, and tanks/healers | Speedrun-only loot rules unless explicitly called out |
+| Normal raid-comp specs, including Boomkin, Survival Hunter, Enhance Shaman, Fury Warrior, Arms Warrior, Ret, Shadow, and tanks/healers | Speedrun-only loot rules unless explicitly called out |
 | Multi-phase item and later swap notes | Phase 3+ complete loot policy |
+
+## Spec Coverage Matrix
+
+| Spec or role | Source depth | Policy confidence |
+|---|---|---|
+| Prot Warrior | Neuro specialist video plus tank/healer cross-checks | High for Mallet/Fang/tier constraints; still verify individual tank sets. |
+| Prot Paladin | RoyalAshen, Wundy, and tank/healer cross-checks | High for T5 helm/legs/gloves, T4 chest/shoulder constraints, Darkener, and Fang tradeoffs. |
+| Feral Bear / Cat | Costin plus Griftin leatherworking context | High for Bear vs Cat token routing and mitigation/threat tradeoffs. |
+| Rogue | Simonize plus Zatar/Knot | High for 4p, Talon, Warp-Spring Coil, ranged stat-stick, and Tsunami pass logic. |
+| BM Hunter | Sarthe plus Zatar/Knot | High for 4p timing, bow priority, Beast Lord constraint, and trinket caution. |
+| Survival Hunter | Bigbobbedboi plus hunter cross-checks | Good for tier legs, agility/stat-stick routing, and Badge of Tenacity nuance. |
+| Fury Warrior | Ragebtw plus Wowhead item cross-checks | Good for low tier priority, Dragonstrike/Vortex, offhand ladder, Rod, and Tsunami nuance. |
+| Arms Warrior | Darkest_TV quick guide plus Zatar/Knot | Conservative: useful stat and weapon-spec context, but no dedicated SSC/TK loot-priority source yet. |
+| Ret Paladin | TheRealBlayst plus Zatar/Knot | Good for Twinblade vs Lionheart, trinket choices, and physical offpiece tradeoffs. |
+| Enhancement Shaman | BRETTY, Defcamp/Melderon, Wowhead, and Zatar/Knot | Good for slow dual-wield, speed matching/staggering, 4p, Rod/Talon, and blacksmithing caution. |
+| Arcane Mage | Fearstreet, NicB, Zatar, and Knot | High for 2p urgency, Hero-token pressure, Nexus Key, Braid, and chest routing. |
+| Warlock | Crix plus Zatar/Knot | High for offpiece-funded plan: Sea-Witch chest, Fang, Fathomstone, wand, boots, and low Hero-token urgency. |
+| Elemental Shaman | Darkest_TV plus caster cross-checks | Good for chest/legs, Nexus Key, Sun King's Talisman, rings, and crit/Sextant context. |
+| Balance Druid / Boomkin | Classic Gho and Intentionally Good | Good for 4p, crit/proc build, Sextant, Nexus Key, and tier-slot alternatives. |
+| Shadow Priest | Drue plus caster/healer cross-checks | Good for 4p route, DMC/Eye/Icon, wand, and lower-contested alternatives. |
+| Holy Paladin | Costin plus tank/healer cross-checks | Good for Lightfathom, libram, boots, and healer-equity routing. |
+| Holy Priest | ZGT, Kaghoe, and tank/healer cross-checks | Good for IDS/CoH role, 4p, Primal Mooncloth/Whitemend constraints, and Earring. |
+| Resto Druid | Prunes, ZGT, and tank/healer cross-checks | Good for healer role, spirit compensation, Tree aura, and lower tier urgency. |
+| Resto Shaman | ZGT, Defcamp/Melderon Shaman context, and tank/healer cross-checks | Good for Chain Heal role, healer equity, Lightfathom, and offhand-vs-shield routing. |
+
+Current evidence gaps are narrow rather than missing-spec gaps. Arms Warrior has class-guide evidence but not a loot-priority specialist transcript, so its policy stays deliberately conservative. Prot Paladin and tank pieces remain set-dependent because uncrushable, defense, stamina, and spellpower thresholds change the answer by player.
 
 ## LC Conventions
 
@@ -57,7 +84,7 @@ This is not a personal BiS list. The docs are written for an LC that needs to de
 
 ## Source Video Index
 
-These are the videos represented in the research pack. Some local transcripts were captured without the original URL being recorded; those are kept in the index with transcript links instead of invented citations.
+These are the videos represented in the research pack.
 
 | Source | URL | Local transcript | Used for |
 |---|---|---|---|
@@ -74,13 +101,23 @@ These are the videos represented in the research pack. Some local transcripts we
 | Classic Gho Boomkin Phase 2 | https://www.youtube.com/watch?v=sS6zeNrssAE | [txt](sources/class-video-transcripts/classic-gho-boomkin-p2.txt), [tsv](sources/class-video-transcripts/classic-gho-boomkin-p2.tsv) | Boomkin 4p, crit/Sextant setup, Living Root experimentation |
 | Intentionally Good, `Phase 2 Balance Druid BIS! - World of Warcraft TBC Classic` | https://www.youtube.com/watch?v=hfEuBByiTvI | [txt](sources/class-video-transcripts/intentionally-good-boomkin-p2.txt), [tsv](sources/class-video-transcripts/intentionally-good-boomkin-p2.tsv) | Boomkin alternatives, tier slot choices, Nexus Key, trinket swapping |
 | TheRealBlayst Ret Phase 2 | https://www.youtube.com/watch?v=f1MqUrVgObM | [txt](sources/class-video-transcripts/blayst-ret-p2-bis.txt), [tsv](sources/class-video-transcripts/blayst-ret-p2-bis.tsv) | Ret trinkets, Twinblade vs Lionheart, melee offpiece context |
+| Ragebtw, `Fury Warrior BIS Phase 2 DEEP DIVE (TBC CLASSIC)` | https://www.youtube.com/watch?v=fTwYe-GeH7I | [txt](sources/class-video-transcripts/ragebtw-fury-warrior-p2-bis.txt), [tsv](sources/class-video-transcripts/ragebtw-fury-warrior-p2-bis.tsv) | Fury tier caution, Dragonstrike/Vortex urgency, non-BS weapon paths, Rod/Tsunami nuance |
+| Darkest_TV, `TBC Arms Warrior PvE QUICK Guide` | https://www.youtube.com/watch?v=7mCO4YttVeA | [txt](sources/class-video-transcripts/darkest-arms-pve-quick-guide.txt), [tsv](sources/class-video-transcripts/darkest-arms-pve-quick-guide.tsv) | Arms hit/expertise and weapon-specialization context; not a standalone loot-priority source |
+| BRETTY, `TBC Classic Enhancement Shaman - Do The Blacksmithing Axes or Hammers Pull More DPS?` | https://www.youtube.com/watch?v=mG_S31qVah8 | [txt](sources/class-video-transcripts/bretty-enhance-bs-axes-hammers.txt), [tsv](sources/class-video-transcripts/bretty-enhance-bs-axes-hammers.tsv) | Enhancement blacksmithing race/path nuance |
+| Defcamp & Melderon TV, `TBC Classic Shaman Ultimate Endgame Guide` | https://www.youtube.com/watch?v=pufsqEiYxSg | [txt](sources/class-video-transcripts/defcamp-melderon-shaman-endgame.txt), [tsv](sources/class-video-transcripts/defcamp-melderon-shaman-endgame.tsv) | Enhancement slow dual-wield, speed matching/staggering, blacksmithing caution, Shaman cross-checks |
 | Drue Shadow Priest Phase 2 | https://www.youtube.com/watch?v=Zs7byzqzZKA | [txt](sources/class-video-transcripts/drue-shadow-priest-p2-bis.txt), [tsv](sources/class-video-transcripts/drue-shadow-priest-p2-bis.tsv) | Shadow 4p route, DMC/Eye/Icon, Wand, realistic low-contested alternatives |
 | Costin Feral T5 | https://www.youtube.com/watch?v=MExuP1-iwcY | [txt](sources/class-video-transcripts/costin-feral-t5.txt), [tsv](sources/class-video-transcripts/costin-feral-t5.tsv) | Feral mitigation/threat split, Bear vs Cat token context |
 | Costin Holy Paladin T5 | https://www.youtube.com/watch?v=Ko-mq1NP_jk | [txt](sources/class-video-transcripts/costin-holy-paladin-t5.txt), [tsv](sources/class-video-transcripts/costin-holy-paladin-t5.tsv) | Holy Paladin mace, libram, boots, healer-equity nuance |
+| ZGT, `Everything You Need To Know: Holy Priest TBC` | https://www.youtube.com/watch?v=hPCsR9vWhNk | [txt](sources/class-video-transcripts/zgt-holy-priest-guide.txt), [tsv](sources/class-video-transcripts/zgt-holy-priest-guide.tsv) | Holy Priest IDS/CoH role context and Tier 5 healing assignment implications |
+| KaghoeGaming, `Primal Mooncloth & Whitemend Set TBC Healer Gearing Guide` | https://www.youtube.com/watch?v=EWEcPcvMXmw | [txt](sources/class-video-transcripts/kaghoe-pmc-whitemend-healer-gearing.txt), [tsv](sources/class-video-transcripts/kaghoe-pmc-whitemend-healer-gearing.tsv) | Primal Mooncloth/Whitemend crafted-set context for healer token pressure |
 | Neuro Warrior Tank Phase 2 | https://www.youtube.com/watch?v=P-OCHhVcUko | [txt](sources/class-video-transcripts/neuro-warrior-tank-p2.txt), [tsv](sources/class-video-transcripts/neuro-warrior-tank-p2.tsv) | Prot Warrior Mallet, Fang, mitigation-first gearing, tank token constraints |
+| RoyalAshen, `TBC Protection Paladin Phase 2 Guide` | https://www.youtube.com/watch?v=EKkjS7GLg7I | [txt](sources/class-video-transcripts/royalashen-prot-paladin-p2.txt), [tsv](sources/class-video-transcripts/royalashen-prot-paladin-p2.tsv) | Prot Paladin uncrushable constraints, T5 helm/legs/gloves, T4 chest/shoulders, Darkener/Fang context |
+| Wundy TV, `(TBC Classic) Protection Paladin Phase 2 Best in Slot` | https://www.youtube.com/watch?v=hj73WJbobyQ | [txt](sources/class-video-transcripts/wundy-prot-paladin-p2-bis.txt), [tsv](sources/class-video-transcripts/wundy-prot-paladin-p2-bis.tsv) | Prot Paladin set routing, Fang fallback context, defensive/threat tradeoffs |
 | Griftin, `Do you want Leatherworking in Phase 2 - Feral Tanks` | https://www.youtube.com/watch?v=qy-ZzNVGYWs | [txt](sources/class-video-transcripts/griftin-feral-lw-p2.txt), [tsv](sources/class-video-transcripts/griftin-feral-lw-p2.tsv) | Leatherworking patterns, Nether Vortex pressure, Feral/Hunter crafted alternatives |
 | Prunes the Druid, `Looking to Phase 2: The State of Resto Druid in TBC Anniversary` | https://www.youtube.com/watch?v=9Hd7NlPWINk | [txt](sources/class-video-transcripts/prunes-resto-druid-p2.txt), [tsv](sources/class-video-transcripts/prunes-resto-druid-p2.tsv) | Resto Druid raid role, T5 relevance, healer context |
+| ZGT, `Everything You Need To Know: Resto Druid TBC` | https://www.youtube.com/watch?v=VZRLldT0388 | [txt](sources/class-video-transcripts/zgt-resto-druid-guide.txt), [tsv](sources/class-video-transcripts/zgt-resto-druid-guide.tsv) | Resto Druid spirit value, Tree of Life aura, Innervate, and healer role context |
 | ZGT, `Everything You Need To Know: Resto Shaman TBC` | https://www.youtube.com/watch?v=NcC9DdyWwTQ | [txt](sources/class-video-transcripts/zgt-resto-shaman.txt), [tsv](sources/class-video-transcripts/zgt-resto-shaman.tsv) | Resto Shaman role, Chain Heal, Earth Shield, healer utility context |
+| World of Warcraft Curios, `BEST IN SLOT Loot to Get in Phase 2 (Tank & Healer Edition)` | https://www.youtube.com/watch?v=5yhdccW8pRk | [txt](sources/class-video-transcripts/wow-curios-tank-healer-p2-bis.txt), [tsv](sources/class-video-transcripts/wow-curios-tank-healer-p2-bis.tsv) | Tank/healer cross-check for Lightfathom, Earring, Talisman, Darkener, healer rings/cloaks, and tank offpieces |
 
 ## Web Reference Index
 

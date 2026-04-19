@@ -1,0 +1,3671 @@
+start	duration	text
+00:00:11.759	2.88	greetings everyone melron here and
+00:00:13.200	3.68	welcome to the tbc
+00:00:14.639	3.92	classic advanced shaman guide part two
+00:00:16.880	3.04	this guide is a culmination of the hard
+00:00:18.560	3.36	work and dedication
+00:00:19.920	3.84	of members of the classic shaman discord
+00:00:21.920	2.56	over the duration of the beta i can't
+00:00:23.760	3.20	stress enough
+00:00:24.480	4.72	how amazing it is to see so many people
+00:00:26.960	3.84	with passion and dedication to get a guy
+00:00:29.199	2.96	like this out when you're done with this
+00:00:30.800	2.48	guide or if there's certain information
+00:00:32.160	2.40	you really thought was interesting
+00:00:33.280	2.72	please go over to the classic shop and
+00:00:34.559	2.96	discord and thank the individuals that
+00:00:36.000	2.32	are responsible i'll be going over who
+00:00:37.520	1.84	those people are
+00:00:38.320	2.72	during and at the end of the
+00:00:39.360	3.68	presentation as with all my guides there
+00:00:41.040	4.24	are time stamps and pin comment below
+00:00:43.040	3.52	and i use youtube annotations to break
+00:00:45.280	2.64	up the guide so there's certain parts of
+00:00:46.559	2.96	the guide you're interested in just
+00:00:47.920	3.60	use the annotations or the pinning
+00:00:49.520	3.68	comment also i'll be referencing a ton
+00:00:51.520	2.16	of work that have been done by many many
+00:00:53.199	1.76	people
+00:00:53.680	3.36	in the description of the video i'll
+00:00:54.960	3.92	have links to every piece of reference
+00:00:57.039	2.48	that i talk about it'll be a very large
+00:00:58.879	2.08	list so
+00:00:59.520	3.68	make sure you look through there and you
+00:01:00.960	4.48	can find either the best lists or the
+00:01:03.199	4.00	calculators i'm referencing or whatever
+00:01:05.439	3.28	that may be without further ado let's
+00:01:07.200	2.00	get started before we get into the guide
+00:01:08.720	2.40	itself
+00:01:09.200	3.12	i have to plug the shaman discord i'm a
+00:01:11.119	1.84	co-founder of the discord along with
+00:01:12.320	2.16	egregious
+00:01:12.960	2.96	this guide wouldn't exist if it wasn't
+00:01:14.479	2.48	for the people in the discord we have
+00:01:15.920	3.20	over 27
+00:01:16.960	3.92	000 members we cover both vanilla and
+00:01:19.119	3.28	tbc classic we have experienced and
+00:01:20.880	2.64	professional moderators and shaman
+00:01:22.400	2.96	trainers that can help you with any
+00:01:23.520	2.64	questions you may have we have extensive
+00:01:25.360	2.72	discussion on
+00:01:26.159	3.44	spec specific strategy theory craft
+00:01:28.080	3.28	leveling play improvements
+00:01:29.600	3.44	simulations any question you can think
+00:01:31.360	3.12	of professions something that you
+00:01:33.040	3.12	have a burning question of if you're
+00:01:34.479	3.68	playing shaman in either vanilla classic
+00:01:36.159	3.12	or tbc classic doesn't matter what spec
+00:01:38.159	2.64	you're doing you to suffer the service
+00:01:39.280	3.28	you're not part of the discord there are
+00:01:40.799	3.36	very very smart people in there that are
+00:01:42.560	2.00	willing to help with anything you may
+00:01:44.159	2.00	have
+00:01:44.560	2.96	there's a link in the description once
+00:01:46.159	3.12	you click that link you'll be navigated
+00:01:47.520	2.80	to a readme channel the first three
+00:01:49.280	2.72	reactions you'll see
+00:01:50.320	3.52	in the top posts in the channel will
+00:01:52.000	2.16	open up certain parts of the discord for
+00:01:53.840	2.08	you
+00:01:54.159	3.44	if you click on the vanilla classic
+00:01:55.920	3.36	reaction you'll only see vanilla classic
+00:01:57.600	3.68	content if you click on the tbc one you
+00:01:59.280	3.68	only see tpc content and yes we are
+00:02:01.280	3.44	already preparing for at the lich king
+00:02:02.960	3.28	classic if you click on more than one
+00:02:04.719	2.96	it'll open up all of the sections of the
+00:02:06.240	1.76	discord so if you're only interested in
+00:02:07.680	2.16	one
+00:02:08.000	3.36	expansion or one part of the game just
+00:02:09.840	3.20	click on the ones you're interested in
+00:02:11.360	3.52	and the discord will open up to you
+00:02:13.040	3.12	that's to gain access to the channels in
+00:02:14.879	2.72	the discord you've already probably
+00:02:16.160	3.04	noticed this is called advanced shopping
+00:02:17.599	3.20	guide part 2 for tbc
+00:02:19.200	3.28	classic that's because there was a part
+00:02:20.800	2.24	1 that came out before the beta was
+00:02:22.480	2.32	released
+00:02:23.040	3.20	and in that i said that i'm using
+00:02:24.800	2.00	private server data this may not be
+00:02:26.239	2.96	accurate
+00:02:26.800	4.16	and when i get access to the beta and
+00:02:29.200	3.44	when the discord gets access to the beta
+00:02:30.959	3.28	we'll be doing a part two and that's
+00:02:32.640	2.16	exactly what happened and interestingly
+00:02:34.239	2.56	enough
+00:02:34.800	4.40	there's a significant difference between
+00:02:36.800	3.04	private servers and tbc classic not so
+00:02:39.200	2.96	much the
+00:02:39.840	3.92	math behind spells and abilities but you
+00:02:42.160	2.96	know bosses are much different than we
+00:02:43.760	2.32	thought difficulty is a little bit
+00:02:45.120	2.32	different than we thought we thought it
+00:02:46.080	2.00	was going to be a pushover and it really
+00:02:47.440	2.32	isn't so
+00:02:48.080	3.68	it's interesting that we actually got
+00:02:49.760	3.68	access to the beta and we had more eyes
+00:02:51.760	3.12	on it than we ever have before and we
+00:02:53.440	2.72	found out some really interesting stuff
+00:02:54.879	3.28	and we're gonna be going over that in
+00:02:56.160	3.60	this guide part one is more basic
+00:02:58.159	3.36	it goes over you know basics for the
+00:02:59.760	3.36	class spells talents
+00:03:01.519	3.12	abilities why use a certain ability this
+00:03:03.120	3.04	one's gonna be a little more high gear
+00:03:04.640	2.96	and it's gonna be much quicker than the
+00:03:06.159	2.80	last one last one is three hours long
+00:03:07.599	2.48	this one will not be that long because
+00:03:08.959	2.56	we're gonna go over all the new
+00:03:10.080	2.72	theorycraft that's available and just
+00:03:11.519	2.96	confirmations that we've made on the
+00:03:12.800	3.60	beta part one is not specifically
+00:03:14.480	3.12	required to enjoy or understand we're
+00:03:16.400	2.00	gonna be over in this video but if
+00:03:17.599	2.00	you're lost
+00:03:18.400	2.24	you might want to go back to part one
+00:03:19.599	2.24	because we're going to go over more
+00:03:20.640	2.16	advanced topics this time
+00:03:21.840	2.24	and we're going to be skipping the more
+00:03:22.800	2.88	simple stuff so if you're interested in
+00:03:24.080	3.36	more simple stuff i try to do advanced
+00:03:25.680	3.52	shopping guide part one first and then
+00:03:27.440	3.60	watch this video and if you're even lost
+00:03:29.200	3.60	watching part one i have a lot of videos
+00:03:31.040	3.44	that i've made before in vanilla classic
+00:03:32.799	3.36	they go over like the basics of shaman
+00:03:34.480	2.88	so depending on where you are and how
+00:03:36.159	2.64	comfortable you feel with the class
+00:03:37.360	2.40	we'll dictate really which video you
+00:03:38.799	2.80	should be watching first
+00:03:39.760	3.28	all right table of contents the first
+00:03:41.599	3.52	section will be errors
+00:03:43.040	3.20	from advanced shaman guide part one
+00:03:45.120	1.44	pretty short but we're gonna go over
+00:03:46.239	2.24	that
+00:03:46.560	3.44	part two is spell coefficients and down
+00:03:48.480	3.12	ranking penalties this section will
+00:03:50.000	2.96	basically go over all the spell
+00:03:51.599	3.12	coefficients that i tested
+00:03:52.959	3.36	and confirmations i made on the beta
+00:03:54.720	3.44	part three will be general beta testing
+00:03:56.319	4.00	confirmations this is really isn't tied
+00:03:58.159	3.36	to any spec per se it's just stuff we
+00:04:00.319	2.72	found out about the class
+00:04:01.519	3.44	part four will be restoration theory
+00:04:03.040	3.12	crafting professions part five will be
+00:04:04.959	2.80	updated elemental
+00:04:06.159	2.88	theory crafting professions and part six
+00:04:07.760	2.80	will be updated enhancement theory
+00:04:09.040	3.36	crafted professions and then finally
+00:04:10.560	3.04	we're going over additional resources
+00:04:12.400	2.48	and we're giving the credits
+00:04:13.599	3.04	to the people who did the amazing work
+00:04:14.879	3.20	to make this guy okay let's go over
+00:04:16.639	4.08	errors that i made
+00:04:18.079	3.76	during tvc classic advantage on part one
+00:04:20.720	3.68	most of these are
+00:04:21.840	3.92	errors i made in transcribing what i was
+00:04:24.400	3.04	saying or typos
+00:04:25.759	3.44	so forgive me but let's just go over
+00:04:27.440	3.76	those the first thing is concerning
+00:04:29.199	4.16	haste i said in the video in the time it
+00:04:31.199	3.04	takes you to cast 100 spells you can now
+00:04:33.360	2.80	cast 99
+00:04:34.240	3.04	for each one percent of haste you get
+00:04:36.160	2.56	what i should have said was
+00:04:37.280	4.08	in the time it would normally take you
+00:04:38.720	4.40	to cast 99 spells you can now cast 100.
+00:04:41.360	3.44	haste also affects gcd
+00:04:43.120	3.44	attack speed but i was talking about
+00:04:44.800	3.28	spell casting concerning the elemental
+00:04:46.560	3.28	pet totems fire elemental totem and
+00:04:48.080	3.28	earth all melatonin i erroneously said
+00:04:49.840	2.96	that they have a shared 20 minute
+00:04:51.360	3.52	cooldown what i meant to say is they
+00:04:52.800	3.92	have independent 20 minute cooldowns but
+00:04:54.880	3.04	once one is used the other is put on
+00:04:56.720	2.64	cooldown for two minutes
+00:04:57.919	3.60	so you can't use both at the same time
+00:04:59.360	2.64	during the draenei slide i said that
+00:05:01.520	2.40	their
+00:05:02.000	3.60	shadow resists racial towards nature
+00:05:03.919	2.72	resistance that was a copy and past the
+00:05:05.600	2.80	error obviously
+00:05:06.639	3.60	shadow resistance skips plus 10 shadow
+00:05:08.400	3.28	resistance in the elemental theory craft
+00:05:10.240	3.04	section concerning lightning bolt and
+00:05:11.680	2.88	chain lining cast times i
+00:05:13.280	4.00	said that blizzard increased the
+00:05:14.560	4.80	coefficients by 13 to make up for the
+00:05:17.280	4.00	cast time reduction it's actually an 8
+00:05:19.360	3.60	increase i used the wrong calculation
+00:05:21.280	3.36	and said the wrong thing so it's an 8
+00:05:22.960	3.52	increase from what they should be if you
+00:05:24.639	3.76	take the cast time divided by 3.5
+00:05:26.479	4.24	during the troll race selection slide
+00:05:28.400	4.32	the text says regeneration provides mana
+00:05:30.720	3.52	regen which leads me to say mana when i
+00:05:32.720	2.80	say it that's obviously wrong it only
+00:05:34.240	3.20	affects health regen both
+00:05:35.520	3.68	inside and outside of combat not mana
+00:05:37.440	3.04	during the threat capping slide in the
+00:05:39.199	3.04	enhancement section i
+00:05:40.479	3.04	said that shamanism rage will fall off
+00:05:42.240	2.88	if you aren't attacking the target i
+00:05:43.520	2.40	meant to say unleashed rage if you
+00:05:45.120	2.56	aren't aware of this
+00:05:45.919	2.96	shaman are notorious for having talents
+00:05:47.680	2.40	and abilities that sound exactly the
+00:05:48.880	2.72	same finally there are a couple of
+00:05:50.080	2.96	mistakes i made with spell coefficients
+00:05:51.600	1.92	i'll explain where those are in the next
+00:05:53.039	2.00	section
+00:05:53.520	3.28	okay so about spell coefficients and
+00:05:55.039	2.80	down ranking penalties again i will not
+00:05:56.800	2.80	explain what these are
+00:05:57.840	3.36	part one explains what these are most of
+00:05:59.600	3.12	the spell code fishes i tested in tbc
+00:06:01.199	2.96	private server were correct and match
+00:06:02.720	2.48	the values i received in the beta client
+00:06:04.160	2.88	but we'll go over any
+00:06:05.199	3.20	inconsistencies and i'll point out the
+00:06:07.039	3.12	inconsistencies and things that i was
+00:06:08.400	3.60	surprised to see the downranking penalty
+00:06:10.160	4.40	is applied to all shaman spells
+00:06:12.000	4.40	except some totems flametongue weapon
+00:06:14.560	3.52	but not frostbrand and lightning shield
+00:06:16.400	3.28	the correct formula to calculate the drp
+00:06:18.080	3.12	depends on the spell actually however
+00:06:19.680	2.80	for the vast majority of spells the
+00:06:21.199	2.80	formula is as follows
+00:06:22.479	2.80	it's the level of the next rank that
+00:06:24.000	2.64	you're investigating not the one you're
+00:06:25.280	2.80	investigating so let's say
+00:06:26.639	3.04	you're looking at a spell and it was
+00:06:28.080	4.08	learned at level 20 and the next rank
+00:06:29.680	4.00	was learned at 28 you put 28 in this
+00:06:32.160	2.72	equation not 20. it's a level the next
+00:06:33.680	3.04	rank of spell minus one
+00:06:34.880	3.20	plus five divided by the character level
+00:06:36.720	2.56	that you currently are and that gets the
+00:06:38.080	3.20	downrigging coefficient which you'll
+00:06:39.280	3.44	multiply to the actual spell coefficient
+00:06:41.280	3.12	however for spells that have more than
+00:06:42.720	3.60	11 levels in between their spell
+00:06:44.400	3.04	ranks which is frost shock and some
+00:06:46.319	2.72	earth shock ranks
+00:06:47.440	3.28	the other formula from part one is
+00:06:49.039	3.28	actually more accurate it's the spell
+00:06:50.720	3.04	level of the spell you care about plus
+00:06:52.319	2.80	11 divided by your current character
+00:06:53.759	2.80	level and that gives you the direction
+00:06:55.120	4.08	coefficient if the result
+00:06:56.560	3.04	of these equations is one or more than
+00:06:59.199	2.48	one
+00:06:59.599	3.04	there is no downranking coefficient just
+00:07:01.680	2.32	make sure to keep that in mind if you're
+00:07:02.639	3.20	doing these calculations yourself let's
+00:07:04.000	2.24	go over the frost spells and abuse first
+00:07:05.840	2.32	first
+00:07:06.240	3.44	spell be frost shock now what's really
+00:07:08.160	3.44	interesting about this is
+00:07:09.680	3.60	i've always thought that the coefficient
+00:07:11.599	3.44	for this spell was 40
+00:07:13.280	3.84	the reason why it's 40 is because
+00:07:15.039	4.00	instant casts are considered 1.5 second
+00:07:17.120	5.84	casts for spell coefficient calculations
+00:07:19.039	5.52	1.5 divided by 3.5 is about 42.8 percent
+00:07:22.960	3.92	however since frosh shock has an
+00:07:24.560	3.36	additional effect it slows a target
+00:07:26.880	2.96	there's a 5
+00:07:27.919	3.28	penalty to the spell coefficient which
+00:07:29.840	2.88	is why i thought it was 40
+00:07:31.199	3.52	and that was what everyone thought
+00:07:32.720	3.76	forever basically but it's briefly been
+00:07:34.720	4.24	found out that the penalty
+00:07:36.479	3.28	for additional effects is actually 10
+00:07:38.960	3.44	not 5
+00:07:39.759	3.20	a 10 reduction to an instant cast spell
+00:07:42.400	4.08	is actually
+00:07:42.960	4.16	0.386 or 38.6 so this is actually pretty
+00:07:46.479	2.16	interesting
+00:07:47.120	2.96	it probably isn't interesting to you but
+00:07:48.639	2.96	people who actually test about
+00:07:50.080	3.04	coefficients a lot we've all thought
+00:07:51.599	2.88	that it was a five percent penalty to
+00:07:53.120	3.12	additional effect it's actually ten
+00:07:54.479	3.04	percent and i've vibrated that and thank
+00:07:56.240	2.80	you guang for
+00:07:57.520	2.80	finding this out for me and letting me
+00:07:59.039	2.24	know because we were all in the
+00:08:00.319	2.00	assumption that it was still five
+00:08:01.280	3.60	percent so anyway
+00:08:02.319	4.32	long story short all of the ranks work
+00:08:04.879	3.36	out there is a downranking penalty for
+00:08:06.639	3.28	frosh shock and there is no pre-20
+00:08:08.240	3.52	penalty because it's learned at level 20
+00:08:09.919	3.52	and with concussion which is a five
+00:08:11.759	2.48	percent increase to the coefficient in
+00:08:13.440	2.96	tbc
+00:08:14.240	3.84	not just to the damage we get up to
+00:08:16.400	3.44	forty point five percent that's what i
+00:08:18.080	3.68	got so concussion does affect the spell
+00:08:19.840	3.52	coefficient for frost shock frost brand
+00:08:21.759	3.52	weapon imbue the first rank is under
+00:08:23.360	2.64	level 20 so there is no pre-20 penalty
+00:08:25.280	3.04	however there
+00:08:26.000	4.08	are downranking penalties for the first
+00:08:28.319	3.44	four ranks it has a 10
+00:08:30.080	3.44	spell coefficient what we thought and
+00:08:31.759	3.20	that checks out and elemental weapons
+00:08:33.519	3.76	does increase by 5
+00:08:34.959	3.68	each rank for a total of 11.5 percent if
+00:08:37.279	2.96	you have elemental weapons
+00:08:38.640	3.12	the initial damage portion of flame
+00:08:40.240	3.36	shock actually is a 21
+00:08:41.760	3.92	spell coefficient and made a mistake in
+00:08:43.599	3.92	tbc part one i said it was higher than
+00:08:45.680	4.32	that it's 21 for the initial there is
+00:08:47.519	4.24	320 for the lower than level 20 ranks
+00:08:50.000	4.16	there's a downranking penalty and
+00:08:51.760	3.76	everything checks out 21 in the highest
+00:08:54.160	2.88	rank and if you have concussion it's
+00:08:55.519	4.88	boosted by another five percent
+00:08:57.040	5.52	to 22 so you do get a little bit of a
+00:09:00.399	3.44	boost with concussion to flame shocks
+00:09:02.560	2.96	initial damage portion
+00:09:03.839	3.68	very similar assorted with the periodic
+00:09:05.519	3.92	portion of flame shock periodic is a 10
+00:09:07.519	3.76	coefficient there's a 320 there's a down
+00:09:09.440	2.72	ranking and with concussion you get an
+00:09:11.279	3.12	extra 5
+00:09:12.160	3.60	so you get a 10.5 percent spell
+00:09:14.399	2.96	coefficient with concussion
+00:09:15.760	3.04	which of course is a nice boost to
+00:09:17.360	2.24	either elemental or enhancement shot if
+00:09:18.800	2.48	you have this talent
+00:09:19.600	4.16	searing to him is one of the totems that
+00:09:21.279	4.00	does not have a downranking penalty the
+00:09:23.760	2.96	math in here is what it would be if it
+00:09:25.279	1.92	did have a downranking penalty as you
+00:09:26.720	2.32	can see
+00:09:27.200	3.52	all the ranks except for the first rank
+00:09:29.040	2.88	which has a pre-20 penalty which still
+00:09:30.720	3.60	affects this totem
+00:09:31.920	4.08	has 16.7 percent of their spell power
+00:09:34.320	3.12	applied to it now if you do have call of
+00:09:36.000	3.20	flame that does increase
+00:09:37.440	3.36	the spell coefficient by five percentage
+00:09:39.200	2.88	rank of total of fifteen percent if you
+00:09:40.800	3.52	have all three ranks to
+00:09:42.080	3.84	nineteen point two percent magnitude
+00:09:44.320	3.52	very similar to searing totem there is
+00:09:45.920	2.16	no down ranking penalty there's also no
+00:09:47.839	1.68	pre
+00:09:48.080	4.32	twenty because your first rank is under
+00:09:49.519	4.80	level 26 it has a 6.7 percent
+00:09:52.399	3.60	spell coefficient per tick of magma
+00:09:54.320	4.16	totem and if you have call flame that
+00:09:56.000	4.48	was up to 7.71
+00:09:58.480	3.28	per tick next we have fire nova totem
+00:10:00.480	3.12	which for some reason
+00:10:01.760	3.28	has a downranking penalty first rank
+00:10:03.600	2.88	also has a pre-20 penalty this is
+00:10:05.040	3.04	interesting i don't know why
+00:10:06.480	3.12	siri and magma don't have generating
+00:10:08.079	3.12	penalties but firenova does
+00:10:09.600	3.36	i can't think of a practical reason why
+00:10:11.200	3.68	i've submitted all this information to
+00:10:12.959	3.44	blizzard via numerous bug reports
+00:10:14.880	3.28	i don't think it's a bug i think this is
+00:10:16.399	3.28	just how it was done so just keep that
+00:10:18.160	2.88	in mind call flame does increase the
+00:10:19.680	3.44	spell coefficient by 15
+00:10:21.040	4.00	just as it did with the other two totems
+00:10:23.120	5.12	goes from 21.4 percent
+00:10:25.040	4.64	to 24.6 the final fire spell or in view
+00:10:28.240	3.12	is flametongue what's interesting is
+00:10:29.680	3.28	there is no downranking penalty
+00:10:31.360	3.36	for flames on weapon but there is for
+00:10:32.959	3.60	frost brand i don't know why again this
+00:10:34.720	3.76	is this stump to me i don't understand
+00:10:36.560	3.36	why one would have one and not the other
+00:10:38.480	2.80	there is a pre-20 for the first two
+00:10:39.920	2.88	ranks though and that does affect the
+00:10:41.279	2.96	spell coefficient it's not hugely
+00:10:42.800	2.56	important you would never downrank a
+00:10:44.240	3.12	weapon imbue really
+00:10:45.360	3.44	so but just interesting kind of artifact
+00:10:47.360	2.88	i found elemental weapons just like
+00:10:48.800	3.52	frost brand does increase spell
+00:10:50.240	4.80	coefficient by five percent each rank
+00:10:52.320	3.28	for a boost from ten percent to eleven
+00:10:55.040	2.24	point five
+00:10:55.600	3.12	moving on to the nature spells lightning
+00:10:57.279	3.28	bolt the bread and butter of
+00:10:58.720	3.04	the elemental shaman so lightning bolt
+00:11:00.560	2.00	is interesting as we talked about in
+00:11:01.760	3.60	part one
+00:11:02.560	5.12	it went from a base three second cast to
+00:11:05.360	3.20	a base 2.5 second cast and with that
+00:11:07.680	2.48	came very
+00:11:08.560	3.28	small reduction in the spell coefficient
+00:11:10.160	3.52	lighting overload does make up for that
+00:11:11.839	3.20	but the spell coefficient four lightning
+00:11:13.680	4.40	bolt at least the
+00:11:15.040	4.24	2.5 second base ranks is point seven
+00:11:18.079	2.80	nine five or seventy nine point five
+00:11:19.279	3.44	percent essentially because i have no
+00:11:20.880	3.20	idea what the spell coefficient is for
+00:11:22.720	3.20	rank one and rank two
+00:11:24.079	3.12	because it's not the cast time divided
+00:11:25.920	2.64	by three point five they did some kind
+00:11:27.200	1.84	of weird math with lightning bolt so i'm
+00:11:28.560	1.92	not sure
+00:11:29.040	3.04	what those coefficients are supposed to
+00:11:30.480	3.28	be but they test out to be with the
+00:11:32.079	2.80	pre-20 penalty and the down ranking
+00:11:33.760	4.56	penalty to be about
+00:11:34.880	4.88	2.3 for rank 1 and 9.5 percent for rank
+00:11:38.320	2.96	2. again as you can see there is a
+00:11:39.760	3.44	pre-20 and a down ranking for
+00:11:41.279	3.60	lightning bolt rank 11 is the first
+00:11:43.200	4.00	non-penalized rank and you can see there
+00:11:44.880	3.52	that it tests at 79.5 percent that was
+00:11:47.200	2.96	interesting is if you do have storm
+00:11:48.399	2.80	strike applied to the target it does
+00:11:50.160	2.24	increase the spell coefficient of
+00:11:51.200	4.00	lightning bolt by 20
+00:11:52.399	4.96	boosting up to 95.4 if you have
+00:11:55.200	3.44	concussion concussion actually increases
+00:11:57.360	3.60	the spell coefficient of lightning bolt
+00:11:58.639	3.60	by one percent each rank so it's 83.5
+00:12:00.959	2.96	percent if you have 5 out of 5 in
+00:12:02.240	2.96	concussion and if you have concussion
+00:12:03.920	2.00	and you're benefiting from the storm
+00:12:05.200	2.96	strike buff
+00:12:05.920	3.76	your coefficient goes up to 100 so very
+00:12:08.160	3.20	interesting and there is synergy between
+00:12:09.680	2.96	storm strike and concussion so this is
+00:12:11.360	2.56	really good news for the elemental
+00:12:12.639	1.76	shamans out there not only do you get a
+00:12:13.920	1.76	boost
+00:12:14.399	2.88	from lightning overload to your
+00:12:15.680	2.16	effective spell coefficient but you get
+00:12:17.279	2.32	a boost
+00:12:17.839	3.36	from concussion and you could
+00:12:19.600	3.12	potentially steal some extra spell power
+00:12:21.200	3.12	from your enhancement shaman brethren
+00:12:22.720	3.28	moving on the chain lightning which is
+00:12:24.320	3.04	very similar to lightning bolt in that
+00:12:26.000	3.92	it had its cast time
+00:12:27.360	4.40	reduced from 2.5 to 2 in its base state
+00:12:29.920	2.88	there is no pre-20 penalty for
+00:12:31.760	2.48	chain lightning but there is a
+00:12:32.800	2.48	downranking penalty for the first four
+00:12:34.240	3.68	ranks the
+00:12:35.279	4.72	adjusted coefficient after the cast time
+00:12:37.920	3.52	reduction is 64.1 percent
+00:12:40.000	2.96	of course chain lane can also hit more
+00:12:41.440	3.28	than one target and hit up to three
+00:12:42.959	3.44	targets so with each bounce
+00:12:44.720	3.12	of chain lightning you see a reduction
+00:12:46.399	3.12	in the damage by thirty percent
+00:12:47.839	3.20	well the spell coefficient also is
+00:12:49.519	3.36	reduced by thirty percent with the jump
+00:12:51.040	3.04	if the first target receives 64.1
+00:12:52.880	2.88	percent of your spell power second
+00:12:54.079	4.00	target receives 44.9
+00:12:55.760	4.24	third target receives 31.4 and that's
+00:12:58.079	3.04	unbuffed i say i'm buff because storm
+00:13:00.000	2.64	strike can increase the spell
+00:13:01.120	2.00	coefficient just like lightning bolt by
+00:13:02.639	3.20	20
+00:13:03.120	4.24	to 76.9 percent concussion increases by
+00:13:05.839	2.00	one percent each rank for a total of
+00:13:07.360	1.92	sixty
+00:13:07.839	3.04	seven point three percent and if you
+00:13:09.279	2.40	have both you get up to eighty point
+00:13:10.880	2.48	eight percent
+00:13:11.680	3.20	just like lightning bolt the coefficient
+00:13:13.360	2.80	was reduced because of the cast iron
+00:13:14.880	3.04	reduction but you make up four with
+00:13:16.160	2.64	lighting overload and you make up for it
+00:13:17.920	2.80	with concussion
+00:13:18.800	3.12	and of course potentially storm strike
+00:13:20.720	2.40	if you want to steal some spell power
+00:13:21.920	2.16	just remember whatever the base
+00:13:23.120	3.20	coefficient is
+00:13:24.079	4.48	after any buffs you get jumps always are
+00:13:26.320	3.84	30 less than the jump before it as far
+00:13:28.560	2.88	as damage is concerned and the spell
+00:13:30.160	3.04	coefficient moving on the lightning
+00:13:31.440	3.60	shield lightning shield does not have a
+00:13:33.200	3.52	downranking penalty again don't know why
+00:13:35.040	3.12	it just doesn't it has a pre-level 20
+00:13:36.720	3.52	penalty for the first two ranks
+00:13:38.160	3.20	the coefficient for lightning shield
+00:13:40.240	2.56	it's one of those things that's been
+00:13:41.360	1.92	really kind of disputed in private
+00:13:42.800	2.48	servers
+00:13:43.279	4.40	everyone thought it was 33 per orb it
+00:13:45.279	5.20	was less than classic it was like 27
+00:13:47.680	5.12	it seems to be about 28 in tbc classic
+00:13:50.480	4.48	it's somewhere between that 27 28
+00:13:52.800	3.84	range you do get up to 33 percent with
+00:13:54.959	3.20	things like storm strike or improved
+00:13:56.639	2.16	lightning shield so i'm wondering if
+00:13:58.160	2.32	people
+00:13:58.800	3.04	maybe somewhere thought they had
+00:14:00.480	2.24	improved lightning shield they saw was
+00:14:01.839	2.40	33
+00:14:02.720	3.12	and they recorded it as that just keep
+00:14:04.240	2.80	in mind that the base coefficient is
+00:14:05.839	3.12	approximately 20
+00:14:07.040	3.76	per orb with storm strike again that's a
+00:14:08.959	3.12	20 buff if you have storm track applied
+00:14:10.800	2.40	to the target and they hit you and
+00:14:12.079	3.60	lightning shield procs
+00:14:13.199	3.84	it receives 33.7 of your spell power if
+00:14:15.680	2.48	you have improved lightning shield each
+00:14:17.040	2.40	rank of improved lightning shield
+00:14:18.160	3.28	increases it by 5
+00:14:19.440	3.76	for a total of 15 and that brings the
+00:14:21.440	3.28	coefficient to 32.3
+00:14:23.199	2.80	and if both are applied if you have
+00:14:24.720	2.56	storm strike affecting the spell
+00:14:26.000	3.36	coefficient and improved lightning
+00:14:27.279	4.64	shield because of the 38.8
+00:14:29.360	3.84	so there is synergy between storm strike
+00:14:31.920	2.48	and improved lightning shield
+00:14:33.199	2.24	but again there is no downranking
+00:14:34.399	2.64	penalty you could downrank it
+00:14:35.440	3.44	effectively if you'd like for some extra
+00:14:37.040	3.36	damage could be nice in pvp if you just
+00:14:38.880	1.92	don't need man as an enhancement shaman
+00:14:40.399	1.92	or an
+00:14:40.800	3.28	elemental shaman to do some additional
+00:14:42.320	3.60	damage for less mana our last nature
+00:14:44.079	2.80	spell is earth shock earth shock just
+00:14:45.920	2.96	like frost shock
+00:14:46.880	3.28	has a 10 reduction to the spell
+00:14:48.880	2.80	coefficient because of its
+00:14:50.160	3.12	additional effect earth shock is an
+00:14:51.680	2.88	interrupt and because it has that
+00:14:53.279	2.88	additional effect in addition to the
+00:14:54.560	3.28	damage it receives a 10
+00:14:56.160	3.12	reduction to the spell coefficient so
+00:14:57.839	2.80	just like frost shock i originally
+00:14:59.279	3.04	thought this was a forty percent spell
+00:15:00.639	3.28	coefficient but since it's a ten percent
+00:15:02.320	3.52	reduction it's thirty eight point six
+00:15:03.920	3.52	percent urshak has a pre-20 penalty for
+00:15:05.839	2.16	its lower ranks as a down ranking
+00:15:07.440	2.56	penalty
+00:15:08.000	3.36	and it is affected by both storm strike
+00:15:10.000	2.96	and concussion just like
+00:15:11.360	3.04	the other nature spells so storm strike
+00:15:12.959	3.20	will increase by twenty percent to get
+00:15:14.399	3.28	up to forty six point three percent and
+00:15:16.160	2.40	concussion will increase it by one
+00:15:17.680	3.20	percentage rank
+00:15:18.560	4.32	to forty point five percent and if both
+00:15:20.880	3.52	are active or applied you can get up to
+00:15:22.880	2.72	forty eight point six percent so it's
+00:15:24.399	3.12	nice that you can boost
+00:15:25.600	3.36	this damage of this shock you're not
+00:15:27.519	2.80	gonna be using it very much as elemental
+00:15:28.959	3.44	but you will be using in pvp
+00:15:30.320	3.04	so that's nice and enhancement depending
+00:15:32.399	2.56	on your build
+00:15:33.360	3.28	you may go with a concussion and that
+00:15:34.959	3.44	will increase your dps moving on to the
+00:15:36.639	2.24	healing spells healing wave which is the
+00:15:38.399	2.88	most
+00:15:38.880	4.16	basic healing spell it's the long
+00:15:41.279	3.36	healing spell that shamans will use
+00:15:43.040	4.56	single target mostly for tank healing
+00:15:44.639	4.64	the coefficient is 85.7 percent exactly
+00:15:47.600	3.28	what it was in classic there are pre-20
+00:15:49.279	2.96	penalties for the first four ranks and
+00:15:50.880	2.72	then downranking penalties for the first
+00:15:52.240	3.12	10 ranks purification
+00:15:53.600	3.12	and healing away both increase the spell
+00:15:55.360	3.12	coefficient of this heal
+00:15:56.720	3.04	purification increases by two percentage
+00:15:58.480	4.08	rank for a total of 10
+00:15:59.759	3.92	million the coefficient to 94.3 if you
+00:16:02.560	3.12	have healing way
+00:16:03.680	3.44	each stack of healing weight you apply
+00:16:05.680	2.96	to the target you're healing will
+00:16:07.120	2.48	increase the spell coefficient by six
+00:16:08.639	2.64	percent so with
+00:16:09.600	3.04	three stacks of healing away it'll
+00:16:11.279	4.56	increase it by 18
+00:16:12.639	4.32	moving it up to 101 spell coefficient if
+00:16:15.839	3.04	you have purification
+00:16:16.959	4.64	and healing way applied to the target
+00:16:18.880	4.88	you move up to 111
+00:16:21.600	4.16	spell coefficient so much higher than
+00:16:23.759	3.68	actual spell power purification is much
+00:16:25.759	3.12	more powerful than it was in classic and
+00:16:27.440	2.56	because of this so is healing way
+00:16:28.880	3.36	definitely want these talents if you're
+00:16:30.000	4.00	healing in tbc classic as a shaman now
+00:16:32.240	2.16	on to lesser healing wave lesser healing
+00:16:34.000	2.64	wave
+00:16:34.399	3.84	has a 42.9 percent spell coefficient
+00:16:36.639	3.20	because of its short cast time there is
+00:16:38.240	3.44	a downrank penalty for lesser early wave
+00:16:39.839	3.44	for the first five ranks purification
+00:16:41.680	4.80	increases the spell coefficient by
+00:16:43.279	6.16	10 with 5 out of 5 and boosts the spell
+00:16:46.480	3.52	coefficient from 42.9 percent to 47.1
+00:16:49.440	2.08	percent
+00:16:50.000	3.60	just keep in mind guys i keep saying
+00:16:51.519	2.64	that x has a downward penalty for the
+00:16:53.600	2.64	first
+00:16:54.160	3.68	y ranks that's only for level 70.
+00:16:56.240	3.28	remember downrank and penalty is
+00:16:57.839	3.52	dependent upon the level you are
+00:16:59.519	3.36	currently right so if you're level 60
+00:17:01.360	3.12	the downranking penalty looks way
+00:17:02.880	3.36	different than it does at 70. so just
+00:17:04.480	3.20	know that the equation you're using if
+00:17:06.240	2.64	you're lower level and you're using
+00:17:07.679	2.80	lower ranks of spells
+00:17:08.880	3.20	those ranks may not receive a penalty
+00:17:10.480	2.96	because of the level you are everything
+00:17:12.079	2.40	i present here is assuming you're level
+00:17:13.439	2.40	70. so if you're
+00:17:14.480	2.80	a lower level than that you're going to
+00:17:15.839	2.16	recalculate all of these spell
+00:17:17.280	2.96	coefficients
+00:17:18.000	3.76	moving on to the most used heal for
+00:17:20.240	2.56	shaman chain heal there really aren't
+00:17:21.760	3.68	any surprises here
+00:17:22.799	4.56	chain heal receives a 50 reduction in
+00:17:25.439	3.36	its effect each jump that also affects
+00:17:27.360	2.80	the coefficient just like the chain
+00:17:28.799	2.64	lightning has a 30 percent
+00:17:30.160	3.20	reduction and that affects the
+00:17:31.440	2.24	coefficient chain heal operates the same
+00:17:33.360	2.36	way
+00:17:33.679	4.72	the base coefficient for chain heal is
+00:17:35.720	4.92	71.4 percent same as it was in classic
+00:17:38.400	4.16	the second target is a 50 reduction so
+00:17:40.640	2.88	it's 35.7 percent and then the third
+00:17:42.559	3.28	target has a 50
+00:17:43.520	3.92	reduction from that 17.9 percent
+00:17:45.840	2.80	purification does increase the spell
+00:17:47.440	2.80	coefficient just like it does with the
+00:17:48.640	2.64	other heals by two percent each rank for
+00:17:50.240	3.12	total 10
+00:17:51.280	4.08	so with purification your main target
+00:17:53.360	4.40	will receive 70.5 percent of
+00:17:55.360	3.92	your spell power second target 39.3
+00:17:57.760	3.60	third 19.6
+00:17:59.280	3.60	however we also have a new talent in tbc
+00:18:01.360	3.28	classic called improved chain heal which
+00:18:02.880	3.28	has two ranks and increases the effect
+00:18:04.640	2.32	and the spell coefficient of chain heal
+00:18:06.160	2.64	by 10
+00:18:06.960	3.44	each rank for a total of 20 so with
+00:18:08.799	4.96	improved chain heal it gets boosted to
+00:18:10.400	5.76	85.7 percent of your primary target 42.9
+00:18:13.760	4.24	on your secondary target and 21.4 from
+00:18:16.160	2.88	your tertiary target if you have both
+00:18:18.000	2.88	there is synergy
+00:18:19.039	4.00	and your primary target will receive
+00:18:20.880	4.32	94.2 percent of your spell power your
+00:18:23.039	5.12	second target will see 47.1
+00:18:25.200	4.40	and your third 23.6 you definitely want
+00:18:28.160	3.28	these two talents if you're healing as a
+00:18:29.600	3.20	shaman for obvious reasons chain heal is
+00:18:31.440	2.24	your most used spell and this makes it
+00:18:32.799	3.44	much more powerful
+00:18:33.679	4.40	so definitely use these talents the next
+00:18:36.240	3.44	is healing stream totem which like
+00:18:38.080	3.12	some of the other totems does not have a
+00:18:39.679	2.32	downranking penalty as there is also no
+00:18:41.200	2.08	pre-20 penalty
+00:18:42.000	2.96	because the first rank is under level
+00:18:43.280	4.08	20. now healing stream total receives
+00:18:44.960	2.80	4.5 percent of your available healing
+00:18:47.360	2.00	power
+00:18:47.760	3.04	each tick now is interesting is that
+00:18:49.360	3.28	restorative totems which
+00:18:50.799	4.00	did not affect spell coefficient vanilla
+00:18:52.640	3.84	classic increases the spell coefficient
+00:18:54.799	2.88	of this totem by five percent each rank
+00:18:56.480	3.04	for a total of twenty five percent
+00:18:57.679	3.12	boosting it to five point six percent of
+00:18:59.520	2.72	your spell power each tick
+00:19:00.799	3.52	purification just like all the other
+00:19:02.240	3.52	spells increases by two percent each
+00:19:04.320	3.44	rank if you have five out of five
+00:19:05.760	3.52	it'll boost to four point nine five
+00:19:07.760	2.24	percent of your spell power each tick
+00:19:09.280	3.92	and if you have both
+00:19:10.000	5.36	there is synergy boosting to 6.19 of
+00:19:13.200	4.32	your spell power each tick of healing
+00:19:15.360	2.64	stream totem moving on to the 41 point
+00:19:17.520	2.72	talent
+00:19:18.000	3.68	for tbc classic for rest of shaman earth
+00:19:20.240	2.96	shield there are three ranks of earth
+00:19:21.679	3.28	shield there is a downrigging penalty
+00:19:23.200	3.04	just for the first rank at level 70
+00:19:24.960	2.24	while the other two ranks do not have a
+00:19:26.240	4.64	down ranking penalty
+00:19:27.200	6.40	the coefficient for earth shield is 28.6
+00:19:30.880	3.84	for each charge there are six charges so
+00:19:33.600	4.08	28.6
+00:19:34.720	4.16	for each charge which is 171.6 of your
+00:19:37.679	2.72	spell power for all six
+00:19:38.880	3.04	earth shield however is affected by
+00:19:40.400	3.20	purification which increases the spell
+00:19:41.919	3.44	coefficient by two percent each rank for
+00:19:43.600	3.76	total ten percent so at five out of five
+00:19:45.360	4.96	you'll get 31.5 percent of your spell
+00:19:47.360	4.56	power each charge for a total of 188.8
+00:19:50.320	2.88	percent of your spell power for all six
+00:19:51.919	3.20	charges purification
+00:19:53.200	3.76	obviously is a very very beneficial
+00:19:55.120	3.28	talent in tpc classic for rest of shaman
+00:19:56.960	2.80	because it affects all of your heals
+00:19:58.400	3.12	moving on to the final spell coefficient
+00:19:59.760	3.04	we'll be talking about gifted the naaru
+00:20:01.520	3.12	which is a heel even though it's a
+00:20:02.799	2.56	racial so i tested it as well gift of
+00:20:04.640	4.00	the naaru
+00:20:05.360	4.72	is a 15 second hot you can put on
+00:20:08.640	3.36	yourself or another ally
+00:20:10.080	3.28	it heals five times in that 15 seconds
+00:20:12.000	4.32	so it ticks every three seconds
+00:20:13.360	3.76	and receives in total 100 of your spell
+00:20:16.320	3.20	power so
+00:20:17.120	3.84	if you put it on a target you'll receive
+00:20:19.520	3.28	100 of your spell power over the
+00:20:20.960	3.76	duration of the spell just like most
+00:20:22.799	3.68	healing overtimes like renew and stuff
+00:20:24.720	3.44	like that is very similar purification
+00:20:26.480	2.80	however does increase spell coefficient
+00:20:28.159	2.80	of the spell by 10
+00:20:29.280	3.28	so you actually receive 110 of your
+00:20:30.960	3.04	spell power with 5 out of 5
+00:20:32.559	3.60	for a gift of the naaru something to
+00:20:34.000	4.16	keep in mind so it is not a waste
+00:20:36.159	3.12	to use it can be interesting considering
+00:20:38.159	2.88	shaman don't have a hot
+00:20:39.280	3.36	as a draenei rest of shaman you will
+00:20:41.039	2.96	have a hot every three minutes which
+00:20:42.640	3.28	isn't great but at least you'll have it
+00:20:44.000	3.52	and it is good kick bait in pvp as i
+00:20:45.919	2.08	said before because it doesn't belong to
+00:20:47.520	2.24	a school
+00:20:48.000	2.96	so if you cast it and you get kicked it
+00:20:49.760	2.64	won't lock you out of your other heels
+00:20:50.960	3.36	moving on to the next section which is
+00:20:52.400	3.44	general beta findings and confirmations
+00:20:54.320	2.96	it's a random assortment of things we
+00:20:55.840	2.96	found out during the beta that we
+00:20:57.280	3.20	thought was important to put into the
+00:20:58.799	3.20	video so i'll be going over all of them
+00:21:00.480	3.28	in a more of a rapid-fire
+00:21:02.000	3.44	kind of sense i'll do my absolute best
+00:21:03.760	2.96	to describe why it's important and if
+00:21:05.440	3.12	you have any further questions on a
+00:21:06.720	3.84	specific finding just go to the shaman
+00:21:08.559	3.52	discord go to the channel that you think
+00:21:10.559	3.04	it should be talked about in and just
+00:21:12.080	2.88	ask a question and one of us will get
+00:21:13.600	2.88	back to you as soon as we can alright
+00:21:14.960	2.56	this is just the generic findings i've
+00:21:16.480	2.56	already talked about the downrange
+00:21:17.520	3.44	penalty but the most accurate formula is
+00:21:19.039	3.04	the level of the next rank not the rank
+00:21:20.960	3.36	you're interested in the level of the
+00:21:22.080	4.00	next rank minus one plus five divided by
+00:21:24.320	3.20	your current level and as i said there
+00:21:26.080	2.96	are some spells like frosh shock and
+00:21:27.520	3.28	some of the earth shock ranks that
+00:21:29.039	3.76	are trained at higher intervals like
+00:21:30.799	3.92	every 12 levels and in that case
+00:21:32.799	3.52	you'll use the spell level of the rank
+00:21:34.720	2.80	you're interested in plus 11 divided by
+00:21:36.320	2.40	your current level to get a more
+00:21:37.520	3.20	accurate description of the spell
+00:21:38.720	4.08	coefficient repeatable turn in quests
+00:21:40.720	3.12	have been nerfed the zg coin and bg
+00:21:42.799	2.48	turnings that everyone thought were
+00:21:43.840	3.36	going to provide a bunch of
+00:21:45.280	4.16	experience when you first get into the
+00:21:47.200	2.88	tvc to boost you from level 60 to like
+00:21:49.440	2.64	62
+00:21:50.080	3.04	having nerf so that isn't allowed it's
+00:21:52.080	3.04	kind of against the
+00:21:53.120	3.60	development of a game to have people
+00:21:55.120	2.88	bypass the leveling process you may
+00:21:56.720	2.80	disagree with me but that's something
+00:21:58.000	2.72	that i feel really passionate about so
+00:21:59.520	3.36	blizzard has nerf those
+00:22:00.720	4.08	totems stop macros work in the game
+00:22:02.880	3.84	these are used in pvp to kill
+00:22:04.799	3.28	shaman totem so be aware that if you're
+00:22:06.720	3.20	pvp as a shaman
+00:22:08.080	3.36	skilled players will have macros that
+00:22:09.919	3.28	immediately target your totem and kill
+00:22:11.440	3.92	it this can be beneficial in the way
+00:22:13.200	3.68	remember stone claw totem has a 50
+00:22:15.360	3.28	chance to stun your target so
+00:22:16.880	3.12	people who are really anal about killing
+00:22:18.640	2.96	your totems you could bait them with
+00:22:20.000	2.88	that just something to keep in mind but
+00:22:21.600	2.40	this is generally just something to keep
+00:22:22.880	2.72	in mind if you're pvp
+00:22:24.000	3.04	to know that people will be able to
+00:22:25.600	2.72	select your totems immediately and kill
+00:22:27.039	3.44	them if you put them down so
+00:22:28.320	3.20	use your totems strategically potion
+00:22:30.480	3.28	cooldowns
+00:22:31.520	3.20	count down while logged off this also
+00:22:33.760	3.36	happens in
+00:22:34.720	3.92	classic say you pop the potion and has a
+00:22:37.120	3.52	two minute cooldown so you can pop
+00:22:38.640	3.52	another potion if you log out the potion
+00:22:40.640	3.20	cd will continue to count down
+00:22:42.159	3.84	while the effect of the potion will not
+00:22:43.840	4.48	so you could potentially
+00:22:46.000	4.08	get in an extra resistance potion this
+00:22:48.320	3.44	way or other types of things just come
+00:22:50.080	4.48	to keep in mind now bloodlust
+00:22:51.760	4.56	and drums buffs are retained on group
+00:22:54.559	4.08	swapping now this is very important
+00:22:56.320	3.36	let's say you are a warrior and you give
+00:22:58.640	3.04	your party
+00:22:59.679	3.84	battle shout and then the raid leader
+00:23:01.679	3.28	moves you to a different party you'll
+00:23:03.520	3.44	still have battle shout because you
+00:23:04.960	3.04	casted it but those four people that you
+00:23:06.960	2.96	left in the other group
+00:23:08.000	3.36	will lose battle shout immediately that
+00:23:09.919	1.84	is intended that's the way it's supposed
+00:23:11.360	2.24	to work
+00:23:11.760	3.20	same thing happens with totem effects so
+00:23:13.600	2.96	say you are a shaman and your
+00:23:14.960	3.20	enhancement and you put down gray severe
+00:23:16.559	3.28	totem and you're moved out of the group
+00:23:18.159	3.20	to bloodlust another group which is
+00:23:19.840	3.60	associated what we're talking about here
+00:23:21.360	3.76	the individuals that you left
+00:23:23.440	3.28	no longer have your race of air buff and
+00:23:25.120	3.28	your new group does that's how that's
+00:23:26.720	2.88	supposed to work however bloodlust and
+00:23:28.400	3.52	drums work differently
+00:23:29.600	3.28	if you cast bloodlust in a group and you
+00:23:31.919	2.64	leave that group
+00:23:32.880	3.84	the previous group the group you just
+00:23:34.559	3.92	left still has blood lust and they still
+00:23:36.720	3.76	are benefiting from it drums work the
+00:23:38.480	3.68	same way if you cast drums in a group
+00:23:40.480	3.12	and you guys are in a close enough range
+00:23:42.159	2.16	you'll all get the drums benefit and
+00:23:43.600	2.32	then you can move
+00:23:44.320	3.36	out of that group and they'll retain the
+00:23:45.919	2.56	drums benefit so this is very important
+00:23:47.679	3.36	because
+00:23:48.480	4.88	one of the strategies around bloodlust
+00:23:51.039	3.60	in tbc and this is only existed in tbc
+00:23:53.360	3.60	it doesn't exist in rats because of
+00:23:54.640	4.16	things like sated you are able to
+00:23:56.960	3.28	strategize how you bloodlust each
+00:23:58.799	2.32	encounter and you'll be able to move
+00:24:00.240	3.04	shawn around
+00:24:01.120	4.00	to kill a boss the most strategic way
+00:24:03.279	3.44	maybe this most strategic way is buffing
+00:24:05.120	2.96	all your hunters maybe it's buffing your
+00:24:06.720	2.72	warlocks or maybe it's not maybe it's
+00:24:08.080	2.72	buffing your melee maybe it's buffing
+00:24:09.440	2.00	the whole raid you have the choice in
+00:24:10.799	1.84	tbc
+00:24:11.440	3.04	and you could say well this could lead
+00:24:12.640	2.24	to some you know bad metas and stuff
+00:24:14.480	1.76	like that
+00:24:14.880	3.04	i don't think it's going to be as bad as
+00:24:16.240	2.96	people think because each boss is
+00:24:17.919	2.64	different the strategies that kill each
+00:24:19.200	2.80	bosses will be different and what i've
+00:24:20.559	3.36	seen so far in karazhan
+00:24:22.000	3.52	and girls and mags is that you don't
+00:24:23.919	2.48	want to just stack bloodlust on one
+00:24:25.520	3.92	party because
+00:24:26.400	4.32	the damage outputs vary than what they
+00:24:29.440	1.92	do in private servers and so do
+00:24:30.720	1.92	mechanics
+00:24:31.360	2.96	just keep in mind that you have this
+00:24:32.640	3.52	option as a raid leader and tell your
+00:24:34.320	3.44	other shaman and your related about this
+00:24:36.159	4.00	this is very important let's go over the
+00:24:37.760	4.24	spell confirmations totem of wrath crit
+00:24:40.159	3.84	and hit is currently stacking
+00:24:42.000	4.08	yes if you have more than one elemental
+00:24:44.000	4.56	shaman in your group and you have the 41
+00:24:46.080	4.24	point talent you can stack the effects
+00:24:48.559	3.76	of total wrath so let's say
+00:24:50.320	3.60	you know you're a warlock and you have
+00:24:52.320	4.40	four elemental shaman with you
+00:24:53.919	3.92	you can get an extra 12 crit and 12 hit
+00:24:56.720	2.72	i don't know if this is a bug i don't
+00:24:57.840	3.44	know if this is gonna stay forever but
+00:24:59.440	3.68	this is how it's working right now wind
+00:25:01.279	3.60	fury weapon has a three second icd
+00:25:03.120	3.28	we all knew that when fury's totem has
+00:25:04.880	3.20	no icd the win free tone you're
+00:25:06.400	3.20	providing to your melee group as an
+00:25:08.080	3.36	enhancement shaman or whatever shaman
+00:25:09.600	3.68	you are in a five man they don't have a
+00:25:11.440	2.24	three second icd but the weapon imbue
+00:25:13.279	2.88	does
+00:25:13.679	3.84	and no it doesn't mean using the totem
+00:25:16.159	3.60	is better for dps
+00:25:17.520	4.40	remember the totem only provides one
+00:25:19.760	3.84	extra attack for less bonus attack power
+00:25:21.919	3.68	and it can only proc on your main hand
+00:25:23.600	3.68	it's not worth it don't use it use win
+00:25:25.600	2.48	for your weapon on both your main hand
+00:25:27.279	2.32	and off hand
+00:25:28.080	3.60	if you're going to dps's enhancement
+00:25:29.600	2.72	shot earth shield snapshots this is
+00:25:31.679	2.32	really cool
+00:25:32.320	3.92	so does divine spirit on priests but
+00:25:34.000	4.56	what this means is let's say you have
+00:25:36.240	3.92	a on use trinket that increases your
+00:25:38.559	2.32	spell power but you don't want to use
+00:25:40.159	3.12	that trinket
+00:25:40.880	4.24	in combat for the boss encounter you can
+00:25:43.279	4.08	pop the trinket put earth shield
+00:25:45.120	3.28	on your tank take off the trinket before
+00:25:47.360	2.80	you engage the boss
+00:25:48.400	3.44	to the trigger you do want to use and
+00:25:50.159	3.84	that first earth shield those six
+00:25:51.840	4.08	charges of earth's shield the tank has
+00:25:54.000	4.00	will receive the extra spell power that
+00:25:55.919	3.36	you used when you cast it this is really
+00:25:58.000	2.56	cool and i think it's uh
+00:25:59.279	3.68	just an extra little flavorful thing
+00:26:00.559	3.12	that resto shamans can use in pvp and
+00:26:02.960	2.72	pve
+00:26:03.679	3.76	to maybe enhance an earth shield stone
+00:26:05.679	3.52	claw totem does not break stealth didn't
+00:26:07.440	3.20	mean classic and it does it in tbc
+00:26:09.200	2.80	so don't try to use it to break stealth
+00:26:10.640	3.28	but it did on private servers and that's
+00:26:12.000	2.72	why it's in here trimmer totem ticks on
+00:26:13.919	2.80	application
+00:26:14.720	3.84	and then ticks every subsequent three
+00:26:16.720	3.04	seconds afterwards travertine seemed to
+00:26:18.559	3.04	work a little bit better in private
+00:26:19.760	2.08	servers than it did in tbc classic we
+00:26:21.600	1.52	thought
+00:26:21.840	2.88	that was the correct way it was supposed
+00:26:23.120	3.44	to work it works just as it did in
+00:26:24.720	3.36	vanilla classic and therefore it's just
+00:26:26.559	2.96	as unreliable as it was in vanilla
+00:26:28.080	3.36	classic it's not something you can rely
+00:26:29.520	3.76	on remember though if you're not feared
+00:26:31.440	3.44	and someone in your party is feared if
+00:26:33.279	3.60	you drop it immediately it will cleanse
+00:26:34.880	4.00	the fear so make sure to use it that way
+00:26:36.880	4.00	if you can when fury totem hits our
+00:26:38.880	4.00	whites when fury weapon hits
+00:26:40.880	3.92	are yellow so what that means is
+00:26:42.880	3.36	windfury totem which is the benefit
+00:26:44.799	3.52	you're providing to other melee in your
+00:26:46.240	4.96	group the extra attacks that it provides
+00:26:48.320	4.96	are white hits which means they are on a
+00:26:51.200	3.60	two roll system when fury weapon
+00:26:53.279	3.28	the buff you put to yourself is the
+00:26:54.799	3.68	enhancement shaman the extra attacks are
+00:26:56.559	4.08	yellow and they're on a one roll system
+00:26:58.480	3.92	they cannot glance if they're yellow and
+00:27:00.640	3.04	they are subject to some other different
+00:27:02.400	2.56	mechanics too if you don't understand
+00:27:03.679	3.28	what i'm talking about one roll versus
+00:27:04.960	4.00	two roll i have a video that i did a
+00:27:06.960	3.84	while ago from vanilla classic called
+00:27:08.960	3.52	melee mechanics guide and it goes into
+00:27:10.799	3.12	kind of what i mean by one roll versus
+00:27:12.480	3.04	two roll there's no more glancing
+00:27:13.919	2.96	reduction in tbc than it was there
+00:27:15.520	3.12	wasn't vanilla but still this is
+00:27:16.880	3.28	beneficial for us let's just make it
+00:27:18.640	3.20	clear that that's what it is as
+00:27:20.159	3.44	shaman lightning shield does not
+00:27:21.840	3.36	snapshot i just explained that you could
+00:27:23.600	3.04	snapshot with earthshield you can't do
+00:27:25.200	3.52	that with lightning shield so don't try
+00:27:26.640	3.44	wind fury on main hand and offhand leads
+00:27:28.720	3.44	to a 36
+00:27:30.080	3.60	chance to proc outside the three second
+00:27:32.159	3.12	icd i will explain
+00:27:33.679	3.76	what this means in depth in the
+00:27:35.279	2.56	enhancement section overall though if
+00:27:37.440	2.40	you
+00:27:37.840	3.76	look at the entire encounter the chance
+00:27:39.840	3.36	the proc wind fury is still 20
+00:27:41.600	3.68	i'll explain why that is wind sherry
+00:27:43.200	2.48	hits function as additional hits and can
+00:27:45.279	2.88	proc
+00:27:45.679	4.64	on hit effects but not on equip effects
+00:27:48.159	3.92	so essentially if your weapon has a
+00:27:50.320	2.40	on-hit effect when fury additional
+00:27:52.080	2.64	attacks
+00:27:52.720	3.44	can proc those effects and this is a lot
+00:27:54.720	2.80	of the work that gideon ai has been
+00:27:56.159	2.48	doing and i will be talking about his
+00:27:57.520	3.36	work and where he can find
+00:27:58.640	3.36	his discord later on magma totem and
+00:28:00.880	3.44	fire nova totem are
+00:28:02.000	3.76	aoe capped you've probably heard in the
+00:28:04.320	2.96	news somewhere that there's an a week
+00:28:05.760	3.12	cap that was introduced in tbc
+00:28:07.279	3.44	classic and then it's going to destroy
+00:28:08.880	3.36	mages boosting people
+00:28:10.720	3.28	whatever that doesn't really affect us
+00:28:12.240	2.72	but what it does affect us is that in
+00:28:14.000	2.80	tbc
+00:28:14.960	3.04	outside of a few spells like flame
+00:28:16.799	3.44	strike and consecrate
+00:28:18.000	3.84	spells that have an aoe are capped in
+00:28:20.240	2.08	the total amount of damage they can
+00:28:21.840	2.24	produce
+00:28:22.320	3.04	if you're hitting more than 10 targets
+00:28:24.080	2.96	the damage is capped
+00:28:25.360	3.76	to a total amount of damage so that each
+00:28:27.039	2.64	target after 10 targets receives less
+00:28:29.120	2.56	damage
+00:28:29.679	3.36	so it doesn't really affect us very much
+00:28:31.679	3.20	in pve there's only a few
+00:28:33.039	4.16	instances where it does so far in the
+00:28:34.880	3.60	beta in the botanica at the end of
+00:28:37.200	2.96	botanica there's like
+00:28:38.480	3.12	all those threshers that come out
+00:28:40.159	2.24	there's like 30 of them and you'll
+00:28:41.600	2.64	notice that
+00:28:42.399	3.20	magma will do a lot less damage on them
+00:28:44.240	3.12	because there's so many of them dark
+00:28:45.600	3.04	runes cannot proc water shield dark
+00:28:47.360	2.80	ruins do damage to you
+00:28:48.640	3.92	as part of the effect to increase your
+00:28:50.159	4.80	mana you sacrifice health for mana that
+00:28:52.559	3.44	hit that sacrifice of health does not
+00:28:54.960	3.28	give you mana back
+00:28:56.000	3.36	so you cannot use dark runes in that way
+00:28:58.240	2.16	they still will give you the mana that
+00:28:59.360	2.48	they're supposed to give you but they
+00:29:00.399	2.24	won't give you any additional mana by
+00:29:01.840	2.88	product water shield
+00:29:02.640	3.92	fire elemental totem attacks scale with
+00:29:04.720	4.16	spell power but not attack
+00:29:06.559	4.24	power and the coefficiency is about 50
+00:29:08.880	3.68	per attack fire metal totem does an
+00:29:10.799	2.48	attack that looks physical but it's
+00:29:12.559	2.80	actually spell
+00:29:13.279	3.76	just fire damage that attack scales with
+00:29:15.360	3.12	spell power and has a spell coefficient
+00:29:17.039	2.08	attached to it each attack perceives
+00:29:18.480	1.84	about 50
+00:29:19.120	3.12	of your spell power which is actually
+00:29:20.320	3.52	pretty good but your attack power any
+00:29:22.240	3.20	attack power gains you have won't
+00:29:23.840	2.96	increase that attack but since
+00:29:25.440	1.92	enhancement shamans have mental
+00:29:26.799	2.24	quickness
+00:29:27.360	3.52	you get bonus spell power from attack
+00:29:29.039	3.28	power so increasing your attack power
+00:29:30.880	3.20	indirectly increases
+00:29:32.320	3.60	the damage of your fire elemental titan
+00:29:34.080	4.32	via spell power lightning shield
+00:29:35.919	3.12	water shield and earth shield are fully
+00:29:38.399	2.64	removed
+00:29:39.039	4.32	on a successful purge or dispel the
+00:29:41.039	4.32	reason why this was tested was because
+00:29:43.360	3.36	at some point in tbc or on private
+00:29:45.360	3.44	servers i'm not sure where
+00:29:46.720	3.44	earth shield would be removed in like
+00:29:48.799	3.52	two charge increments
+00:29:50.159	3.76	on successful purge or dispel i wanted
+00:29:52.320	3.68	to make sure this was the case i used
+00:29:53.919	3.76	both rank one purge and rank two purge
+00:29:56.000	4.16	and it fully removes the buck
+00:29:57.679	4.32	however if you have healing grace which
+00:30:00.159	4.64	reduces the chance that you're
+00:30:02.000	3.44	successfully dispelled and healing grace
+00:30:04.799	3.28	procs
+00:30:05.440	4.32	or the effect occurs water shield and
+00:30:08.080	2.16	lightning shield will actually use a
+00:30:09.760	2.56	charge
+00:30:10.240	4.00	on that dispel and either provide mana
+00:30:12.320	3.36	or do damage respectfully so say you
+00:30:14.240	2.00	have water shield up and you have three
+00:30:15.679	1.92	charges
+00:30:16.240	3.36	someone charged the purge of the spell
+00:30:17.600	3.36	water shield off you it's unsuccessful
+00:30:19.600	3.28	water shield will actually use up a
+00:30:20.960	2.32	charge and give you mana back lightning
+00:30:22.880	2.00	shield
+00:30:23.279	3.36	if the same thing happens will do damage
+00:30:24.880	3.36	to the person trying to dispel you so it
+00:30:26.640	3.12	actually uses a charge and this makes
+00:30:28.240	2.00	sense because in the tool tips it says
+00:30:29.760	3.60	that these
+00:30:30.240	5.20	effects will proc on hit not on damage
+00:30:33.360	3.76	just using a spell on someone will proc
+00:30:35.440	3.68	these earth shielding other hand
+00:30:37.120	4.16	requires you to be damaged for it to
+00:30:39.120	3.44	proc so if someone tries to dispel
+00:30:41.279	3.76	or remove earth's shield and they're
+00:30:42.559	3.92	unsuccessful because of healing grace
+00:30:45.039	3.12	you won't lose a charge of earthshield
+00:30:46.480	3.04	and you won't be healed as in classic
+00:30:48.159	2.56	while in ghosts will form you cannot
+00:30:49.520	3.20	proc weapon imbues
+00:30:50.720	4.32	like wind fury frost bran and flame
+00:30:52.720	4.08	tongue but the rock biter dps increase
+00:30:55.039	3.52	is still there and you will actually do
+00:30:56.799	3.36	extra damage and ghosts will form if you
+00:30:58.559	2.16	have rock biter on your weapon or
+00:31:00.159	2.64	weapons
+00:31:00.720	4.00	while in ghost wolf casting any spell
+00:31:02.799	3.44	totem consumable cancels the form
+00:31:04.720	2.48	immediately which is actually super nice
+00:31:06.240	2.32	so you don't have to sit there and
+00:31:07.200	2.88	cancel the form you can just spam a
+00:31:08.559	3.44	button and it'll cancel casting
+00:31:10.080	3.76	ghostwolf removes water walking buff and
+00:31:12.000	3.44	resets the swing timer keep that in mind
+00:31:13.840	3.12	you can't use water walking while in
+00:31:15.440	2.56	ghostwolf form some trinkets like
+00:31:16.960	3.12	barrow's peasant collar
+00:31:18.000	3.84	and skull and penny doom can be used in
+00:31:20.080	3.60	ghost wolf form and it doesn't break the
+00:31:21.840	2.24	effect i don't know if that's true for
+00:31:23.679	2.16	every
+00:31:24.080	3.36	trinket but at least those two trinkets
+00:31:25.840	2.48	you can use while in ghost will form at
+00:31:27.440	2.72	least in the beta
+00:31:28.320	3.04	let's go over some talent specific
+00:31:30.159	3.44	confirmations we found
+00:31:31.360	4.64	in the beta lighting overload procs on
+00:31:33.600	2.80	cast not on hit this is very similar to
+00:31:36.000	2.32	how
+00:31:36.399	3.76	clear casting works in private servers
+00:31:38.320	3.36	clear casting would only proc once the
+00:31:40.159	2.08	spell hit the target not when the spell
+00:31:41.679	2.80	was cast
+00:31:42.240	3.04	any overload of course the 20 chance to
+00:31:44.480	2.16	cast a
+00:31:45.279	2.88	second free lightning bolt or chain
+00:31:46.640	3.04	lining at half damage and no threat
+00:31:48.159	3.60	you'll see the proc go off as soon as
+00:31:49.679	3.76	the cast happens not when it hits
+00:31:51.760	3.68	spirit weapons which is the talent that
+00:31:53.440	2.80	reduces threat and allows you to parry
+00:31:55.440	2.08	for enhancement
+00:31:56.240	3.04	in addition to reducing the threat of
+00:31:57.519	3.52	all auto attacks which is what the tool
+00:31:59.279	2.88	tip says it also reduces the threat of
+00:32:01.039	2.88	storm strike and
+00:32:02.159	3.28	your wind fury procs that's actually
+00:32:03.919	2.80	pretty big considering that enhancement
+00:32:05.440	3.60	is one of the most threat capped
+00:32:06.720	3.12	classes in tbc any additional reduction
+00:32:09.039	3.04	in threat is
+00:32:09.840	3.20	very very much welcome shawnistic rage
+00:32:12.080	2.88	mana returns
+00:32:13.039	4.16	so when you click shout outs to rage it
+00:32:14.960	4.96	says chance on hit to return some mana
+00:32:17.200	4.08	the return procs occur on a ppm and i've
+00:32:19.919	2.08	actually calculated what that is
+00:32:21.279	2.16	and we'll go over that in the
+00:32:22.000	2.88	enhancement section but what's really
+00:32:23.440	2.56	interesting is that it's not affected by
+00:32:24.880	3.28	the weapon in view you use
+00:32:26.000	4.24	so wind fury extra attacks do not give
+00:32:28.159	4.08	you more chances to proc shamanistic
+00:32:30.240	2.40	rage however using storm strike which
+00:32:32.240	2.08	are
+00:32:32.640	3.28	two additional base attacks
+00:32:34.320	2.16	significantly increases the prox for
+00:32:35.919	2.16	cooldown
+00:32:36.480	2.56	so make sure you're using storm strike i
+00:32:38.080	2.08	don't know why you wouldn't use storm
+00:32:39.039	2.48	streak when you're using shadowstick
+00:32:40.159	3.36	rage but make sure that you are
+00:32:41.519	3.68	and you'll get more mana returns back
+00:32:43.519	3.68	also in addition to win fury
+00:32:45.200	3.84	not affecting the rate of return neither
+00:32:47.200	3.52	does weapon speed unless we're talking
+00:32:49.039	2.56	about a two-hander versus two
+00:32:50.720	2.64	one-handers
+00:32:51.600	3.36	using two one-handed weapons it doesn't
+00:32:53.360	2.96	matter what speed they are you receive
+00:32:54.960	3.76	approximately the same amount of
+00:32:56.320	3.84	return per cd but using a two-hander is
+00:32:58.720	2.72	significantly lower another reason why
+00:33:00.159	3.44	two handers are really not
+00:33:01.440	3.60	great for dps unless you're in pvp
+00:33:03.600	2.80	situations and you're trying to one-shot
+00:33:05.039	2.80	somebody but that's kind of niche
+00:33:06.399	3.04	the biggest thing here is that flurry
+00:33:07.840	5.12	has an internal cooldown
+00:33:09.440	4.08	of 0.5 seconds what this means is if two
+00:33:12.960	3.20	hits
+00:33:13.519	4.80	occur within .5 seconds of each other
+00:33:16.159	4.40	only one flurry charge is consumed
+00:33:18.320	3.52	not two as a dual wielding enhancement
+00:33:20.559	3.20	shaman you want
+00:33:21.840	3.52	your weapons to hit as close to each
+00:33:23.760	3.12	other as possible so that you can
+00:33:25.360	2.00	benefit from this and there's a whole
+00:33:26.880	2.16	section
+00:33:27.360	3.20	in the enhancement theorycraft portion
+00:33:29.039	3.28	of the guide that talks about this
+00:33:30.559	3.20	and something called stagger and sync
+00:33:32.320	3.04	which we'll get into something that was
+00:33:33.760	3.68	not fleshed out in part one
+00:33:35.360	3.36	and it's new and really really exciting
+00:33:37.440	1.92	news so we'll get into that but
+00:33:38.720	2.08	basically
+00:33:39.360	2.80	if you can get both your main hand and
+00:33:40.799	2.56	off hand to attack within point five
+00:33:42.159	2.96	seconds of each other you'll only
+00:33:43.360	3.04	consume one flurry charge instead of two
+00:33:45.120	2.88	all right going into some profession
+00:33:46.399	2.88	confirmations this is going to be quick
+00:33:48.000	3.04	and dirty basically so
+00:33:49.279	3.60	chaotic skyfire diamond is in the game
+00:33:51.039	2.64	at launch engineering goggles are not in
+00:33:52.880	2.80	the game at launch
+00:33:53.679	3.68	primal nethers are buying on pickup on
+00:33:55.679	3.52	launch so they can't be traded or sold
+00:33:57.360	3.84	mount skill is race agnostic and what
+00:33:59.200	2.48	this means is in classic vanilla you had
+00:34:01.200	3.04	to have
+00:34:01.679	4.24	the riding skill of the city in order to
+00:34:04.240	3.36	ride their mounts so you have to have
+00:34:05.919	4.16	wolf riding to ride wolves
+00:34:07.600	3.92	etc if you've gotten those pvp mounts in
+00:34:10.079	3.68	classic the first thing you'll notice is
+00:34:11.520	3.68	when tbc pre-patch or tvc launches
+00:34:13.760	3.84	you'll be able to ride those mounts
+00:34:15.200	3.60	mount skill is race agnostic drums you
+00:34:17.599	2.48	probably heard this already but drums
+00:34:18.800	1.76	are split into normal and greater
+00:34:20.079	2.00	versions
+00:34:20.560	3.92	greater versions come out in the z8
+00:34:22.079	3.60	patch also tinnitus has been added into
+00:34:24.480	2.88	the game this is a
+00:34:25.679	3.04	rather lich king debuff that was
+00:34:27.359	3.36	introduced so people couldn't
+00:34:28.720	3.60	use drums one after another so drums can
+00:34:30.720	2.96	only be used every two minutes
+00:34:32.320	2.96	per group and usually that'll mean
+00:34:33.679	3.12	you'll have one person doing the drums
+00:34:35.280	3.20	you can always have backups of course
+00:34:36.800	3.20	but most likely won't need more than one
+00:34:38.480	2.48	person the normal drums only have an
+00:34:40.000	3.84	eight yard range
+00:34:40.960	4.56	and they have a small 1.5 second or so
+00:34:43.839	3.28	cast time as well so you have to make
+00:34:45.520	3.12	sure you're standing still to do it and
+00:34:47.119	2.96	casting it isn't really a big deal for
+00:34:48.639	3.04	melee but it could be a big deal for
+00:34:50.079	2.96	casters the greater drums like i said
+00:34:51.679	2.08	will come out in z8 patch and they'll
+00:34:53.040	2.88	have a much
+00:34:53.760	3.52	larger range of 40 yards so like a raid
+00:34:55.919	3.04	wide range let's go over some
+00:34:57.280	2.16	confirmations for internal cooldowns and
+00:34:58.960	2.32	procs
+00:34:59.440	3.44	the totem cooldown is one second which
+00:35:01.280	3.60	we thought it would be and it is
+00:35:02.880	3.84	tier two three piece has been nerfed to
+00:35:04.880	3.92	five percent so this three-piece bonus
+00:35:06.720	4.00	originally would increase the healing
+00:35:08.800	3.52	done to your secondary and tertiary
+00:35:10.720	3.12	chain heal targets by thirty percent
+00:35:12.320	2.72	that's been nerfed to five making this
+00:35:13.839	2.64	set no longer bis
+00:35:15.040	2.80	many one-handed weapons have been
+00:35:16.480	2.64	changed to main hand only you've
+00:35:17.839	2.08	probably seen this already but all the
+00:35:19.119	1.84	blacksmithing
+00:35:19.920	2.64	one-handers have been changed to
+00:35:20.960	2.64	manhattan only that significantly
+00:35:22.560	2.56	changed the abyss
+00:35:23.599	3.92	four enhancement shamans we'll get into
+00:35:25.119	4.32	that in that section the ravager axe is
+00:35:27.520	3.44	not aoe capped the raven drax of course
+00:35:29.440	3.68	is that axe in classic you get in
+00:35:30.960	2.64	scarlet monastery from herod that you do
+00:35:33.119	2.08	a spin
+00:35:33.599	3.20	whirlwind or whatever and you'd hit
+00:35:35.200	3.04	targets that is on aoe capped you get
+00:35:36.800	3.04	his main target as you want with that
+00:35:38.240	3.76	scammer the infinite cycle which is a
+00:35:39.839	4.08	healing trinket has a 10 proc chance and
+00:35:42.000	4.08	a 45 second internal cooldown dragon
+00:35:43.920	4.08	spine trophy the most coveted physical
+00:35:46.079	3.52	dps trinket in the game has a 20 second
+00:35:48.000	3.20	internal cooldown the lighting capacitor
+00:35:49.599	3.44	which is a very important
+00:35:51.200	3.68	trigger for elemental shaman it's
+00:35:53.040	2.72	considering how much we cast and how
+00:35:54.880	3.44	fast we cast
+00:35:55.760	3.44	the proc damage actually uses crit
+00:35:58.320	3.60	before
+00:35:59.200	4.24	our talents so all the talents the resto
+00:36:01.920	1.84	and elemental talents that increase your
+00:36:03.440	1.52	crit
+00:36:03.760	3.20	chance they don't affect lightning
+00:36:04.960	2.56	capacitor it's unfortunate but just the
+00:36:06.960	2.08	way it is
+00:36:07.520	3.28	crits from lightning overload which are
+00:36:09.040	3.12	those free casts that come out twenty
+00:36:10.800	2.64	percent of the time if you're elemental
+00:36:12.160	2.80	those crits do proc
+00:36:13.440	3.12	and add to the lightning capacitors
+00:36:14.960	4.16	charges so that's very good news
+00:36:16.560	4.00	weapon imbue spell crits also adds a
+00:36:19.119	2.80	lighting capacitor and increase the
+00:36:20.560	2.32	charges and that's flame tongue and
+00:36:21.920	3.12	frost brain weapon
+00:36:22.880	3.52	fire totem crits however do not so
+00:36:25.040	2.80	there's a distinction there bloody
+00:36:26.400	3.68	capacitor crits do not
+00:36:27.839	4.00	proc clear casting it's not your own
+00:36:30.079	3.52	spell so therefore it does not proc
+00:36:31.839	3.76	elemental focus or clear casting you
+00:36:33.599	3.12	cannot gain any stacks of electrical
+00:36:35.599	3.20	charge that's the
+00:36:36.720	3.28	name of the buff or the charges that
+00:36:38.800	3.84	lighting capacitor builds
+00:36:40.000	4.56	from spell crits for 2.5 seconds after
+00:36:42.640	3.76	gaining your third and final stack
+00:36:44.560	3.68	so your third stack procs the lightning
+00:36:46.400	3.36	bolt comes out there's a 2.5 second
+00:36:48.240	3.36	internal cooldown before you can gain
+00:36:49.760	3.04	another charge the elemental mastery and
+00:36:51.599	2.72	the chain lightning combo
+00:36:52.800	3.12	if you click element of mastery and use
+00:36:54.320	3.36	chain lighting on three targets you'll
+00:36:55.920	2.08	get three guaranteed crits if they all
+00:36:57.680	2.00	hit
+00:36:58.000	3.36	and that instantly procs the trinket and
+00:36:59.680	3.52	leaves you with zero charges regardless
+00:37:01.359	3.44	of how many charges you start with and
+00:37:03.200	3.52	that's because of that 2.5 second
+00:37:04.800	3.84	internal cooldown so just keep in mind
+00:37:06.720	3.84	if you have two charges you might want
+00:37:08.640	3.68	to try to fish for a third print to get
+00:37:10.560	3.68	the lightning capacitor to do its damage
+00:37:12.320	3.52	and then wait 2.5 seconds then do your
+00:37:14.240	3.68	em batch to make the most out of the
+00:37:15.839	4.24	trinket crit damage of the proc
+00:37:17.920	3.76	itself it's unaffected by elemental fury
+00:37:20.079	3.76	you don't get that double damage
+00:37:21.680	3.04	from your talent it's only 150 which is
+00:37:23.839	2.88	the normal
+00:37:24.720	3.28	spell crate bonus and finally the damage
+00:37:26.720	3.20	of the proc does not
+00:37:28.000	3.44	scale with spell power so any spell
+00:37:29.920	3.12	power you have that will not affect the
+00:37:31.440	3.20	total damage of this trinket all right i
+00:37:33.040	3.12	see these and products continued the eye
+00:37:34.640	3.28	of rule has no internal cooldown
+00:37:36.160	3.76	quagmireon's eye has a 10
+00:37:37.920	3.76	proc chance and a 45 second internal
+00:37:39.920	3.60	cooldown the spell strike set bonus
+00:37:41.680	4.00	which is a tailoring set has a 5
+00:37:43.520	4.00	proc chance and no internal cooldown for
+00:37:45.680	3.68	these meta gems this is their proc and
+00:37:47.520	3.52	internal cooldown insightful earth siege
+00:37:49.359	4.00	diamond has a five percent proc rate and
+00:37:51.040	3.20	a 15 second icd mystical skyfire diamond
+00:37:53.359	3.36	has a 15
+00:37:54.240	3.92	proc chance in 35 second icd racing
+00:37:56.720	3.20	earth storm diamond has a one percent
+00:37:58.160	2.32	proc chance and unfortunately the icd is
+00:37:59.920	2.32	not known
+00:38:00.480	4.16	and tenacious earth storm diamond has an
+00:38:02.240	2.96	unknown proc chance but it has no icd we
+00:38:04.640	2.48	could thank
+00:38:05.200	3.60	gideon ai for testing all these things
+00:38:07.119	3.44	and i will have a link to his
+00:38:08.800	3.76	discord in the description romulo's
+00:38:10.560	3.84	poison vial has a 20 second internal
+00:38:12.560	3.20	cooldown and finally spell surge in
+00:38:14.400	3.44	chant has a 15
+00:38:15.760	3.92	proc chance and a 50 second internal
+00:38:17.839	3.44	cooldown okay i like to talk about some
+00:38:19.680	3.76	outside research that's been done
+00:38:21.280	3.52	outside of shaman that may affect shaman
+00:38:23.440	2.40	but just something you guys might want
+00:38:24.800	2.56	to check out if you're playing other
+00:38:25.839	3.44	classes again i talked about getting an
+00:38:27.359	4.64	ai he's compiled a list of
+00:38:29.280	4.16	spell attack power scaling and internal
+00:38:32.000	3.12	cooldowns and proc chances
+00:38:33.440	3.68	he's does a great job of testing these
+00:38:35.119	3.36	things and the link to his discord
+00:38:37.119	3.36	and a link to some of the stuff he's
+00:38:38.480	3.68	been doing will be in the description
+00:38:40.480	3.04	of this video an example something that
+00:38:42.160	3.20	he figured out was that skull flame
+00:38:43.520	2.88	shield has 100 spell scaling and that
+00:38:45.359	2.56	was something that people were talking
+00:38:46.400	3.76	about ranting and raving about before
+00:38:47.920	3.52	tbc came out no it doesn't have 100
+00:38:50.160	3.28	spell scaling yes it does
+00:38:51.440	4.08	i remember reading his reddit post and
+00:38:53.440	2.40	he's like guys it has 100 spell scaling
+00:38:55.520	2.16	in
+00:38:55.839	2.96	retail so it's going to have it in tbc
+00:38:57.680	2.24	of course we went back and checked and
+00:38:58.800	1.52	he was right he knows what he's talking
+00:38:59.920	2.00	about
+00:39:00.320	3.36	again links to his stuff will be in the
+00:39:01.920	3.20	description and then finally meiji if
+00:39:03.680	3.76	you guys don't know he is he's
+00:39:05.119	3.36	one of the foremost theory crafters for
+00:39:07.440	3.12	warriors he's
+00:39:08.480	3.84	part of the fight club discord and he's
+00:39:10.560	2.16	doing some warrior testing for tbc as
+00:39:12.320	2.32	well
+00:39:12.720	3.44	a link to his work will also be in the
+00:39:14.640	2.96	description of this video now it's time
+00:39:16.160	2.96	to go into each of the specs and talk
+00:39:17.599	3.36	about the most important
+00:39:19.119	3.92	theory craft that's came out either from
+00:39:20.960	3.60	the beta or before the beta some specs
+00:39:23.040	1.92	are more represented in others to be
+00:39:24.560	2.00	honest
+00:39:24.960	3.44	restoration has the least because there
+00:39:26.560	3.68	wasn't much to change between private
+00:39:28.400	3.52	servers and the beta so that'll be a
+00:39:30.240	3.12	pretty quick section elemental may have
+00:39:31.920	3.76	a little bit more but it'll be
+00:39:33.359	4.16	heavily based in the work that it regis
+00:39:35.680	3.20	has already done private servers and has
+00:39:37.520	3.12	confirmed on the beta
+00:39:38.880	3.36	and then finally enhancement which has
+00:39:40.640	2.88	the most so we'll go through these
+00:39:42.240	2.16	different sections if you want to skip
+00:39:43.520	2.00	to a certain section
+00:39:44.400	3.04	use the time stamps in the pinned
+00:39:45.520	2.88	comment or use the annotations on the
+00:39:47.440	3.44	youtube video itself
+00:39:48.400	4.40	one thing that did change for every spec
+00:39:50.880	2.80	from private servers are professions and
+00:39:52.800	3.20	that's because
+00:39:53.680	3.84	eps have been theorycraft a little bit
+00:39:56.000	3.76	more extensively and have changed
+00:39:57.520	3.68	also big changes have happened to
+00:39:59.760	2.40	perfections like goggles not being
+00:40:01.200	2.56	available right away and the
+00:40:02.160	3.44	blacksmithing weapons so make sure you
+00:40:03.760	2.88	visit at least the profession sections
+00:40:05.599	2.64	if you've already seen
+00:40:06.640	3.20	the theorycraft that we've done on
+00:40:08.240	2.56	restoration and elemental let's start
+00:40:09.839	3.12	with restoration
+00:40:10.800	3.60	there are some excellent resources that
+00:40:12.960	3.36	exist already
+00:40:14.400	4.24	for restoration one of them being
+00:40:16.319	4.24	egregious calculator that he's written
+00:40:18.640	3.76	for restoration shaman which will allow
+00:40:20.560	3.52	you to input all your stats and see what
+00:40:22.400	2.64	the best heels are for you to use in
+00:40:24.079	2.64	certain situations
+00:40:25.040	3.76	we've already made a video guide about
+00:40:26.720	3.92	restoration which the theorycraft
+00:40:28.800	3.28	portions of that are completely sound
+00:40:30.640	3.04	the only things that are changing
+00:40:32.079	2.72	are the abyss options and the
+00:40:33.680	1.84	professions which we're going to be
+00:40:34.800	2.24	going over
+00:40:35.520	3.20	in this guide but everything else in
+00:40:37.040	2.72	that guide is still completely sound and
+00:40:38.720	2.88	i would definitely watch that if you're
+00:40:39.760	3.04	going to be healing as a shaman in tbc
+00:40:41.599	1.76	classic and the third which we'll talk
+00:40:42.800	3.04	about later
+00:40:43.359	4.00	is eek's progressive best in slot list
+00:40:45.839	3.04	for restoration the link to that will be
+00:40:47.359	2.80	in the description the link to the video
+00:40:48.880	2.80	will be in the description and so will
+00:40:50.160	2.80	the calculator so make sure you go down
+00:40:51.680	3.28	to the description and look at the
+00:40:52.960	3.28	restoration section of the description
+00:40:54.960	2.56	that i'll have down there that will have
+00:40:56.240	2.64	the restoration links that you should
+00:40:57.520	2.00	check out the most important thing to
+00:40:58.880	2.40	think about
+00:40:59.520	3.44	is effectively using the right spell for
+00:41:01.280	3.44	the right situation now downranking of
+00:41:02.960	3.28	course did receive a nerf in tbc classic
+00:41:04.720	3.04	via the downranking penalty that does
+00:41:06.240	3.12	not mean you won't be downranking as a
+00:41:07.760	2.80	wrestler shaman in tbc classic
+00:41:09.359	3.12	using the right heel in the right
+00:41:10.560	3.04	situation and being efficient about your
+00:41:12.480	2.56	mana is key
+00:41:13.599	3.60	to being a good healer because of that
+00:41:15.040	3.76	we're able to suggest the best ranks of
+00:41:17.200	3.28	heals have hotkeyed for chain here
+00:41:18.800	3.92	you're gonna have rank one as your low
+00:41:20.480	3.76	output trickle heal rank three or four
+00:41:22.720	3.04	depending on your available spell power
+00:41:24.240	2.64	as your medium heal and rank five as
+00:41:25.760	2.48	your high damage heal
+00:41:26.880	2.96	of course as you progress through ray
+00:41:28.240	2.32	tears and gain confidence in your mana
+00:41:29.839	2.16	consumption
+00:41:30.560	3.20	you can uprank that's why you have
+00:41:32.000	2.40	asterisks there if for chain heal and
+00:41:33.760	2.40	healing wave
+00:41:34.400	3.28	talking about healing wave rank 1 is
+00:41:36.160	3.12	very important to have on your bars
+00:41:37.680	3.20	so you can quickly apply healing wave
+00:41:39.280	3.44	stacks and potentially proc
+00:41:40.880	3.76	ancestral fortitude on a target very
+00:41:42.720	3.12	very good to have that rank 7 or 8
+00:41:44.640	2.96	depending on your mana efficiency and
+00:41:45.839	3.76	spell power will be your low heel rank
+00:41:47.599	2.64	10 will be your mid heel and rank 12
+00:41:49.599	2.40	will be
+00:41:50.240	2.96	your top heal which you will pair with
+00:41:52.000	3.12	nature's swiftness in an emergency
+00:41:53.200	3.28	situation we won't be using that often
+00:41:55.119	2.88	just make sure you don't go below rank
+00:41:56.480	3.04	five because the downrank compel me so
+00:41:58.000	2.96	significant below that rank and for
+00:41:59.520	3.04	lesser healing wave you're gonna have a
+00:42:00.960	4.32	rank five to heal
+00:42:02.560	4.48	lower hp targets like casters or people
+00:42:05.280	3.60	that are not in danger of being hit
+00:42:07.040	3.92	again and then rank seven as your quick
+00:42:08.880	2.96	emergency heal to use in emergency
+00:42:10.960	2.08	situations
+00:42:11.839	3.12	if you're more interested in how
+00:42:13.040	2.96	downranking works in tbc a friend of
+00:42:14.960	2.88	mine osgar has
+00:42:16.000	3.36	created a down ranking guide and tool
+00:42:17.839	2.40	that's interactive you're able to input
+00:42:19.359	3.28	your spell power
+00:42:20.240	4.08	compare spells see how much mana
+00:42:22.640	3.60	efficiency is shifted and altered when
+00:42:24.319	3.84	downranking is put into effect and even
+00:42:26.240	3.60	compare across classes or within your
+00:42:28.160	2.80	own class a link to that will be in the
+00:42:29.839	2.96	restoration section
+00:42:30.960	3.92	of the description of this video quickly
+00:42:32.800	2.72	going to go over eps for restoration
+00:42:34.880	2.40	they are
+00:42:35.520	3.04	shifted a little bit from what eag
+00:42:37.280	4.32	originally presented
+00:42:38.560	3.76	in the video so these are the eps that
+00:42:41.599	3.28	are updated
+00:42:42.319	4.24	for tpc classic these are also on the
+00:42:44.880	2.56	calculator that i was talking about so
+00:42:46.560	2.72	if you want to see these
+00:42:47.440	3.92	live on the calculator you can do that
+00:42:49.280	4.16	also eps will be calculated for your
+00:42:51.359	4.16	current stats on that calculator so
+00:42:53.440	3.12	very important to know just keep in mind
+00:42:55.520	2.96	that haste
+00:42:56.560	3.84	is very very important for resto shaman
+00:42:58.480	3.28	and becomes the most powerful stat when
+00:43:00.400	4.08	it comes out in tier six
+00:43:01.760	4.40	and then mp5 gets less beneficial as the
+00:43:04.480	3.04	game goes on because you have more spell
+00:43:06.160	3.36	power and therefore you can downrank
+00:43:07.520	3.52	more often so just keep these eps in
+00:43:09.520	2.48	mind when gearing but there is a
+00:43:11.040	2.32	progressive business
+00:43:12.000	2.88	which we'll talk about next i have to
+00:43:13.359	3.12	say eager just makes it pretty easy to
+00:43:14.880	3.44	be arrested shaman not only does he have
+00:43:16.480	3.20	a calculator that tells you the eps but
+00:43:18.319	1.76	he also tells you what gear you're going
+00:43:19.680	2.08	to use
+00:43:20.079	3.36	anyway so sometimes maybe the eps aren't
+00:43:21.760	2.72	even worth knowing but for big brains
+00:43:23.440	2.96	out there you should check out both
+00:43:24.480	2.32	calculator and this bis list this this
+00:43:26.400	2.88	list
+00:43:26.800	4.08	is created already for tbc classic with
+00:43:29.280	3.28	the best pieces going all the way up to
+00:43:30.880	2.80	sunwell this is unclassified on live the
+00:43:32.560	2.72	link will be in the description below
+00:43:33.680	3.04	and he goes over every piece of gear and
+00:43:35.280	2.96	even optional pieces they may want to
+00:43:36.720	3.52	get and also in the class of
+00:43:38.240	3.44	live is the written version of the video
+00:43:40.240	3.28	guide which he keeps updating
+00:43:41.680	3.28	so there will be many many egregious
+00:43:43.520	3.12	links in the description if you want to
+00:43:44.960	3.04	know more about restoration please go
+00:43:46.640	2.64	there and check that out before we get
+00:43:48.000	2.72	to the profession it's all about aldor
+00:43:49.280	3.28	schreier the enchants are extremely
+00:43:50.720	3.28	similar to be honest but aldor is better
+00:43:52.560	2.88	throughout the entire expansion
+00:43:54.000	3.12	the saffron enchant is actually
+00:43:55.440	2.80	comparable to the outdoor enchant it's
+00:43:57.119	3.36	pretty much the same
+00:43:58.240	3.44	so you're actually one of the few specs
+00:44:00.480	2.48	that don't really have to go back in the
+00:44:01.680	2.72	next if you don't want to if you are
+00:44:02.960	3.44	aldor at the end of the day though
+00:44:04.400	3.60	if the profession items or early gear
+00:44:06.400	2.88	access is more important to you
+00:44:08.000	3.12	go with the fashion that facilitates
+00:44:09.280	3.84	those choices alright let's go over
+00:44:11.119	3.44	restoration perfections in phases one
+00:44:13.119	4.00	through four leather working
+00:44:14.560	4.08	and enchanting are the best options in
+00:44:17.119	2.88	phase five or sunwell you can keep
+00:44:18.640	2.64	leather working your enchanting or
+00:44:20.000	1.76	dropping chaining for alchemy for the
+00:44:21.280	2.40	trinket
+00:44:21.760	3.20	your call see how the game feels by then
+00:44:23.680	3.28	honestly leatherworking will end up
+00:44:24.960	3.44	being too strong for all of tbc even
+00:44:26.960	2.96	with tinnitus wrestler shaman are
+00:44:28.400	3.12	basically ideal for drumming since you
+00:44:29.920	3.20	will need at least one drummer per group
+00:44:31.520	3.28	anyway plus the winhawk set
+00:44:33.119	3.60	is solid for phase one and our best
+00:44:34.800	2.40	endgame chest is a leather working bop
+00:44:36.720	1.68	as well
+00:44:37.200	2.80	engineering will give you 20 healing
+00:44:38.400	2.96	spell power on each ring you can no
+00:44:40.000	2.24	longer benefit from these enchants if
+00:44:41.359	2.96	you drop enchanting
+00:44:42.240	3.52	so don't drop it and because of that any
+00:44:44.319	3.28	professional combo without enchanting
+00:44:45.760	3.20	gets you 40 less healing spell power
+00:44:47.599	3.28	alchemy doesn't offer much other
+00:44:48.960	3.28	inconvenience in terms of consumes until
+00:44:50.880	3.92	phase five when it gives the best
+00:44:52.240	4.48	trinket so that's why alchemy is bis
+00:44:54.800	3.52	in phase five if you no longer need
+00:44:56.720	3.28	leather working gel crafting has unique
+00:44:58.319	3.28	equipped gems which are solid
+00:45:00.000	3.36	and in phase five is a good necklace but
+00:45:01.599	2.40	that's about it you really can't benefit
+00:45:03.359	2.00	from the unique
+00:45:04.000	3.28	equipped gems anymore if you drop
+00:45:05.359	3.60	jewelcrafting there's no more profession
+00:45:07.280	3.84	swapping as we thought there would be
+00:45:08.960	3.68	in tbc classic towering offers primal
+00:45:11.119	3.20	moon cloth and white men set in phase
+00:45:12.640	3.36	one and that's really about it white men
+00:45:14.319	3.52	set generally will get replaced in tier
+00:45:16.000	3.36	four content right away though in prime
+00:45:17.839	2.80	mooncloth you'll probably break the set
+00:45:19.359	2.96	for tier 4 shoulders
+00:45:20.640	3.36	this is why tailoring is no longer
+00:45:22.319	3.60	considered biss the pieces have
+00:45:24.000	3.76	nice healing spell power and regen but
+00:45:25.920	3.36	have basically no stamina and i'm
+00:45:27.760	2.16	telling you things hit much harder than
+00:45:29.280	2.16	we thought
+00:45:29.920	3.60	and you might want some stamina for
+00:45:31.440	4.24	survivability tldr leatherworking and
+00:45:33.520	3.60	chanting is a great choice for the whole
+00:45:35.680	3.12	game and if you want to get a little
+00:45:37.119	3.28	more sweaty you can drop leather working
+00:45:38.800	3.28	for alchemy if you want the best trinket
+00:45:40.400	2.88	and thank you hitali for writing this up
+00:45:42.079	2.64	this is a really good summary
+00:45:43.280	2.88	and some of the biggest questions we get
+00:45:44.720	2.96	every day in the shaman discord or what
+00:45:46.160	3.04	professions do i have to get so this is
+00:45:47.680	3.12	a very good breakdown of that now moving
+00:45:49.200	3.36	on to the elemental section as with
+00:45:50.800	3.12	restoration not much has changed since
+00:45:52.560	2.96	the video eg and i did
+00:45:53.920	3.12	about a month or so back the only things
+00:45:55.520	2.24	that really did change are profession
+00:45:57.040	3.12	choices
+00:45:57.760	4.24	slight changes to eps and some gearing
+00:46:00.160	3.28	options so we'll be going over all those
+00:46:02.000	2.64	things in the next section as i've
+00:46:03.440	2.88	alluded to there's some really good
+00:46:04.640	3.60	elemental shaman content already out
+00:46:06.319	3.76	there as of the restoration eek has also
+00:46:08.240	4.16	made an amazing calculator for elemental
+00:46:10.079	3.52	shaman that goes over which rotation you
+00:46:12.400	1.68	use with the current stats you're
+00:46:13.599	2.08	wearing
+00:46:14.079	4.08	i would highly recommend using it and
+00:46:15.680	4.16	we'll go over more about rotation stuff
+00:46:18.160	2.56	like that in a few slides but it's very
+00:46:19.839	2.72	very important to use
+00:46:20.720	3.20	also there's a sim that's been created
+00:46:22.560	2.56	by logarithm
+00:46:23.920	3.04	i hope i said that right with the
+00:46:25.119	3.04	graphical user interface the link for
+00:46:26.960	2.48	that will be in the description as well
+00:46:28.160	2.88	tells you how much damage you're going
+00:46:29.440	3.36	to do with the current gear set you have
+00:46:31.040	3.20	very very cool that we have a sim for
+00:46:32.800	3.28	elemental because most sims are built
+00:46:34.240	4.00	for melee classes so it's very very nice
+00:46:36.079	4.00	and as i said before eg and i produced
+00:46:38.240	3.84	an elemental pve video
+00:46:40.079	3.44	about a month or so ago in that video
+00:46:42.079	3.04	goes over all of the
+00:46:43.520	3.28	theory crap as to why you're using
+00:46:45.119	3.36	certain spells in certain situations
+00:46:46.800	2.96	in certain rotations i'll go over that
+00:46:48.480	2.48	briefly in this guide again if you
+00:46:49.760	3.04	haven't seen that video but i
+00:46:50.960	3.12	highly highly recommend to watch that
+00:46:52.800	3.12	video if you're gonna play for elemental
+00:46:54.079	2.72	and tbc classic just ignore anything
+00:46:55.920	2.96	when it comes to
+00:46:56.800	3.04	gearing or professions because those
+00:46:58.880	2.16	have been updated and we're going to
+00:46:59.839	3.04	talk about that at the end of this
+00:47:01.040	3.92	section as with restoration eek has
+00:47:02.880	4.56	updated the eps for elemental
+00:47:04.960	3.76	and these are eps a certain spell power
+00:47:07.440	3.52	and crit benchmarks
+00:47:08.720	4.16	as you go through each tier in tbc
+00:47:10.960	3.92	classic again we provide
+00:47:12.880	3.84	you a progressive gear list going from
+00:47:14.880	3.28	tier 4 all the way up to sunwell but if
+00:47:16.720	2.56	you want to know the eps here they are
+00:47:18.160	3.68	here and they're also
+00:47:19.280	4.16	alive on the elemental shaman tbc
+00:47:21.839	3.12	calculator the meat of this section will
+00:47:23.440	3.04	be talking about rotation it's the most
+00:47:24.960	3.20	important thing to know as an elemental
+00:47:26.480	3.04	shaman and we have one of the least
+00:47:28.160	2.88	difficult rotations in tbc to be
+00:47:29.520	3.44	perfectly honest and while that's
+00:47:31.040	3.36	true there's still a broad ability gap
+00:47:32.960	2.64	among shopping players and nuance
+00:47:34.400	3.12	regarding what rotation
+00:47:35.599	3.36	and abilities to utilize in each
+00:47:37.520	3.28	encounter the three most important
+00:47:38.960	3.76	things to think about are spell power
+00:47:40.800	3.76	haste and encounter duration when
+00:47:42.720	3.52	deciding which rotation to use as a
+00:47:44.559	3.28	nominal shaman in raids
+00:47:46.240	3.60	the first rotation you'll come across
+00:47:47.839	3.76	and the most damaging until we start
+00:47:49.839	3.52	building a haste pool is the three
+00:47:51.599	3.20	lighting bolt one chain liner rotation
+00:47:53.359	2.72	it's a very simple rotation that
+00:47:54.800	1.76	revolves around fitting three lightning
+00:47:56.079	2.32	bolts
+00:47:56.559	3.52	into the six second chain landing cd
+00:47:58.400	2.24	window talented lighting bolts two
+00:48:00.079	2.72	seconds
+00:48:00.640	3.36	three two second cast is six seconds so
+00:48:02.800	2.08	you'll be able to fit three lightning
+00:48:04.000	2.08	bolts between
+00:48:04.880	2.48	every chain lightning and the three
+00:48:06.079	3.04	lightning bolt chilling rotations they
+00:48:07.359	2.32	were between six to nine percent better
+00:48:09.119	2.48	than just
+00:48:09.680	3.60	casting an unhastened lightning bolt and
+00:48:11.599	3.44	that gap does get smaller when you get
+00:48:13.280	3.36	when you get four pieces of tier six
+00:48:15.040	3.76	which increases lightning bolt damage
+00:48:16.640	3.12	and eventually bloody ball spam eclipses
+00:48:18.800	2.72	the dps of this
+00:48:19.760	3.20	rotation when you have enough haste with
+00:48:21.520	2.00	this rotation you'll use elemental
+00:48:22.960	2.80	mastery
+00:48:23.520	3.68	on cooldown for a free chain lightning
+00:48:25.760	2.96	to reduce the mana cost
+00:48:27.200	3.60	and have a guaranteed crit but again
+00:48:28.720	3.84	this is your tried and true highest dps
+00:48:30.800	3.20	rotation until you start building enough
+00:48:32.559	2.88	haste but remember if you can't
+00:48:34.000	3.52	afford this rotation because the
+00:48:35.440	3.20	encounter is too long you can add more
+00:48:37.520	3.12	lightning bolts in
+00:48:38.640	3.36	to offset the cost of chain landing or
+00:48:40.640	3.04	just do a lightning bolt spam
+00:48:42.000	2.96	if you really can't afford anything else
+00:48:43.680	2.88	the big take-home message here with
+00:48:44.960	3.12	rotations an elemental shaman is that
+00:48:46.559	3.36	you can dictate how much mana
+00:48:48.079	3.76	you spend if you want to spend the most
+00:48:49.920	3.28	amount of mana before haste you do three
+00:48:51.839	2.80	lane bolts one chain lighting if you
+00:48:53.200	3.36	want to increase your mana pool
+00:48:54.640	3.44	throw in more lightning bolts compared
+00:48:56.559	3.12	to chain lightning and if you want to
+00:48:58.079	3.44	save as much mana as possible because
+00:48:59.680	3.12	the confrontation is very long just use
+00:49:01.520	3.28	lightning bolt that brings us to the
+00:49:02.800	4.16	second rotation the four lightning bolt
+00:49:04.800	3.68	chain lightning this is the highest dps
+00:49:06.960	3.92	rotation you can achieve
+00:49:08.480	3.84	in tbc classic once you get enough haste
+00:49:10.880	3.28	which is only about one
+00:49:12.319	3.84	and a half percent which is about 20 to
+00:49:14.160	5.20	25 haste rating you can unlock
+00:49:16.160	4.80	this as the highest dps rotation and it
+00:49:19.359	2.96	is more mana efficient than three
+00:49:20.960	3.68	lightning bolt chain lightning it
+00:49:22.319	3.20	doesn't eclipse the dps until that that
+00:49:24.640	2.16	amount of haste
+00:49:25.520	3.20	but it's always going to be cheaper than
+00:49:26.800	3.20	398 ball chain light and it is also
+00:49:28.720	3.36	better than a simple lightning bolt
+00:49:30.000	3.36	spam as well regardless of any haste
+00:49:32.079	2.96	that you may have but the lightning bolt
+00:49:33.359	3.28	spam of course is always the cheapest
+00:49:35.040	3.28	rotation as with the three lighting bolt
+00:49:36.640	3.28	chain rotation it's ideal to use element
+00:49:38.319	2.88	of mastery in this rotation on a chain
+00:49:39.920	2.80	landing cast when you do not have
+00:49:41.200	3.60	elemental focus active
+00:49:42.720	4.08	also with this rotation even though you
+00:49:44.800	3.28	won't get enough haste usually unlocked
+00:49:46.800	3.36	until later in the game
+00:49:48.079	3.68	to make this the highest dps rotation
+00:49:50.160	2.88	every time you use bloodlust you should
+00:49:51.760	3.12	be using this rotation
+00:49:53.040	4.24	because the bloodlust easily puts you
+00:49:54.880	3.68	over that haste cap that 1.27 to one
+00:49:57.280	2.32	point five nine percent haste so
+00:49:58.559	2.56	whenever you bloodlust
+00:49:59.599	3.20	move into this rotation and you'll
+00:50:01.119	3.84	perform the highest dps
+00:50:02.800	3.36	possible at that level but until then
+00:50:04.960	2.80	use three lightning bolt one chain
+00:50:06.160	3.20	lighting but once you get enough haste
+00:50:07.760	3.12	this will be your highest dps rotation
+00:50:09.359	2.96	for the rest of the game and is also
+00:50:10.880	3.28	more mana efficient than three lighting
+00:50:12.319	3.28	bolt one chain lighting next is the four
+00:50:14.160	3.68	plus lightning bolt chain lightning and
+00:50:15.599	4.48	this isn't an actual rotation per se
+00:50:17.839	2.88	it's the continuum of rotations that
+00:50:20.079	2.32	exist
+00:50:20.720	3.44	between four lightning bolt one chain
+00:50:22.400	4.00	lightning and lightning bolt span
+00:50:24.160	3.84	essentially you can do any rotation that
+00:50:26.400	3.28	has some amount of lightning bolt
+00:50:28.000	3.04	compared to one chain lightning the more
+00:50:29.680	3.28	lightning bolts you cast
+00:50:31.040	4.24	compared to chain lightning will be more
+00:50:32.960	3.12	mana efficient but will also drop off in
+00:50:35.280	1.92	dps
+00:50:36.079	3.20	the four lightning bolt one chain
+00:50:37.200	3.68	lightning is the highest dps rotation
+00:50:39.280	3.44	once you reach a certain haste break
+00:50:40.880	3.36	point which is about 1.5 percent
+00:50:42.720	3.28	before that three landing ball one chain
+00:50:44.240	2.48	landing is the highest dps rotation but
+00:50:46.000	3.68	as we've said
+00:50:46.720	3.68	encounters can be much longer than a
+00:50:49.680	3.04	optimal
+00:50:50.400	3.04	dps rotation can facilitate in those
+00:50:52.720	1.84	situations
+00:50:53.440	2.64	you add more lightning bolts in
+00:50:54.559	3.60	comparison to chain lightning and this
+00:50:56.079	3.84	can be fluid you can do four to one and
+00:50:58.160	3.36	then switch to five to one and then the
+00:50:59.920	3.52	six to one and then back to four to one
+00:51:01.520	3.36	it all depends on how much mana you have
+00:51:03.440	3.76	and the more practice you have doing
+00:51:04.880	3.60	each boss fight you'll know exactly how
+00:51:07.200	2.56	many lightning bolts you'll need to cast
+00:51:08.480	2.96	to get to the end of the fight without
+00:51:09.760	3.60	going um that's the most important thing
+00:51:11.440	3.52	is do as much damage as possible but not
+00:51:13.359	2.24	have any leftover mana at the end of the
+00:51:14.960	2.40	fight right
+00:51:15.599	3.36	that's the key that's the goal you use
+00:51:17.359	3.84	the calculator that he built to kind of
+00:51:18.960	2.64	determine what the best rotation is for
+00:51:21.200	2.64	you
+00:51:21.599	3.92	and use fight length and think about
+00:51:23.839	2.72	that and think about how you're going to
+00:51:25.520	2.80	attack each boss
+00:51:26.559	3.20	and which rotation you're going to use
+00:51:28.319	3.36	again elemental shaman
+00:51:29.760	3.28	on the surface seem very simplistic this
+00:51:31.680	2.72	is where the complexity comes
+00:51:33.040	3.20	knowing which rotation to use to
+00:51:34.400	3.92	maximize your dps finally we have
+00:51:36.240	3.92	lightning bolt spam this is the simplest
+00:51:38.319	3.36	rotation an elemental shaman has access
+00:51:40.160	3.12	to and it's also the most mana
+00:51:41.680	3.36	efficient it's literally just hitting
+00:51:43.280	3.12	lightning bolt over and over and over
+00:51:45.040	2.32	again and it sounds like why would i
+00:51:46.400	2.96	ever use this
+00:51:47.359	4.24	but there are situations where you have
+00:51:49.359	3.76	no idea how long a boss fight's gonna be
+00:51:51.599	2.96	or it's becoming much longer than you
+00:51:53.119	2.40	thought and you're gonna have to resort
+00:51:54.559	2.88	to this rotation
+00:51:55.520	3.52	an unhastened version of this rotation
+00:51:57.440	3.60	without any haste is anywhere between
+00:51:59.040	3.20	five to nine percent less dps than the
+00:52:01.040	2.40	three lightning bolt chain landing with
+00:52:02.240	1.76	the benefit of being extremely
+00:52:03.440	2.56	straightforward
+00:52:04.000	3.04	however at seven to eight percent haste
+00:52:06.000	3.12	which is achievable
+00:52:07.040	3.52	pretty early on in tier six this will
+00:52:09.119	3.28	actually surpass three lightning bolt
+00:52:10.559	3.84	one chain landing in dps and will be the
+00:52:12.400	3.84	most mana efficient so the more haste
+00:52:14.400	3.68	you have the more dps this of course
+00:52:16.240	2.56	rotation will do and that seems pretty
+00:52:18.079	3.52	simplistic
+00:52:18.800	3.60	but it's not as bad to use this rotation
+00:52:21.599	2.80	if you have to
+00:52:22.400	3.44	again you don't have to use just the
+00:52:24.400	2.80	infinite spam lighting bolt you can
+00:52:25.839	2.96	throw it in chain landing every once in
+00:52:27.200	2.96	a while if you feel comfortable enough
+00:52:28.800	3.52	but i can't stress this enough the
+00:52:30.160	4.00	rotations for elemental shaman exists on
+00:52:32.319	3.52	a continuum there's no set rotation
+00:52:34.160	3.44	it's all about how many lightning bolts
+00:52:35.839	3.04	you cast in reference to chain light
+00:52:37.599	3.52	the next four sides are visual
+00:52:38.880	4.24	representations of each of the
+00:52:41.119	3.92	rotations and how much damage they do at
+00:52:43.119	3.12	certain spell power benchmarks so at
+00:52:45.040	3.12	zero spell power
+00:52:46.240	3.84	on the x axis is haste going from zero
+00:52:48.160	3.44	to fifteen percent and on the y axis is
+00:52:50.079	3.44	dps feature rotation
+00:52:51.599	3.60	pink is the standard lightning bolt spam
+00:52:53.520	3.04	just lightning bolt line able any bolt
+00:52:55.200	2.24	the green line is three landing about
+00:52:56.559	2.24	one chain lightning
+00:52:57.440	2.96	the orange line is four lightning bolt
+00:52:58.800	3.12	one chain lining and the blue is five
+00:53:00.400	2.08	lining bolt one chain lightning as you
+00:53:01.920	3.60	can see
+00:53:02.480	3.52	as haste is increased all the rotations
+00:53:05.520	2.56	scale
+00:53:06.000	3.68	in dps except for three million volt one
+00:53:08.079	2.96	chain lightning that's because
+00:53:09.680	3.44	three lighting bolt one chilling is
+00:53:11.040	3.60	inherently unscalable with haste
+00:53:13.119	3.36	because you're casting three lightning
+00:53:14.640	3.76	bolts and then waiting for the chain
+00:53:16.480	3.84	lightning to come off cooldown obviously
+00:53:18.400	3.44	that's not optimal if you have haste
+00:53:20.319	2.16	because the gcd and cast time will be
+00:53:21.839	2.40	reduced
+00:53:22.480	3.60	but as you can see about 15 percent
+00:53:24.240	3.36	haste even with zero spell power
+00:53:26.079	2.72	lightning bolt spam surpasses three
+00:53:27.599	2.72	landing ball one chain lightning at
+00:53:28.800	2.96	about three percent haste the four
+00:53:30.319	2.72	lightning bolt one challenge surpasses
+00:53:31.760	3.04	through that bolt one chain leaning at
+00:53:33.040	3.52	zero spell power but as you add spell
+00:53:34.800	2.24	power these haste break points shift to
+00:53:36.559	2.88	the left
+00:53:37.040	3.04	at 750 spell powers what you'll have
+00:53:39.440	2.48	pretty much
+00:53:40.079	2.80	an early end game in tier four four
+00:53:41.920	2.56	lightning bolt one chain landing
+00:53:42.880	3.52	surpasses three bolt one chain landing
+00:53:44.480	3.76	at only one and a half percent haste and
+00:53:46.400	3.92	lightning bolt spam surpasses around
+00:53:48.240	2.48	eight or nine percent haste so again you
+00:53:50.319	2.08	need
+00:53:50.720	3.12	very little haste as spell power
+00:53:52.400	2.80	increases to surpass through that enemy
+00:53:53.839	2.88	bolt one chain lightning at a thousand
+00:53:55.200	3.20	spell power as you can see it shifts to
+00:53:56.720	2.96	the left even more and finally at twelve
+00:53:58.400	2.88	hundred and fifty spell power which is
+00:53:59.680	3.20	the spell power you'll achieve late game
+00:54:01.280	2.88	you only need a little over one percent
+00:54:02.880	2.72	haste to surpass through the
+00:54:04.160	3.36	ball one chain lightning and these break
+00:54:05.599	4.08	points are very easy to
+00:54:07.520	3.84	get to in tier six you'll get that haste
+00:54:09.680	3.12	very quickly and of course whenever
+00:54:11.359	2.96	you're bloodlusting or berserking if
+00:54:12.800	2.96	you're a troll you'll be able to unlock
+00:54:14.319	2.08	the four lightning bolt one chain lining
+00:54:15.760	2.32	rotation
+00:54:16.400	2.96	so how much haze is required for four
+00:54:18.079	2.80	landing bolt one chain landing to be
+00:54:19.359	2.80	superior to three landing bolt on chain
+00:54:20.880	3.12	lightning as i said again it really
+00:54:22.160	5.36	depends on spell power and crit and we
+00:54:24.000	5.92	have some benchmarks here so 750 to 824
+00:54:27.520	3.84	spell power and 25 to 27 ish
+00:54:29.920	3.36	spell crate which is pretty much what
+00:54:31.359	3.36	you'll have early on you only need about
+00:54:33.280	3.12	1.6 percent haste
+00:54:34.720	3.68	as spell power increases you'll see the
+00:54:36.400	3.84	amount of haste you'll you'll need drops
+00:54:38.400	4.24	it's a non-linear drop off but once you
+00:54:40.240	4.16	get that 750 mark is pretty much
+00:54:42.640	3.04	very easy to get to you'll have that
+00:54:44.400	2.72	very early tier four
+00:54:45.680	2.96	so once you achieve that much spell
+00:54:47.119	2.48	power you only need about one and a half
+00:54:48.640	2.32	percent paste
+00:54:49.599	3.36	to eclipse three lightning bolt one
+00:54:50.960	4.32	chain landing and once ace comes out
+00:54:52.960	3.68	more readily in tier six you'll get that
+00:54:55.280	2.88	very very quickly which means you'll be
+00:54:56.640	3.44	able to switch to that rotation very
+00:54:58.160	3.20	soon and again before that point during
+00:55:00.079	2.72	bloodlust or berserking you should be
+00:55:01.359	3.20	switching that rotation anyway we're
+00:55:02.799	3.44	gonna briefly go over elemental biss
+00:55:04.559	3.20	egregious has a progressive business for
+00:55:06.240	3.36	elemental shaman in the works as a
+00:55:07.760	4.32	static link however that's still
+00:55:09.599	4.00	being uploaded to the website and being
+00:55:12.079	3.60	more polished so in the meantime he's
+00:55:13.599	3.76	provided me 70 upgrades links which will
+00:55:15.680	3.28	be in the description for each tier of
+00:55:17.359	2.64	content now a couple notes to make sure
+00:55:18.960	3.04	is this is assuming
+00:55:20.000	3.68	chaotic skyfire diamond will not being
+00:55:22.000	3.92	at launch but it should be
+00:55:23.680	3.84	so just don't take the gems too
+00:55:25.920	3.28	seriously here make sure you are using
+00:55:27.520	3.36	chaotic skyfire diamond if it's in the
+00:55:29.200	3.60	game at launch another note is to get
+00:55:30.880	3.12	your hands on hex shrunken head and
+00:55:32.799	3.60	skull of godan whenever you
+00:55:34.000	3.36	can hex is a prio but skulls whenever
+00:55:36.400	2.72	because the locks
+00:55:37.359	3.28	and other players usually take it first
+00:55:39.119	3.20	and another note is because of the
+00:55:40.640	2.00	draenei racial you may want to suck it
+00:55:42.319	2.32	more
+00:55:42.640	3.68	plus hit if you are a horde to get to
+00:55:44.640	3.20	cap because we don't need much to get
+00:55:46.319	3.12	the cap but you should get the cap which
+00:55:47.839	3.60	is sixteen percent and you may need a
+00:55:49.440	3.20	little bit more hit from gems than a
+00:55:51.440	2.64	draenei shaman would
+00:55:52.640	3.20	of course because of their racial i'm
+00:55:54.079	3.28	gonna leave each of these screens up so
+00:55:55.839	3.68	you can see what i'm talking about here
+00:55:57.359	3.92	for the pre-radius the encounters cal
+00:55:59.520	3.68	is a good option if you can't get hood
+00:56:01.280	3.12	of the oblivion and then i put some ring
+00:56:03.200	3.44	options to the right
+00:56:04.400	3.12	and khadgar's knapsack which is not a
+00:56:06.640	2.88	bad offhand
+00:56:07.520	3.20	that's comparable to mess throw on her
+00:56:09.520	3.04	shield so these are just
+00:56:10.720	3.20	maybe some alternatives you can get
+00:56:12.559	2.88	moving on to tier four i'll leave this
+00:56:13.920	2.64	up for a few seconds so you can pause
+00:56:15.440	4.72	the video if you want to see
+00:56:16.559	3.60	these pieces of gear tier five
+00:56:20.640	5.60	tier six and finally sunwell once
+00:56:24.880	3.84	egregious is finished
+00:56:26.240	3.76	uploading and polishing the progressive
+00:56:28.720	3.12	business or elemental shaman
+00:56:30.000	3.60	i will be putting a link in this video
+00:56:31.839	3.12	description just check back later and it
+00:56:33.599	2.80	should be there within a week or so
+00:56:34.960	3.20	moving on the outer restrier
+00:56:36.400	3.52	just like restoration the enchants are
+00:56:38.160	3.76	extremely similar but aldor
+00:56:39.920	4.08	is better throughout than scryer and
+00:56:41.920	4.00	scryer's worse by about 3 ep
+00:56:44.000	3.28	worth of spell power but give some on
+00:56:45.920	3.44	other items that you might want
+00:56:47.280	4.24	profession wise or early endgame the
+00:56:49.359	3.92	saffron enchant is comparable to aldor
+00:56:51.520	3.04	and better than scryer in every face so
+00:56:53.280	3.36	if you can get your hand on the
+00:56:54.559	3.68	saffron it's pretty much comparable to
+00:56:56.640	3.36	the outdoor one like i said before
+00:56:58.240	3.12	scryer offers describers blood gem and
+00:57:00.000	2.88	the secret signet which are pretty good
+00:57:01.359	2.96	early game the blood gems not very
+00:57:02.880	3.36	useful for ellie since we are
+00:57:04.319	3.52	naturally near hit cap the seer signal
+00:57:06.240	3.36	is replaced in karazhan so not
+00:57:07.839	3.12	really big reasons to go scryer to be
+00:57:09.599	2.72	honest dray and i are heavily
+00:57:10.960	2.64	incentivized to grow eldor because they
+00:57:12.319	2.72	start with friendly and they start
+00:57:13.599	2.40	unfriendly with describers something to
+00:57:15.040	1.52	keep in mind if you want to play
+00:57:16.000	2.08	alliance
+00:57:16.559	3.68	and like i said without restoration if
+00:57:18.079	3.20	profession items or early gear access is
+00:57:20.240	2.96	really important to you
+00:57:21.280	3.76	go with scryers or whatever faction
+00:57:23.200	3.92	facilitates that but if you're going to
+00:57:25.040	3.92	be bis or min max aldor is the way to go
+00:57:27.119	3.52	let's go over the elemental professions
+00:57:28.960	3.20	as of now with greater jumps of battle
+00:57:30.640	3.12	and no engineering goggles or profession
+00:57:32.160	2.72	swapping the best in slot professions
+00:57:33.760	3.04	for elemental shamans
+00:57:34.880	3.84	personal dps is leather working for
+00:57:36.799	3.92	drums in the crafted gear and enchanting
+00:57:38.720	4.16	for the ring enchants so very similar
+00:57:40.720	3.44	to restoration engineering is good for
+00:57:42.880	2.88	explosive may be used
+00:57:44.160	3.04	in addition to or instead of leather
+00:57:45.760	2.80	working after phase two depending on
+00:57:47.200	2.64	your rate composition and strategy
+00:57:48.559	2.72	especially if you're speed running
+00:57:49.839	3.12	as of april 29th blizzard has
+00:57:51.280	2.96	implemented tinnitus for all drums which
+00:57:52.960	2.88	makes them unchainable
+00:57:54.240	2.80	this significantly lowers the utility of
+00:57:55.839	3.12	stacking leather working but other
+00:57:57.040	3.76	working retains its value for the single
+00:57:58.960	3.44	drummer in any group this is also true
+00:58:00.799	3.44	if your group is spread and thus not
+00:58:02.400	2.48	benefiting from drums or suffering from
+00:58:04.240	2.24	tinnitus
+00:58:04.880	3.20	enchanting is better than jewelcrafting
+00:58:06.480	3.60	by about 20 spell power
+00:58:08.079	3.68	until sunwell at which point it's only
+00:58:10.079	3.36	about one spell power this is not
+00:58:11.760	3.52	considered buff necks like chain of
+00:58:13.440	2.56	twilight owl which increase the delta
+00:58:15.280	2.40	between
+00:58:16.000	3.76	enchanting and jewelcrafting if your
+00:58:17.680	3.68	guild requires you to use them however
+00:58:19.760	3.44	these are bind on equip you don't need
+00:58:21.359	2.56	to be jewel crafting to wear these so if
+00:58:23.200	2.64	your guild
+00:58:23.920	4.16	is requiring you to wear these buff
+00:58:25.839	3.52	necks which we cover in the elemental
+00:58:28.079	3.44	guide i won't cover them here
+00:58:29.359	3.76	it may be more cost benefit for you to
+00:58:31.520	2.72	go jewel crafting so you can make your
+00:58:33.119	2.80	own but again you don't have to be
+00:58:34.240	3.36	jewelcrafting to wear these you just
+00:58:35.920	3.04	have to be jewelcrafting to make them
+00:58:37.599	2.24	and if you can make your own that might
+00:58:38.960	2.56	save you some coins
+00:58:39.839	3.20	towering for the spellstrike or sunfire
+00:58:41.520	2.96	robe is never biss that's something
+00:58:43.040	2.72	that's changed between this guy and that
+00:58:44.480	2.16	guide so if you were going to go
+00:58:45.760	2.64	tailoring for
+00:58:46.640	3.36	elemental just don't the set bonus is
+00:58:48.400	3.76	only worth about 20 spell power round
+00:58:50.000	4.00	chanting is worth 24 spell power and
+00:58:52.160	2.64	sunfire robe is worth only about 10
+00:58:54.000	2.56	spell power
+00:58:54.799	3.60	while enchanting is worth 24 and
+00:58:56.559	3.76	jewelcrafting is worth 23. so
+00:58:58.400	3.28	if you don't want to change professions
+00:59:00.319	1.92	leatherworking and enchanting is the way
+00:59:01.680	2.00	to go
+00:59:02.240	3.28	if you don't want to change professions
+00:59:03.680	3.20	and you want to save some coin with the
+00:59:05.520	2.80	buff necks if you have to wear them
+00:59:06.880	1.84	leather working jewelcrafting is the way
+00:59:08.319	3.12	to go
+00:59:08.720	4.00	and if you are perhaps doing speed runs
+00:59:11.440	2.88	maybe engineering and either
+00:59:12.720	3.52	jewelcrafting and enchanting is the way
+00:59:14.319	4.40	to go moving on to the most extensive
+00:59:16.240	4.32	and interesting in my opinion section of
+00:59:18.720	2.32	the theory craft is the enhancement
+00:59:20.559	2.40	section
+00:59:21.040	4.08	or what i call the black box there's a
+00:59:22.960	4.08	lot of moving parts in that black box to
+00:59:25.119	3.60	make enhancement work to make it more
+00:59:27.040	3.12	optimal to make it more efficient
+00:59:28.720	2.80	and i find it to be extremely
+00:59:30.160	3.28	interesting it's not for the faint of
+00:59:31.520	4.88	heart there's a lot of things you can do
+00:59:33.440	4.24	to improve your dps or your buffs that
+00:59:36.400	3.20	you give to other people
+00:59:37.680	3.68	and being the best enhancement shaman
+00:59:39.599	3.12	just requires more dedication in my
+00:59:41.359	3.12	opinion but doesn't mean you should be
+00:59:42.720	4.72	scared out of it there's a lot to learn
+00:59:44.480	3.52	and if you enjoy problem solving and you
+00:59:47.440	2.56	enjoy
+00:59:48.000	3.20	going the extra step to do some more
+00:59:50.000	3.68	damage or to
+00:59:51.200	3.28	squeeze out and eke out maybe more buffs
+00:59:53.680	3.20	for your party
+00:59:54.480	3.44	enhancements definitely the spec for you
+00:59:56.880	2.72	and that's why i
+00:59:57.920	3.68	have officially decided to roll
+00:59:59.599	3.12	enhancement in tbc classic so the first
+01:00:01.599	2.80	time i've actually said this
+01:00:02.720	2.88	i will be switching from i knew i was
+01:00:04.400	2.56	switching from resto i originally
+01:00:05.599	2.72	thought it was gonna be elemental but i
+01:00:06.960	3.04	kind of fell in love with enhancement on
+01:00:08.319	3.36	the beta and while doing testing for the
+01:00:10.000	3.36	last advanced shopping guide so it's a
+01:00:11.680	3.12	lot of fun let's get started as with all
+01:00:13.359	3.28	the other specs let's go over some
+01:00:14.799	2.24	enhancement resources that are available
+01:00:16.640	1.60	to you
+01:00:17.040	3.20	that i'll be highlighting in this
+01:00:18.240	2.88	portion of the guide nigerian and beagle
+01:00:20.240	3.04	have created a
+01:00:21.119	3.28	spreadsheet and sim for enhancement link
+01:00:23.280	3.52	will be in the description below
+01:00:24.400	4.88	this lets you put in gear talents
+01:00:26.799	4.80	everything and then sims the dps for you
+01:00:29.280	4.16	they are working on creating a website
+01:00:31.599	3.28	for this to be hosted on but it works
+01:00:33.440	2.88	fine in the spreadsheet just make sure
+01:00:34.880	3.04	you make your own copy and play around
+01:00:36.319	3.44	with it it's very very good this is how
+01:00:37.920	3.60	a lot of the dps metrics have been
+01:00:39.760	3.84	pulled and extrapolated from for this
+01:00:41.520	2.72	guide there's also abyssless by garcour
+01:00:43.599	3.36	and gitch
+01:00:44.240	4.64	who are continuing to work on using the
+01:00:46.960	3.60	simulator to create the best list for
+01:00:48.880	4.32	each tier and then evan and i have
+01:00:50.559	3.12	produced a enhancement pve video about a
+01:00:53.200	2.72	month
+01:00:53.680	4.08	or two ago and that's very sound for
+01:00:55.920	2.40	understanding the ins and outs abilities
+01:00:57.760	2.80	to use
+01:00:58.319	3.92	what talents to use and understanding
+01:01:00.559	3.76	what weapon and views to use in your
+01:01:02.240	3.44	basic rotation this guide will go over
+01:01:04.319	3.04	some new things we've learned about
+01:01:05.680	2.88	enhanced while that video was made and
+01:01:07.359	3.68	some additions to
+01:01:08.559	4.64	this and professions okay so about the
+01:01:11.040	3.36	36 percent windfury wind fury proc
+01:01:13.200	3.36	feature i alluded to this
+01:01:14.400	3.68	in the beginning parts of the guide and
+01:01:16.559	4.40	this is a very interesting
+01:01:18.079	5.20	aspect of enhancement dps now this was
+01:01:20.960	2.80	figured out in original tbc by latest
+01:01:23.280	2.48	jerks
+01:01:23.760	3.52	and private servers did code as far as
+01:01:25.760	3.76	we know this feature
+01:01:27.280	4.40	in them as well and we did two
+01:01:29.520	4.64	independent tests to see if this was
+01:01:31.680	4.40	actually a thing in the tbc beta and
+01:01:34.160	3.60	we've corroborated that it does exist so
+01:01:36.079	3.36	what this means is that
+01:01:37.760	3.04	each of your weapons when you're dual
+01:01:39.440	2.64	wielding and you have to have both of
+01:01:40.799	2.88	them imbued with wind fury
+01:01:42.079	3.36	in order for this to be a thing each
+01:01:43.680	3.12	year weapons has an independent proc
+01:01:45.440	3.36	chance of 36
+01:01:46.799	3.76	to proc win fury weapon now remember
+01:01:48.799	2.48	there is a three second icd for wind
+01:01:50.559	3.60	fury so
+01:01:51.280	3.52	this 36 chance only occurs if you're
+01:01:54.160	3.20	outside
+01:01:54.799	3.04	of the icd the first way we approached
+01:01:57.359	2.64	this
+01:01:57.839	4.00	was work that was done by dragon hoof
+01:02:00.000	3.36	the bloodborne and t-bone and i'm
+01:02:01.839	2.80	missing anyone i apologize i know
+01:02:03.359	1.60	there's probably more people involved in
+01:02:04.640	3.68	this
+01:02:04.960	5.20	they worked with logs they had of 3145
+01:02:08.319	3.20	melee hits with winfrey winfrey and bu
+01:02:10.160	5.20	and they showed a 36
+01:02:11.520	5.76	proc chance out of those 3145 1825 were
+01:02:15.359	5.36	outside the icd and that consisted of
+01:02:17.280	6.00	897 main hand hits and 924 offhand hits
+01:02:20.720	3.60	for those hits there were a total of 646
+01:02:23.280	4.00	win fury procs
+01:02:24.319	4.40	342 main hand and 304 offhand therefore
+01:02:27.280	4.00	the proc chance of win fury is
+01:02:28.720	4.96	approximately 35.4 percent
+01:02:31.280	4.08	if you take 646 procs divided by total
+01:02:33.680	4.24	amount of attacks outside the icd which
+01:02:35.359	3.52	is 1825. however if you look at the
+01:02:37.920	5.44	total average
+01:02:38.880	5.92	so 646 win furious out of those 3145 the
+01:02:43.359	3.60	chance to proclaim fury
+01:02:44.799	3.84	total is 20 percent now you're saying
+01:02:46.960	4.08	yourself well meldaron that's 20
+01:02:48.640	3.92	it's not 36 however if the winning fury
+01:02:51.039	4.44	proc chance independently
+01:02:52.559	5.92	was actually 20 then there will be only
+01:02:55.480	4.60	365 win fury products outside the icd
+01:02:58.480	3.20	for an overall winfrey proc chance of
+01:03:00.079	4.24	only 11.6 percent
+01:03:01.680	3.04	so this was a way for blizzard to kind
+01:03:04.319	3.12	of
+01:03:04.720	5.20	control for the icd by making the
+01:03:07.440	4.80	independent win fury chance 36
+01:03:09.920	5.04	when dual wielding and dual imbuing win
+01:03:12.240	4.48	fury you get to a grand total of 20
+01:03:14.960	3.36	by increasing the proc chance this is
+01:03:16.720	3.76	actually really important and if you
+01:03:18.319	4.08	only use one winfurion view when dual
+01:03:20.480	2.88	wielding or using a two-hander then the
+01:03:22.400	4.64	win fury proc
+01:03:23.359	5.44	chance even outside the icd is only 20
+01:03:27.039	4.00	this is big and this is one of the
+01:03:28.799	4.24	reasons why windshield wind fury is one
+01:03:31.039	3.36	of the top imbues for dps it wouldn't be
+01:03:33.039	4.00	if it was only 20
+01:03:34.400	4.56	and why it's also more consistent than
+01:03:37.039	3.68	it was in vanilla classic but i did a
+01:03:38.960	2.72	second test myself to just kind of
+01:03:40.720	2.96	corroborate this
+01:03:41.680	3.52	so this all started when ale was talking
+01:03:43.680	2.40	we were talking about enhancement
+01:03:45.200	3.76	shamans in
+01:03:46.079	4.96	pvp topic conversation was about wind
+01:03:48.960	2.96	fury in an opener so you're like you're
+01:03:51.039	3.04	running up to a
+01:03:51.920	3.76	an enemy and you click the attack button
+01:03:54.079	3.20	and you click storm strike at the same
+01:03:55.680	2.40	time well in those situations you're
+01:03:57.280	3.04	actually attacking
+01:03:58.079	3.76	four times in a very short window your
+01:04:00.319	3.68	main hand and offhand
+01:04:01.839	3.12	attack storm strike also attacks that's
+01:04:04.000	2.88	four total
+01:04:04.960	3.12	potential attacks that can land of
+01:04:06.880	3.04	course they could be missed
+01:04:08.079	3.12	dodged parried blocked whatever
+01:04:09.920	2.08	depending on who you're fighting but if
+01:04:11.200	2.88	all four of those
+01:04:12.000	3.84	land the question male proposes like
+01:04:14.079	2.72	well how often would wouldn't fury proc
+01:04:15.839	2.80	in those openers
+01:04:16.799	3.04	and indirectly this is a way to also
+01:04:18.640	3.36	test the 36
+01:04:19.839	3.44	proc feature since all those attacks are
+01:04:22.000	3.36	happening all at once
+01:04:23.280	3.36	only one of them can proc wind fury if
+01:04:25.359	3.28	there wasn't an icd
+01:04:26.640	3.04	all four could potentially proc wind
+01:04:28.640	2.72	fury and that would be
+01:04:29.680	2.96	pretty amazing and pretty overpowered
+01:04:31.359	3.12	and enhanced with shaman could
+01:04:32.640	4.24	potentially one shot any class
+01:04:34.480	4.32	in pvp because of that so i did some
+01:04:36.880	3.52	basic math and if the weighty fury proc
+01:04:38.799	3.76	chance is actually 20
+01:04:40.400	4.00	when dual wielding and dual imbuing win
+01:04:42.559	3.76	fury then we only expect to see a win
+01:04:44.400	3.60	fury proc at only 59
+01:04:46.319	3.36	of those openers and the math of the
+01:04:48.000	3.44	probability to calculate that is one
+01:04:49.680	3.36	minus the chance of not procking win
+01:04:51.440	3.36	fury which would be 80
+01:04:53.039	3.20	if it was a twenty percent chance raised
+01:04:54.799	4.24	to the amount of hits there are
+01:04:56.240	3.68	so four so one minus point eight raised
+01:04:59.039	3.92	to the fourth power
+01:04:59.920	3.76	is 59 or 0.59 however the win fury proc
+01:05:02.960	2.48	chance is
+01:05:03.680	4.32	actually 36 percent then we expect to
+01:05:05.440	5.12	see a win fury proc and 83.2
+01:05:08.000	4.24	percent of openers so it's one minus the
+01:05:10.559	2.72	chance of not proclaiming winfury which
+01:05:12.240	2.72	is 64
+01:05:13.280	3.92	raised to the amount of hits or four and
+01:05:14.960	4.40	i did a bunch of openers and tested this
+01:05:17.200	3.84	and i only used openers where all four
+01:05:19.359	2.24	hits actually hit the target and lo and
+01:05:21.039	3.44	behold
+01:05:21.599	4.56	i observed wind fury proxima 83 of the
+01:05:24.480	3.20	openers so this is another piece of
+01:05:26.160	3.76	evidence to show that there is a proc
+01:05:27.680	4.24	feature 36 proc feature when dual
+01:05:29.920	3.84	imbuing win fury and wind fury so just
+01:05:31.920	3.12	take this in mind keep it in mind and
+01:05:33.760	4.00	understand that this
+01:05:35.039	4.96	is part of tbc and it always was a part
+01:05:37.760	3.20	of tbc even in original and it's a way
+01:05:40.000	3.36	to normalize
+01:05:40.960	4.72	the win fury chance to proc with a 3
+01:05:43.359	5.36	second icd limitation and this
+01:05:45.680	4.80	second test is exactly why blizzard did
+01:05:48.720	3.60	an icd so let's think about this
+01:05:50.480	3.92	quickly for a second all blizzard needed
+01:05:52.319	4.40	to do was give wind fury a 20
+01:05:54.400	4.32	rock chance and not have an icd and you
+01:05:56.720	2.72	would get the same result you would get
+01:05:58.720	2.96	on average
+01:05:59.440	3.36	over the course of combat 20 of your
+01:06:01.680	2.96	attacks procking
+01:06:02.799	4.00	wind fury so then why would you impose
+01:06:04.640	3.04	an icd it's actually very simple and
+01:06:06.799	3.20	it's because
+01:06:07.680	3.20	of the pvp aspect imagine if there was
+01:06:10.000	2.88	no icd
+01:06:10.880	4.08	and all four of those attacks on the
+01:06:12.880	3.76	opener could proc wind fury or imagine
+01:06:14.960	3.28	even further that all of your attacks
+01:06:16.640	3.28	could proc win fury at a 20
+01:06:18.240	3.60	rate enhancement shaman attack very
+01:06:19.920	2.64	frequently because of flurry because of
+01:06:21.839	2.48	storm strike
+01:06:22.559	3.28	only being a 10 second cooldown i think
+01:06:24.319	3.52	blizzard was afraid that enhanced
+01:06:25.839	3.84	michonne would be too overpowered in pvp
+01:06:27.839	3.12	so they imposed a three second icd and
+01:06:29.680	2.32	limitation and then thought to
+01:06:30.960	3.04	themselves wow we just
+01:06:32.000	3.84	really significantly nerfed dps though
+01:06:34.000	3.60	how can we rectify that the way you
+01:06:35.839	4.16	rectify that is you increase the proc
+01:06:37.599	3.76	chance to 36 percent outside of the icd
+01:06:40.000	4.24	you still get your 20
+01:06:41.359	3.76	overall chance to proc but you nerf the
+01:06:44.240	3.76	randomness
+01:06:45.119	3.68	of multiple inferior procs in pvp this
+01:06:48.000	2.40	has never been
+01:06:48.799	3.44	officially announced as to why there was
+01:06:50.400	3.44	an icd but this is the reason i'm going
+01:06:52.240	2.00	with and it makes the most sense to me
+01:06:53.839	3.36	so
+01:06:54.240	5.28	tldr this feature is in tbc it's to
+01:06:57.200	5.04	normalize dps around an icd
+01:06:59.520	4.08	imposed because of pvp that's my stance
+01:07:02.240	2.08	on it if you have any more thoughts on
+01:07:03.599	2.40	it let me know
+01:07:04.319	3.52	but that's why i think they imposed it
+01:07:06.000	3.20	okay now moving on to shamanistic rage
+01:07:07.839	2.16	this is a cool down that you'll have
+01:07:09.200	2.40	every two minutes
+01:07:10.000	3.20	and your 41 point talent is an
+01:07:11.599	4.00	enhancement shaman and it's basically an
+01:07:13.200	5.12	evocate each melee attack has a chance
+01:07:15.599	3.44	to return mana back to you but how often
+01:07:18.319	2.08	does it happen
+01:07:19.039	3.04	this is a question a lot of us had at
+01:07:20.400	4.72	least i did going into tbc
+01:07:22.079	5.28	classic is it a ppm is it just
+01:07:25.119	3.04	chance on hit like what is it i tested
+01:07:27.359	2.80	this with
+01:07:28.160	3.12	with multiple mu combinations different
+01:07:30.160	2.88	weapon speeds
+01:07:31.280	3.52	i tested it without storm strike with
+01:07:33.039	3.52	storm strike with a two-hander and
+01:07:34.799	3.36	you can see right now this is a box plot
+01:07:36.559	2.80	and i've used box plots in almost all my
+01:07:38.160	3.36	presentations but
+01:07:39.359	3.84	and i did a analysis of variants and
+01:07:41.520	3.28	what that means is a statistical test to
+01:07:43.200	3.28	determine if two block spots are
+01:07:44.799	3.36	different from one another if any box
+01:07:46.480	2.88	plot shares a letter that means they're
+01:07:48.160	3.36	not different from each other
+01:07:49.359	3.68	so if we notice all the ones with a's
+01:07:51.520	3.52	here are ones i did
+01:07:53.039	3.44	dual wielding with storm strike at
+01:07:55.039	3.36	different weapon speeds and different
+01:07:56.480	3.28	views as you can see here whether you're
+01:07:58.400	3.20	using wind fury or not
+01:07:59.760	3.52	whether it's a slow weapon a fast weapon
+01:08:01.599	3.44	it doesn't matter the average amount of
+01:08:03.280	2.72	procs or mana returns you get with
+01:08:05.039	2.56	shamanistic rage
+01:08:06.000	3.04	is is not different from each other
+01:08:07.599	3.36	statistically going into this i thought
+01:08:09.039	4.16	well maybe wind fury extra attacks
+01:08:10.960	3.52	can proc shamanistic rage maybe faster
+01:08:13.200	4.08	weapons can do it
+01:08:14.480	3.28	no actually it's on a ppm of some kind
+01:08:17.279	1.68	so
+01:08:17.759	2.48	it doesn't matter what in view you're
+01:08:18.960	2.80	using doesn't matter how fast your
+01:08:20.239	3.20	weapons are how slow they are
+01:08:21.759	3.04	as long as your dual wielding and using
+01:08:23.440	2.96	storm strike you're going to get about
+01:08:24.799	3.68	11 procs per cd
+01:08:26.400	3.76	on average of mana return and that's
+01:08:28.480	3.04	huge that's enough to fill your entire
+01:08:30.159	3.36	mana bar then i said to myself
+01:08:31.520	3.60	what if i take storm strike out is storm
+01:08:33.520	3.92	strike causing more
+01:08:35.120	3.92	procs to come and yes it is so if you'll
+01:08:37.440	2.64	notice dual wielding without storm
+01:08:39.040	2.88	strike you'll see a b
+01:08:40.080	3.92	over that box plot that means it's
+01:08:41.920	3.60	significantly lower than the other ones
+01:08:44.000	3.36	with storm strike so you're only getting
+01:08:45.520	3.36	about eight procs per cd if you're dual
+01:08:47.359	2.56	building with no storm strike and then i
+01:08:48.880	2.56	said okay what if you're using a
+01:08:49.920	2.56	two-hander because people might want to
+01:08:51.440	3.04	use two-handers
+01:08:52.480	3.04	maybe in pvp some people still think
+01:08:54.480	2.96	two-handers are good
+01:08:55.520	3.36	for ppe which unfortunately they're not
+01:08:57.440	3.52	but what happens then
+01:08:58.880	3.04	problem is they attack so infrequently
+01:09:00.960	3.04	that you get
+01:09:01.920	3.36	significantly less than if you're dual
+01:09:04.000	3.12	wielding so you only get about
+01:09:05.279	3.84	six procs per cd if you're using a
+01:09:07.120	3.52	two-hander and using storm strike and if
+01:09:09.120	2.72	you take out storm strike with the
+01:09:10.640	2.48	two-hander you're only getting about
+01:09:11.839	2.80	four procs per cooldown
+01:09:13.120	3.52	long story short here the take-home
+01:09:14.640	2.40	messages when you're using shamastic
+01:09:16.640	2.08	rage
+01:09:17.040	3.04	make sure you're using two weapons your
+01:09:18.719	2.72	dual wielding doesn't matter what speed
+01:09:20.080	1.68	they are doesn't matter what bu they
+01:09:21.440	1.68	have
+01:09:21.759	3.04	and make sure your storm's striking
+01:09:23.120	3.60	that's the way you'll get the most
+01:09:24.799	3.84	out of the mana return from shamanistic
+01:09:26.719	2.80	rage okay it's not about wind fury wind
+01:09:28.640	2.72	fury is
+01:09:29.520	3.84	not as simplistic as we thought we
+01:09:31.359	3.68	already found out that it has a 36
+01:09:33.359	3.04	proc feature that's kind of hidden but
+01:09:35.040	2.48	there's another kind of interesting
+01:09:36.400	2.96	thing that happens with
+01:09:37.520	3.12	wind fury in tbc classic and that's to
+01:09:39.359	2.72	do with elemental weapons
+01:09:40.640	4.00	so there are two main reasons why wind
+01:09:42.080	5.52	fairy wind fury is the superior option
+01:09:44.640	4.48	and it's because of the proc feature and
+01:09:47.600	3.52	because of sync stagger which we'll be
+01:09:49.120	3.52	talking about in some later slides but
+01:09:51.120	3.84	also elemental weapons
+01:09:52.640	4.08	acts on the effect of wind fury
+01:09:54.960	2.80	differently in tbc classic than it did
+01:09:56.719	2.40	in vanilla classic
+01:09:57.760	3.28	if you look at the tooltips here as you
+01:09:59.120	3.04	can see by the spell wording the effect
+01:10:01.040	4.40	is adding ap
+01:10:02.159	5.36	to two free swings in classic but in tbc
+01:10:05.440	4.40	the effect is dealing additional damage
+01:10:07.520	4.48	the elemental weapons talent multiplies
+01:10:09.840	4.40	just the bonus ap and classic but the
+01:10:12.000	4.00	entire additional damage in tbc
+01:10:14.239	3.76	the next slides will break this down
+01:10:16.000	3.12	mathematically but this is a buff to win
+01:10:18.000	3.36	fury in general
+01:10:19.120	4.64	over vanilla classic this is an image
+01:10:21.360	3.92	showing how wind fury breaks down in
+01:10:23.760	3.20	classic versus tbc
+01:10:25.280	4.00	in this panel the character has a
+01:10:26.960	4.72	thousand attack power the weapon dps is
+01:10:29.280	2.96	100 the weapons swing speed is 2.6
+01:10:31.679	2.88	seconds
+01:10:32.239	3.76	and we're going to use rank 4 win fury
+01:10:34.560	3.44	because it existed in both
+01:10:36.000	4.16	classic and tvc classic and it provides
+01:10:38.000	4.00	a 333 attack power buff
+01:10:40.159	3.04	and we have 3 out of 3 elemental weapons
+01:10:42.000	3.04	so we're getting that 40
+01:10:43.199	3.28	increase to the wind fury effect in
+01:10:45.040	4.56	classic the normal hit
+01:10:46.480	4.56	does 446 damage because the weapon dps
+01:10:49.600	2.96	plus the character's attack power
+01:10:51.040	3.84	divided by 14 which is
+01:10:52.560	4.40	how we calculate dps times weapon speed
+01:10:54.880	3.76	so that normal hit does 446.
+01:10:56.960	4.08	the first extra attack and the second
+01:10:58.640	5.12	extra attack are duplicated in this
+01:11:01.040	4.80	example and they do 532 damage it's the
+01:11:03.760	3.12	weapon dps plus the character ap divided
+01:11:05.840	4.16	by 14
+01:11:06.880	5.36	plus the windfury attack power times
+01:11:10.000	3.20	the effect of elemental weapons divided
+01:11:12.239	2.32	by 14
+01:11:13.199	3.04	times the weapon speed that's the
+01:11:14.560	3.92	equation to determine the
+01:11:16.239	3.28	extra attack power bonus with elemental
+01:11:18.480	3.20	weapons in classic
+01:11:19.520	3.44	so total our two extra attacks and our
+01:11:21.679	4.56	normal hit deliver
+01:11:22.960	4.32	1510 damage in tbc classic the normal
+01:11:26.239	3.28	hit does the same amount
+01:11:27.280	3.60	same equation but the extra attacks do
+01:11:29.520	3.36	more damage and here's why
+01:11:30.880	3.68	the equation is weapon dps plus
+01:11:32.880	3.44	character ap divided by 14
+01:11:34.560	4.16	plus the wind fury attack power divided
+01:11:36.320	5.12	by 14 and here we see the difference
+01:11:38.719	4.40	the one plus elemental weapons term is
+01:11:41.440	3.36	not there so that's one difference you
+01:11:43.120	3.44	add all those up and then you multiply
+01:11:44.800	3.68	the weapon speed and then you multiply
+01:11:46.560	3.60	the bonus so the difference is the bonus
+01:11:48.480	4.24	gets multiplied at the end
+01:11:50.159	3.04	and it affects the entire swing instead
+01:11:52.719	2.56	of just
+01:11:53.199	5.12	the first term of the equation so that
+01:11:55.280	4.88	results in 711 damage with the same
+01:11:58.320	4.88	rank of inferior weapon so if we add all
+01:12:00.159	5.28	that damage together it's 1868 damage
+01:12:03.199	2.96	compared to 1510 damage in classic
+01:12:05.440	3.44	vanilla
+01:12:06.159	3.12	24 increase in damage with these stats
+01:12:08.880	2.72	so
+01:12:09.280	3.20	in tbc in this situation the main hand
+01:12:11.600	3.84	wind fury hit
+01:12:12.480	5.44	does 178 more damage than vanilla and a
+01:12:15.440	4.16	crit would do 357 more damage than
+01:12:17.920	3.68	vanilla we can go a step further and add
+01:12:19.600	3.52	and do this again but with 3 000
+01:12:21.600	2.72	attack power as you can see here all the
+01:12:23.120	2.80	math is the same the only thing that
+01:12:24.320	2.24	changes here is the attack power on the
+01:12:25.920	4.08	character
+01:12:26.560	5.52	and in classic the total damage is 2 625
+01:12:30.000	4.56	damage and in tbc classic it's 3
+01:12:32.080	3.84	279 damage that's a percent increase of
+01:12:34.560	4.32	25
+01:12:35.920	3.52	so the increase in damage the buff if
+01:12:38.880	3.12	you will
+01:12:39.440	3.28	increases with attack power and are in
+01:12:42.000	2.40	tbc
+01:12:42.719	5.44	with this much attack power our wind
+01:12:44.400	6.12	fury main hand hit will do 326.8 damage
+01:12:48.159	5.28	or 327 damage and a crit would do
+01:12:50.520	4.84	654 damage more than a one in classic
+01:12:53.440	3.92	another reason why wind fury is
+01:12:55.360	3.68	the best in view in tbc is because it
+01:12:57.360	2.08	gets buffed plainly because of this
+01:12:59.040	2.56	change
+01:12:59.440	3.52	windfury as a weapon imbue is the best
+01:13:01.600	4.24	because it scales
+01:13:02.960	4.96	flame tongue also scales vc part 1 of
+01:13:05.840	3.76	this advanced shaman guide for tbc i
+01:13:07.920	2.48	talk about how infuriate scales with
+01:13:09.600	2.64	attack power
+01:13:10.400	3.52	because how mental quickness also
+01:13:12.239	3.36	increases spell power so the more attack
+01:13:13.920	3.28	power you have the more spell power
+01:13:15.600	3.84	flame tongue gets however
+01:13:17.199	4.32	wind fury scales better because it
+01:13:19.440	4.16	scales with physical dps stats of the
+01:13:21.520	4.00	weapon so for early end game though
+01:13:23.600	4.08	very early on before you really have
+01:13:25.520	3.76	good weapons i wanted to test
+01:13:27.679	3.44	what the imbues would look like compared
+01:13:29.280	3.68	to each other and in the first box plot
+01:13:31.120	2.40	the bigger box plot here we have is just
+01:13:32.960	2.16	solo
+01:13:33.520	3.60	with that and not in a rage is kind of
+01:13:35.120	3.68	by yourself wind fury and flame tongue
+01:13:37.120	3.12	comparison as you can see here we talked
+01:13:38.800	2.96	about in part one if you don't know what
+01:13:40.239	2.96	i'm talking about please re-watch that
+01:13:41.760	3.44	because we talked about how flame tongue
+01:13:43.199	2.96	is a speed agnostic and view and wind
+01:13:45.199	2.40	fury is not
+01:13:46.159	3.20	the reason why you want to have the
+01:13:47.600	3.04	slowest weapons possible if you're using
+01:13:49.360	3.76	wind fury is because
+01:13:50.640	4.32	slower weapons lead to bigger wind fury
+01:13:53.120	3.60	hits and stronger wind fury hits
+01:13:54.960	3.68	in the first box plot here we see wind
+01:13:56.719	3.76	fury winfrey with two slow weapons it's
+01:13:58.640	2.56	the highest dps recorded in all the
+01:14:00.480	2.80	tests i did
+01:14:01.199	3.76	if you drop one of the weapons to a fast
+01:14:03.280	4.00	weapon and here i use the offhand as a
+01:14:04.960	4.40	fast weapon with double win fury the dps
+01:14:07.280	4.24	drops off significantly if both weapons
+01:14:09.360	3.20	are fast it drops off even more and
+01:14:11.520	3.20	significantly so
+01:14:12.560	3.28	significantly so statistically the three
+01:14:14.719	3.04	black spots on the right
+01:14:15.840	3.20	or the more orange color are wind fury
+01:14:17.760	2.88	flame tongue when if you're in the main
+01:14:19.040	2.72	hand flame tongue in the offhand with
+01:14:20.640	3.68	two sole weapons
+01:14:21.760	4.48	it's lower than wind fury wind fury but
+01:14:24.320	2.32	not significantly so it's still lower
+01:14:26.239	2.56	though
+01:14:26.640	4.40	if you use slow fast it's the same
+01:14:28.800	3.68	amount of dps statistically so again
+01:14:31.040	2.96	you can use a fast weapon with
+01:14:32.480	3.60	flametongue it doesn't matter it doesn't
+01:14:34.000	3.76	drop the dps but the minute you put
+01:14:36.080	3.52	a fast weapon on the main hand as you
+01:14:37.760	3.68	see wind fury flame tongue with fast
+01:14:39.600	3.20	fast the weapon dps drops off
+01:14:41.440	3.68	significantly so
+01:14:42.800	4.24	in early endgame let's say you have a
+01:14:45.120	3.44	good main hand for windfury and you
+01:14:47.040	3.12	found a really good dagger let's say
+01:14:48.560	2.80	you're exalted on the factions and
+01:14:50.159	1.92	you're able to buy one of the purple
+01:14:51.360	2.32	daggers
+01:14:52.080	3.28	you might be able to get away with
+01:14:53.679	3.36	windfury flames on because
+01:14:55.360	3.44	using flametongue on a fast weapon
+01:14:57.040	2.32	doesn't significantly decrease the dps
+01:14:58.800	2.24	at all
+01:14:59.360	3.04	in fact it's the same and that's because
+01:15:01.040	2.96	of how flame tongue works
+01:15:02.400	3.12	because it benefits in different ways
+01:15:04.000	2.96	the faster the weapon it benefits more
+01:15:05.520	2.48	from the magical damage the slower the
+01:15:06.960	2.48	weapon it benefits more
+01:15:08.000	2.48	by a storm strike and if again if you
+01:15:09.440	2.88	don't know what i'm talking about please
+01:15:10.480	2.32	watch part one i go into depth what that
+01:15:12.320	2.16	means
+01:15:12.800	3.12	so an early endgame before you get your
+01:15:14.480	2.96	best weapons and you
+01:15:15.920	2.88	maybe have access to a really nice
+01:15:17.440	3.44	dagger in the offhand that's got a
+01:15:18.800	3.36	really high dps but it's really fast and
+01:15:20.880	2.88	you don't want to put your main hand
+01:15:22.159	4.08	try wooden fury flame tongue in the
+01:15:23.760	3.04	second imbue comparison i just compared
+01:15:26.239	2.08	everything
+01:15:26.800	2.80	wind fury wind fury rock by the rock
+01:15:28.320	3.36	biter flame tongue flame tongue
+01:15:29.600	2.72	frostband frostband wind fury flame
+01:15:31.679	2.32	tongue again
+01:15:32.320	2.96	two handers there's a lot of box plots
+01:15:34.000	1.68	here maybe you want to stare at for a
+01:15:35.280	2.16	while
+01:15:35.679	3.84	the take home message here is that
+01:15:37.440	3.44	two-handers just aren't cutting it as
+01:15:39.520	3.68	far as dps is concerned
+01:15:40.880	3.20	the win fury two-hander is lower than
+01:15:43.199	3.36	almost all
+01:15:44.080	4.32	of the dual-wield setups it's comparable
+01:15:46.560	2.88	to flametongue flametongue and frostband
+01:15:48.400	2.72	frostbin but it's
+01:15:49.440	3.28	way lower than winning fury windfury and
+01:15:51.120	3.12	this is the same item level weapons
+01:15:52.719	2.96	we're using here and you can see across
+01:15:54.239	3.84	the board two handers just don't do very
+01:15:55.679	4.16	well the two highest dps's are wind fury
+01:15:58.080	2.88	wind fury and wind fury flame tongue and
+01:15:59.840	2.00	that's the same thing we see in the
+01:16:00.960	2.40	first box plot
+01:16:01.840	3.52	if you think that two handers are gonna
+01:16:03.360	3.44	be a way to go for dps and enhancement i
+01:16:05.360	2.16	have some bad news for you it's just not
+01:16:06.800	2.56	going to work out
+01:16:07.520	4.00	dual wielding was built to do the
+01:16:09.360	3.44	highest dps and with winfrey wind fury
+01:16:11.520	2.56	that's just how the game was built
+01:16:12.800	2.80	that's how it was built around
+01:16:14.080	3.12	early end game you could definitely get
+01:16:15.600	3.68	away with wayne fury flame tongue but
+01:16:17.199	3.36	wing fury winfiely will outscale one
+01:16:19.280	2.80	fury flame song especially with the
+01:16:20.560	2.96	better weapons you get in higher tiers
+01:16:22.080	3.04	and the blacksmithing weapons and the
+01:16:23.520	3.20	pvp weapons but i just wanted to show
+01:16:25.120	3.12	you this graph to kind of compare all of
+01:16:26.719	3.12	the possible loadouts that enhancement
+01:16:28.239	3.04	shaman could potentially use
+01:16:29.840	3.52	in the game and i'm going to corroborate
+01:16:31.280	3.44	this with an amazing tool that nigerian
+01:16:33.360	3.36	has made it's a sim
+01:16:34.719	3.20	that takes everything into account your
+01:16:36.719	2.96	gear your talents
+01:16:37.920	3.20	the weapons the speed of the weapons the
+01:16:39.679	3.12	abuse of the weapons everything
+01:16:41.120	3.36	and in the first image we have winfury
+01:16:42.800	4.00	wind fury with two slow weapons and it's
+01:16:44.480	4.24	producing 1821 dps
+01:16:46.800	3.44	over the simulations that this
+01:16:48.719	3.12	spreadsheet is creating if we
+01:16:50.239	3.60	use the same weapons to put flame tongue
+01:16:51.840	2.72	on there you'll see it drops by over 100
+01:16:53.840	2.88	dps
+01:16:54.560	3.60	so this is corroborated by his sim as
+01:16:56.719	3.20	well and this is more accurate because
+01:16:58.159	3.84	it's in a 25-man setting with all the
+01:16:59.920	3.84	available buffs and consumables on the
+01:17:02.000	4.00	next slide we're going to do a similar
+01:17:03.760	3.04	comparison so the same thing when fury
+01:17:06.000	2.72	wind fury
+01:17:06.800	5.12	with two slow weapons and it's the same
+01:17:08.719	3.52	dps 1821 dps and looks what happens when
+01:17:11.920	2.64	we
+01:17:12.239	3.04	put a fast weapon in the offhand it
+01:17:14.560	4.08	drops
+01:17:15.280	3.84	by exactly 200 dps so as you can see
+01:17:18.640	2.64	here
+01:17:19.120	4.40	the importance of two slow weapons using
+01:17:21.280	4.40	wind fury wind fury is pretty robust
+01:17:23.520	4.00	at higher levels of content with the
+01:17:25.679	2.80	same item level weapons with all the
+01:17:27.520	3.92	available buffs
+01:17:28.480	3.60	best talents and an ideal 25-man setup
+01:17:31.440	2.08	so again
+01:17:32.080	3.04	use this spreadsheet the link will be in
+01:17:33.520	3.36	the description to do your own similar
+01:17:35.120	2.48	tests with your own gear and your own
+01:17:36.880	2.64	buffs and
+01:17:37.600	3.20	your own talent setup now let's go over
+01:17:39.520	2.64	the two possible
+01:17:40.800	2.80	talent builds you can go as an
+01:17:42.159	1.84	enhancement shaman the first is the
+01:17:43.600	2.40	ellie
+01:17:44.000	3.04	subspec the enhancement builds pretty
+01:17:46.000	2.08	much exactly the same you're going to
+01:17:47.040	3.04	get all the
+01:17:48.080	4.32	important talents in the enhancement
+01:17:50.080	4.16	tree the pros to the ellie subspec
+01:17:52.400	3.12	is that it's a smoother rotation i'll
+01:17:54.239	4.24	explain what that means
+01:17:55.520	3.84	in a few slides it has higher dps and it
+01:17:58.480	3.04	seemed to be about
+01:17:59.360	4.24	10 dps higher on average that may not
+01:18:01.520	3.20	seem like a lot but it is consistently
+01:18:03.600	2.96	higher dps
+01:18:04.719	3.68	than the resto subspec which we'll cover
+01:18:06.560	3.44	next the cons are though it's mana
+01:18:08.400	3.92	intensive you don't have the
+01:18:10.000	3.68	reduction in your totem cost and that's
+01:18:12.320	3.04	huge because you get you're going to be
+01:18:13.679	3.12	totem twisting as enhancement shaman
+01:18:15.360	3.04	at least you should be which we'll cover
+01:18:16.800	3.12	as well and it's a small range in your
+01:18:18.400	2.88	totems and if you're in a hunter group
+01:18:19.920	2.16	it's going to be harder in your hunters
+01:18:21.280	2.40	so you have to keep that in
+01:18:22.080	3.36	consideration as well the talent trade
+01:18:23.679	3.92	the left is at level 68. you're gonna
+01:18:25.440	3.84	put one additional point into elemental
+01:18:27.600	2.72	focus or clear casting so you can get
+01:18:29.280	1.92	some free shocks
+01:18:30.320	2.64	because you're gonna have to buff your
+01:18:31.199	3.84	man efficiency somehow with this build
+01:18:32.960	3.92	and last point and improve fire totems
+01:18:35.040	4.00	for easier fire totem twisting which is
+01:18:36.880	3.76	a way to maximize dps as an enhancement
+01:18:39.040	2.80	shaman and your rotation is to storm
+01:18:40.640	3.44	strike on cooldown
+01:18:41.840	4.00	shock and then twist your air totem as a
+01:18:44.080	3.52	second priority and your third priority
+01:18:45.840	3.12	would be the fire totem twist and your
+01:18:47.600	2.16	shocks are going to be a frost shock
+01:18:48.960	2.88	followed by
+01:18:49.760	3.36	two earth shocks or frosh shocks it's
+01:18:51.840	2.88	probably gonna be earth shock unless
+01:18:53.120	2.96	there's a nature resistance involved the
+01:18:54.719	2.56	reason why you're going to squeeze two
+01:18:56.080	2.88	earth shocks in is because you have
+01:18:57.280	3.20	reverberation and therefore you have a
+01:18:58.960	2.40	five second cool down your shocks
+01:19:00.480	3.12	instead of six
+01:19:01.360	3.04	and we'll get into rotations again in
+01:19:03.600	2.72	two slides
+01:19:04.400	3.84	the next subspec which is probably going
+01:19:06.320	3.04	to be more popular from earth shaman is
+01:19:08.239	2.88	the rest of the subspec
+01:19:09.360	3.44	pros are it's way more mana efficient
+01:19:11.120	4.00	has a larger range in your totems and
+01:19:12.800	4.40	it's better probably for solo and trash
+01:19:15.120	3.36	either you're farming in the world or
+01:19:17.199	3.20	you're cleaning up trash
+01:19:18.480	3.68	the cons are it's less of a smooth
+01:19:20.400	3.84	rotation and we'll get into why that is
+01:19:22.159	3.76	and it's slightly lower dps this talent
+01:19:24.239	3.92	tree is level 67 you're going to put
+01:19:25.920	2.80	extra points in improved weapon totems
+01:19:28.159	2.48	and or
+01:19:28.719	3.04	concussion improved weapon totems an
+01:19:30.640	2.96	extra point in there will
+01:19:31.760	4.24	benefit your melee and your group and
+01:19:33.600	4.48	concussion will increase the dps of your
+01:19:36.000	3.76	shocks and the spell coefficient as we
+01:19:38.080	3.76	found out in the early parts of this
+01:19:39.760	2.72	video irritation is similar storm strike
+01:19:41.840	3.12	on cooldown
+01:19:42.480	3.44	followed by shocks and air twisting as a
+01:19:44.960	2.72	second priority
+01:19:45.920	2.80	and then fire totem twisting your shocks
+01:19:47.679	2.56	in this one are going to be a flame
+01:19:48.719	3.20	shock followed by an earth shock and
+01:19:50.239	3.92	then repeat back to flame shock so it's
+01:19:51.920	3.60	flame earth flame earth flame earth
+01:19:54.159	3.20	that's all about tone twisting it's a
+01:19:55.520	3.68	very important part of being a shaman
+01:19:57.360	3.44	enhancement shaman in tbc is totem
+01:19:59.199	3.20	twisting with your air totems it's
+01:20:00.800	3.20	pretty simplistic we went over this in
+01:20:02.400	3.44	advanced shopping guide part 1. but wind
+01:20:04.000	3.76	fury totem itself applies a buff
+01:20:05.840	3.52	a 10 second buff to your melee in your
+01:20:07.760	3.92	group that provides wind fury
+01:20:09.360	4.16	since this totem provides a buff and it
+01:20:11.679	2.64	counts down from 10 seconds you can give
+01:20:13.520	2.48	them another
+01:20:14.320	3.12	air totem while this buff is still
+01:20:16.000	2.72	active on them in most cases it's gonna
+01:20:17.440	2.88	be grace of air so the way you're gonna
+01:20:18.719	3.44	do this is you're gonna pop down
+01:20:20.320	3.20	your wing fury totem immediately replace
+01:20:22.159	4.24	it with grace of air when
+01:20:23.520	4.56	you have a free pointy rotation or the
+01:20:26.400	3.20	wind fury buff is about to expire you're
+01:20:28.080	2.72	gonna replace wind fury and then put
+01:20:29.600	2.48	down grace of air again and you're gonna
+01:20:30.800	3.20	rinse and repeat that throughout the
+01:20:32.080	3.52	entire course of the encounter now this
+01:20:34.000	4.16	is mana intensive of course
+01:20:35.600	3.20	so having so using a shamanistic rage on
+01:20:38.159	2.32	cooldown
+01:20:38.800	3.36	using darker demonic runes and
+01:20:40.480	3.04	potentially even mana potions but you
+01:20:42.159	3.52	should use haste potions on your
+01:20:43.520	2.48	cooldowns to keep your mana up is very
+01:20:45.679	1.60	very
+01:20:46.000	3.52	important make sure earth shields up
+01:20:47.280	4.16	make sure mana spring totem is also down
+01:20:49.520	3.92	this is why the resto subspec could be
+01:20:51.440	3.12	better in some situations because your
+01:20:53.440	2.88	totem costs will be
+01:20:54.560	3.36	much lower i highly recommend using a
+01:20:56.320	3.04	weak are to track this as you can see in
+01:20:57.920	2.16	the image here i have this weak or right
+01:20:59.360	2.16	above my
+01:21:00.080	3.92	player frame that shows the amount of
+01:21:01.520	4.64	time wind fury has on the other party
+01:21:04.000	3.12	members i'll put a link to a weak aura
+01:21:06.159	3.04	that's pretty basic
+01:21:07.120	3.76	in the enhancement section of the
+01:21:09.199	4.00	description of the video so you can
+01:21:10.880	4.80	download it and use it in pve settings
+01:21:13.199	3.84	you can also twist fire totems fire nova
+01:21:15.679	3.12	has a 15 second cooldown
+01:21:17.040	3.44	and does a good amount of dps even
+01:21:18.800	3.60	single target so the best way to
+01:21:20.480	3.60	maximize your dps on the fire totem side
+01:21:22.400	3.60	of things is to cast fire nova wait
+01:21:24.080	3.36	until the aoe burst and then immediately
+01:21:26.000	3.44	replace it with either searing if you're
+01:21:27.440	2.96	using a single target or a magma totem
+01:21:29.440	2.80	and then repeat
+01:21:30.400	2.80	of course if you have fire elemental up
+01:21:32.239	3.12	you're going to use that because that
+01:21:33.199	3.84	produces the most dps but if that is not
+01:21:35.360	3.28	up you're going to fire totem twist
+01:21:37.040	3.36	now to make this fire tomb twisting
+01:21:38.639	3.44	easier this is why we recommend putting
+01:21:40.400	3.60	a point and improved fire totems if you
+01:21:42.080	3.52	are an le subspec as it's pretty handy
+01:21:44.000	2.32	and fitting it into the rotation makes
+01:21:45.600	3.12	the rotation
+01:21:46.320	4.32	smoother however the resto subspec is
+01:21:48.719	3.36	also nice because it reduces the mana
+01:21:50.639	2.72	cost of all your totems but the
+01:21:52.080	1.84	take-home message here is that totem
+01:21:53.360	2.40	twisting
+01:21:53.920	3.76	is very important primarily because of
+01:21:55.760	4.16	the error totems to buff your group
+01:21:57.679	4.24	and secondarily to increase your own dps
+01:21:59.920	3.44	via fire tone twisting and remember
+01:22:01.920	3.12	if you're in a melee group if you
+01:22:03.360	3.84	weren't twisting you'd just be providing
+01:22:05.040	4.00	windfury totem because your primary
+01:22:07.199	3.36	goal is to support as an enhancement
+01:22:09.040	3.60	shaman so you're also increasing your
+01:22:10.560	3.92	own personal dps by twisting your error
+01:22:12.639	2.80	totems in the goa here's a rundown of
+01:22:14.480	3.36	the rotations
+01:22:15.440	3.20	on the left we have a case one where you
+01:22:17.840	2.96	are the
+01:22:18.639	4.16	resto subspec and you're twisting and
+01:22:20.800	3.68	you have nine shocks per minute because
+01:22:22.800	3.36	you don't have reverberation so your
+01:22:24.480	3.12	shot cooldowns every six seconds
+01:22:26.159	3.92	so at time equals zero you're going to
+01:22:27.600	4.40	storm strike and then at time 1.5 which
+01:22:30.080	3.60	is the global cooldowns 1.5 after your
+01:22:32.000	3.52	storm strike you're going to shock at
+01:22:33.679	2.64	5.5 seconds in you're gonna drop wind
+01:22:35.520	2.40	fury and then
+01:22:36.320	3.12	followed immediately by grace of air and
+01:22:37.920	3.44	then followed me by shock
+01:22:39.440	3.12	at 10 seconds your storm strike and then
+01:22:41.360	4.16	you'll see your shock
+01:22:42.560	4.16	cooldown start to drift because of the
+01:22:45.520	3.44	six second cooldown
+01:22:46.719	3.92	scenario shock won't be up until 13.5
+01:22:48.960	2.96	seconds you'll twist at the same time
+01:22:50.639	3.36	interval and then your shock will be up
+01:22:51.920	3.04	at 19.5 seconds but it's going to clip
+01:22:54.000	2.56	your storm strike
+01:22:54.960	3.36	so this is the problem with the rest of
+01:22:56.560	2.00	subspec is that you're invariably going
+01:22:58.320	2.00	to
+01:22:58.560	3.12	every other interval that your shock is
+01:23:00.320	3.92	going to run into your storm strike and
+01:23:01.679	4.80	this is going to lead to a loss in dps
+01:23:04.239	4.56	so this is why one of the reasons why
+01:23:06.480	2.80	the rest of the subspec has lower dps is
+01:23:08.800	2.96	because
+01:23:09.280	3.92	you're gonna have to push the rotation
+01:23:11.760	4.72	in in one way or another
+01:23:13.199	5.20	however if you are a elemental subspec
+01:23:16.480	3.60	you'll notice the shocks are much more
+01:23:18.400	3.44	regular and they don't sync up with your
+01:23:20.080	3.28	storm strike so storm strike at time
+01:23:21.840	3.20	equals zero followed by a shock
+01:23:23.360	3.92	thought immediately by your totem twist
+01:23:25.040	2.56	and then shock again at 6.5 seconds and
+01:23:27.280	2.24	this
+01:23:27.600	4.32	never goes out of sync this is why the
+01:23:29.520	4.00	rotation is considered smoother the fire
+01:23:31.920	3.12	totem twisting is not in here
+01:23:33.520	3.12	but it's you know this is optional
+01:23:35.040	2.40	depending upon your mana usage and
+01:23:36.639	3.76	availability
+01:23:37.440	4.96	but this is why essentially we say the
+01:23:40.400	3.68	rotation is smoother for the elemental
+01:23:42.400	2.96	subspec now it does come with drawbacks
+01:23:44.080	4.24	it's more mana intensive
+01:23:45.360	3.92	your totem range is 10 yards smaller so
+01:23:48.320	2.64	it's going to affect
+01:23:49.280	3.36	potentially hunters if you're a 100
+01:23:50.960	3.76	group but this is why the dps
+01:23:52.639	4.32	is higher is because it doesn't clip
+01:23:54.719	3.68	your storm strike and shot cooldowns
+01:23:56.960	3.20	so the best thing is to feel this out on
+01:23:58.400	2.72	your own are you having issues with mana
+01:24:00.159	2.24	then you should probably go
+01:24:01.120	2.72	rest with some spec you're not having
+01:24:02.400	2.72	issues with mana and you're not in a
+01:24:03.840	2.48	hunter group you should go with the
+01:24:05.120	2.72	elemental subspec and
+01:24:06.320	3.20	test and see which one gives you the
+01:24:07.840	2.56	most dps okay now it's time to talk
+01:24:09.520	1.92	about my favorite part of the
+01:24:10.400	2.80	enhancement section
+01:24:11.440	3.36	some new terms that we've come up with
+01:24:13.199	3.60	not me people with the discord that have
+01:24:14.800	3.36	been working on this extensively weapon
+01:24:16.800	3.84	sync and weapon stagger
+01:24:18.159	4.32	okay so what is sync since flurry has an
+01:24:20.639	3.60	internal cooldown of 0.5 seconds he
+01:24:22.480	2.32	remain had an offhand swing within that
+01:24:24.239	2.88	interval
+01:24:24.800	3.76	only one flurry charge is consumed not
+01:24:27.120	2.96	two talk about this at the beginning of
+01:24:28.560	2.00	the video but this leads to a two
+01:24:30.080	2.56	percent
+01:24:30.560	4.32	increase in dps okay then what is
+01:24:32.639	4.24	stagger the optimal dps setup is to have
+01:24:34.880	2.80	two weapons of the same speed but with
+01:24:36.880	3.20	the caveat
+01:24:37.679	4.00	the main hand weapon always swings first
+01:24:40.080	3.68	because the main hand wind fury procs
+01:24:41.679	4.16	hit much harder than offhand ones if you
+01:24:43.760	3.60	want to minmax your dps this will also
+01:24:45.840	3.52	lead to two percent increase
+01:24:47.360	4.24	in dps on average you can manually
+01:24:49.360	4.72	stagger your attacks so the main hand
+01:24:51.600	3.76	always leads assuming equal eye level
+01:24:54.080	4.08	here is the following order
+01:24:55.360	4.48	of dps metrics a match speed stagger
+01:24:58.159	4.16	with main hand swinging first
+01:24:59.840	4.16	mismatch speeds and then finally match
+01:25:02.320	3.20	speed without staggering so it's
+01:25:04.000	3.28	actually more beneficial
+01:25:05.520	3.84	to have two weapons at the same speed
+01:25:07.280	4.00	but only if you stagger properly
+01:25:09.360	3.12	if you don't just go with mismatched
+01:25:11.280	3.20	speeds and try to keep
+01:25:12.480	3.36	your main hand swinging first but having
+01:25:14.480	3.20	weapons at the same speed makes
+01:25:15.840	3.44	staggering much easier do my weapons
+01:25:17.679	3.44	have to have the same exact speed
+01:25:19.280	3.36	match speed weapons make this easier to
+01:25:21.120	3.44	set up and allow you to set it and
+01:25:22.639	3.52	forget it once you engage a mob
+01:25:24.560	3.28	mismatch speed weapons require a bit
+01:25:26.159	3.36	more involvement but if you don't want
+01:25:27.840	3.44	to bother they will naturally slide in
+01:25:29.520	2.64	and out of sync because one will swing
+01:25:31.280	2.40	faster than the other
+01:25:32.159	3.44	for example weapons that are mismatched
+01:25:33.679	2.40	by point one second will be in sync
+01:25:35.600	2.64	almost
+01:25:36.080	3.44	40 percent of the time so again if you
+01:25:38.239	3.28	don't want to have this
+01:25:39.520	3.84	really hands-on approach to your weapon
+01:25:41.520	3.76	speeds and your weapon dps
+01:25:43.360	4.16	you can go with mismatched speeds and
+01:25:45.280	4.00	that will be the second highest dps you
+01:25:47.520	3.68	can achieve so what is syncing
+01:25:49.280	4.08	and staggering together sinking and
+01:25:51.199	4.24	staggering is when you have your weapons
+01:25:53.360	3.92	swinging within the wind for your icd so
+01:25:55.440	3.52	they're synced and your main hand is
+01:25:57.280	3.52	slightly ahead of your off hand that's
+01:25:58.960	3.36	considered staggered this gives you both
+01:26:00.800	3.04	the flurry double dip advantage
+01:26:02.320	3.28	so that's a two percent increase and
+01:26:03.840	3.44	ensures your main hand procs more wind
+01:26:05.600	3.28	fury it's another two percent increase
+01:26:07.280	3.68	and combining these effects
+01:26:08.880	3.68	actually leads up to a five percent dps
+01:26:10.960	2.40	increase it's just the way it maps out
+01:26:12.560	2.00	because it's probably because of
+01:26:13.360	3.12	rounding and stuff like that
+01:26:14.560	3.20	okay so how do i stagger then it takes
+01:26:16.480	3.20	some practice but there's an
+01:26:17.760	4.08	excellent video i can't stress enough
+01:26:19.679	4.08	excellent it's 13 minutes long if you're
+01:26:21.840	4.16	watching this this is like an hour and
+01:26:23.760	3.52	40 minutes long right spend another 13
+01:26:26.000	3.44	minutes watching this video
+01:26:27.280	3.20	thanks to slimex who made the video and
+01:26:29.440	2.56	lock all who did
+01:26:30.480	3.52	also some testing we know that it
+01:26:32.000	3.20	requires two steps while using two
+01:26:34.000	3.20	weapons at the same speed
+01:26:35.199	3.92	get just outside of melee range and
+01:26:37.199	2.88	start trying to auto attack so right
+01:26:39.120	2.96	click the target
+01:26:40.080	3.92	start attack macro whatever it is so
+01:26:42.080	3.76	your character has the ready stance and
+01:26:44.000	3.36	is going to attack then quickly step in
+01:26:45.840	4.40	the melee range and your main hand
+01:26:47.360	5.04	should lead by anywhere from 0.4 to 0.2
+01:26:50.239	4.64	seconds which is synced anything below
+01:26:52.400	3.92	0.5 is considered synced however there's
+01:26:54.880	3.36	also an amazing macro
+01:26:56.320	3.44	you can use to make this even easier if
+01:26:58.239	2.08	you are staggering improperly and
+01:26:59.760	2.16	staggering
+01:27:00.320	3.44	properly means that the off hand is
+01:27:01.920	3.36	leading or your main hand and off hand
+01:27:03.760	3.28	are completely synced means they're
+01:27:05.280	3.92	attacking at the same exact time that's
+01:27:07.040	3.92	also not optimal because it's that means
+01:27:09.199	3.84	that it's a coin flip whether your main
+01:27:10.960	3.76	hand or offhand procs winfury you want
+01:27:13.040	3.76	your main hand to proclaim fury as much
+01:27:14.719	3.44	as possible it's a very simplistic macro
+01:27:16.800	3.44	first line is slash tar
+01:27:18.159	3.36	player second line is slash target last
+01:27:20.239	2.96	target and then slash
+01:27:21.520	3.12	start attack if you watch the video
+01:27:23.199	2.88	you'll know exactly what i'm saying
+01:27:24.639	3.12	right now i know it sounds like what the
+01:27:26.080	3.76	hell is meldaron talking about
+01:27:27.760	3.12	watch the video he explains everything
+01:27:29.840	3.28	i'm trying to say
+01:27:30.880	4.00	simply easily you want to make sure your
+01:27:33.120	3.60	weapons are both synced so that you're
+01:27:34.880	4.16	taking the advantage of that flurry icd
+01:27:36.719	4.16	and staggered so that you have more main
+01:27:39.040	3.76	handling fury procs than offhand when
+01:27:40.880	4.16	fury procs now let's get into what
+01:27:42.800	3.92	weapon sync and flurry actually means
+01:27:45.040	3.28	so if your weapons are not synced
+01:27:46.719	2.08	meaning they're more than .5 seconds
+01:27:48.320	2.72	apart
+01:27:48.800	3.04	your flurry stacks will reduce pretty
+01:27:51.040	3.36	quickly within
+01:27:51.840	3.12	1600 milliseconds however if they are
+01:27:54.400	2.16	synced
+01:27:54.960	3.36	they are within 0.5 seconds of each
+01:27:56.560	4.24	other your flurry stacks won't decay
+01:27:58.320	4.56	for 3200 milliseconds in other words
+01:28:00.800	3.20	double the time so at 40 critical strike
+01:28:02.880	2.56	rating doing this
+01:28:04.000	3.36	will increase your flurry up time from
+01:28:05.440	3.84	92 to 98
+01:28:07.360	4.00	and that's where the 2 damage increase
+01:28:09.280	2.72	comes from so if staggering is just too
+01:28:11.360	2.48	much for you
+01:28:12.000	3.84	at least sync your weapons so that
+01:28:13.840	3.84	they're attacking within 0.5 seconds or
+01:28:15.840	2.88	500 milliseconds of each other so that
+01:28:17.679	2.88	you're able to do this
+01:28:18.719	3.76	i beg you it's going to increase your
+01:28:20.560	3.92	dps it's pretty easy to do as well now
+01:28:22.480	3.52	weapon stagger and win fury remember so
+01:28:24.480	2.96	let's talk about why it's important to
+01:28:26.000	2.00	stagger your weapons to your main hand
+01:28:27.440	2.24	leads
+01:28:28.000	4.00	normally there's a 50 50 chance that a
+01:28:29.679	3.12	main hand offhand swings first whichever
+01:28:32.000	2.16	one hits right
+01:28:32.800	2.72	now as lockhall and slimex have
+01:28:34.159	3.44	illustrated in their video and their
+01:28:35.520	3.36	testing if you stagger your sink in such
+01:28:37.600	4.80	a way that the main hand
+01:28:38.880	5.20	always leads by less than 0.5 seconds
+01:28:42.400	3.52	then the main hand will usually be the
+01:28:44.080	3.76	hand to swing first and you preserve
+01:28:45.920	3.36	that flurry icd at the same time this
+01:28:47.840	3.12	will give your main hand a 60
+01:28:49.280	3.28	percent chance to be the one that proc
+01:28:50.960	3.20	wouldn't fury instead of 50
+01:28:52.560	3.28	meaning that your off hand will proc
+01:28:54.159	4.40	with fury 40 of the time
+01:28:55.840	4.40	since wind fury extra attacks are 30
+01:28:58.560	3.60	percent of your total damage and main
+01:29:00.239	3.84	hand swings hit twice as hard as offhand
+01:29:02.159	3.44	swings this results in a total dps
+01:29:04.080	3.60	increase of 2 percent
+01:29:05.600	3.36	this is why it's so important to sync
+01:29:07.679	3.12	and stagger your weapons
+01:29:08.960	3.12	so putting this all together your first
+01:29:10.800	2.32	primary goal is to make sure you have
+01:29:12.080	2.56	two slow weapons
+01:29:13.120	3.52	second primary goal is to make sure they
+01:29:14.639	3.92	are match speed if you want to be sweaty
+01:29:16.639	4.08	you can go for an offhand that is
+01:29:18.560	4.16	0.1 seconds faster than your main hand
+01:29:20.719	3.92	and it requires using this macro
+01:29:22.719	3.52	every single swing if you don't want to
+01:29:24.639	2.08	do that if you don't want to do any of
+01:29:26.239	2.32	this
+01:29:26.719	3.92	like any of the sync any of the stagger
+01:29:28.560	4.08	just make sure off hand is .1
+01:29:30.639	3.28	seconds slower than your main hand and
+01:29:32.639	2.72	if you just don't care at all
+01:29:33.920	3.20	just make sure you have the highest dps
+01:29:35.360	2.24	weapon in your main hand so this is a
+01:29:37.120	2.48	list
+01:29:37.600	3.84	of sweatiness basically right so the
+01:29:39.600	3.44	most optimal setup would be to have two
+01:29:41.440	3.20	slow weapons of match speed that is
+01:29:43.040	3.04	synced and staggered and if you want to
+01:29:44.639	3.44	get extra sweaty you can
+01:29:46.080	3.28	go for an offhand that's 0.1 seconds
+01:29:48.080	3.12	faster and then use the
+01:29:49.360	3.36	macro every single swing and then if you
+01:29:51.199	2.40	wanna be casual you know you have
+01:29:52.719	3.04	options right
+01:29:53.600	3.12	so i can't stress enough this is not as
+01:29:55.760	2.96	hard as it sounds
+01:29:56.719	3.60	it really isn't all it takes is a few
+01:29:58.719	2.08	seconds of understanding how this macro
+01:30:00.320	2.40	works
+01:30:00.800	3.04	and how to walk in on the mob don't just
+01:30:02.719	2.80	run in randomly
+01:30:03.840	3.36	stand outside of its melee range for a
+01:30:05.520	3.28	second that's all it takes while you're
+01:30:07.199	1.84	ready to attack the target and then move
+01:30:08.800	1.92	in
+01:30:09.040	3.44	that'll guarantee that your weapons are
+01:30:10.719	4.32	at least in sync and then you can just
+01:30:12.480	4.16	pop this macro one time at the right
+01:30:15.040	2.96	time interval that will guarantee that
+01:30:16.639	3.44	your weapons are staggered so you're
+01:30:18.000	3.12	producing the most dps possible like i
+01:30:20.080	2.56	said in this green
+01:30:21.120	3.36	text at the bottom if you want to excel
+01:30:22.639	3.28	at enhancement dps i cannot stress
+01:30:24.480	2.88	enough to watch this video it link will
+01:30:25.920	2.64	be in the description in the enhancement
+01:30:27.360	3.12	section of the description
+01:30:28.560	3.20	specifically it's a 13 minute video
+01:30:30.480	2.96	again just watch it
+01:30:31.760	2.88	understand it and i guarantee you by the
+01:30:33.440	2.64	end of that video you're going to say to
+01:30:34.639	2.08	yourself wow this isn't as hard as i
+01:30:36.080	2.16	thought it was
+01:30:36.719	3.28	okay it's all about the enhancement sim
+01:30:38.239	3.20	in the enhancement pve guide i did with
+01:30:40.000	3.84	ebb and we talked about how
+01:30:41.440	3.20	important simming is ep's only get you
+01:30:43.840	3.84	part of the way
+01:30:44.639	4.16	having a sim that tells you exactly what
+01:30:47.679	3.28	upgrades to look for
+01:30:48.800	3.84	and what dps you can expect is the best
+01:30:50.960	3.76	way to plan upgrades
+01:30:52.639	3.76	and improve your play now official
+01:30:54.719	3.52	web-based sim is a work in progress
+01:30:56.400	4.56	however nigerian and beagle
+01:30:58.239	3.84	have created that dps-tps sheet for tbc
+01:31:00.960	2.64	and it's an amazing tool
+01:31:02.080	3.44	a link will be in the enhancement
+01:31:03.600	3.84	section of the description click on it
+01:31:05.520	3.36	save yourself a copy and play around
+01:31:07.440	3.76	with it also join
+01:31:08.880	3.84	the shaman discord because this is
+01:31:11.199	4.08	entirely going to be updated
+01:31:12.719	3.20	at some point and we update everyone
+01:31:15.280	2.16	when it gets
+01:31:15.920	3.28	updated and you'll be able to click on
+01:31:17.440	2.08	that new link and make yourself a copy
+01:31:19.199	2.08	and
+01:31:19.520	3.04	enjoy the sim as it gets updated with
+01:31:21.280	3.12	new gear or
+01:31:22.560	3.36	improvements let's go over enhancement
+01:31:24.400	3.76	pre-raid biz now
+01:31:25.920	3.12	garcour and gitch have created a
+01:31:28.159	3.60	progressive
+01:31:29.040	4.24	bis list it's still being worked on at
+01:31:31.760	3.52	the current moment that this guide is
+01:31:33.280	2.48	being made however they do have a static
+01:31:35.280	3.12	link
+01:31:35.760	4.72	for pre-raid and tier 4 already done
+01:31:38.400	4.00	tier 5 and beyond the gear
+01:31:40.480	3.20	outside of weapons is pretty much done
+01:31:42.400	2.08	and they're still working on weapon
+01:31:43.679	2.00	simulation
+01:31:44.480	3.12	pause the video if you want to look at
+01:31:45.679	3.92	these weapons and gear and see which is
+01:31:47.600	4.24	best for you the tldr here
+01:31:49.600	4.16	is unfortunately or unfortunately
+01:31:51.840	3.84	blacksmithing really isn't this anymore
+01:31:53.760	4.08	at least not currently it may get better
+01:31:55.679	3.52	later on in the game but as of right now
+01:31:57.840	2.96	as you can see if you're an orc you want
+01:31:59.199	3.36	to go for those gladiator weapons the
+01:32:00.800	3.44	decapitator fool's bane
+01:32:02.560	3.28	even harvester of souls is better than
+01:32:04.239	3.28	black planer edge and dragon maw if
+01:32:05.840	2.96	you're a non-orc blacksmith may be a
+01:32:07.520	2.48	little bit better but you still don't
+01:32:08.800	3.28	need it you can get the gladiator
+01:32:10.000	4.16	weapons the decapitator fools bane
+01:32:12.080	3.84	if you don't want to pvp at all then
+01:32:14.159	3.68	blacksmithing may be a lot better for
+01:32:15.920	3.68	you but even if you do want to pvp
+01:32:17.840	3.68	a lot you're probably gonna want to make
+01:32:19.600	3.36	the thunder deep thunder to have a
+01:32:21.520	3.12	two-hander right as an enhancement
+01:32:22.960	3.76	shaman so blacksmithing isn't
+01:32:24.639	3.84	worthless it's just not biss at least
+01:32:26.719	3.52	right now it's not in tier four and
+01:32:28.480	2.88	likely not in tier five but again it may
+01:32:30.239	3.20	get better later on
+01:32:31.360	3.04	just keep looking at the sheets join the
+01:32:33.440	2.56	shaman discord
+01:32:34.400	3.84	talk to these guys and they will tell
+01:32:36.000	5.52	you exactly what's biss for the upcoming
+01:32:38.239	5.44	tiers here's tier 4 abyss
+01:32:41.520	3.44	tier 5 biss not including weapons again
+01:32:43.679	3.52	that'll be updated later
+01:32:44.960	3.12	tier 6 and za same thing weapons will be
+01:32:47.199	4.00	updated later
+01:32:48.080	4.56	and finally somewhat plateau this
+01:32:51.199	3.20	briefing is all about mana management
+01:32:52.639	3.36	and threat capping in order to manage
+01:32:54.400	2.80	your man as an enhancement shaman which
+01:32:56.000	2.96	is very important because you got to
+01:32:57.199	3.12	keep all these things up totem twisting
+01:32:58.960	3.04	fire totem twisting
+01:33:00.320	3.28	shocks all these things right you might
+01:33:02.000	2.80	want to look at some high intellect side
+01:33:03.600	2.72	grades in the business
+01:33:04.800	3.20	example will be the ebb and nether scale
+01:33:06.320	3.68	set in phase 1 to increase your
+01:33:08.000	3.60	overall intellect pool second thing is
+01:33:10.000	3.04	to use dark runes you should be using
+01:33:11.600	3.44	them demonic runes are much easier to
+01:33:13.040	3.52	come by by the way but if you want to do
+01:33:15.040	3.28	dark runes you can either buy them or
+01:33:16.560	3.28	run some scolo and get some i
+01:33:18.320	2.64	highly just using them on cooldown they
+01:33:19.840	2.80	have a different cooldown than potions
+01:33:20.960	2.96	so they won't ruin your potion cooldowns
+01:33:22.639	3.60	third thing you can do is downright your
+01:33:23.920	5.04	windfury totem it is a overall
+01:33:26.239	4.64	dps loss but it still provides a second
+01:33:28.960	3.12	attack just with less bonus attack power
+01:33:30.880	2.64	for your melee friends
+01:33:32.080	3.84	stop fire tomb twisting will be the
+01:33:33.520	4.56	fourth step again dps loss but doable
+01:33:35.920	4.00	five is respect to the resto subspec if
+01:33:38.080	3.60	you're currently using the ellie subspec
+01:33:39.920	3.36	six is to use mana potions instead of
+01:33:41.679	3.04	your haste potions for your potion
+01:33:43.280	3.28	cooldown i've done this before on the
+01:33:44.719	2.40	beta it's not pretty but something you
+01:33:46.560	2.08	can do
+01:33:47.120	3.12	seventh thing you do is drop shocks
+01:33:48.639	2.24	totally from your rotation and now we're
+01:33:50.239	3.12	getting pretty
+01:33:50.880	4.32	extensive in our dps loss but steps you
+01:33:53.360	3.60	can take to manage your mana and eight
+01:33:55.199	3.44	you can always just reroll warlock now
+01:33:56.960	3.52	to mitigate threat capping as i said
+01:33:58.639	3.68	before because of wind fury and because
+01:34:00.480	3.52	of the burst dps we do
+01:34:02.320	3.92	it's not uncommon to pull thread off a
+01:34:04.000	3.92	tank trust me i do it all of the time
+01:34:06.239	3.52	sucks there's really nothing you can do
+01:34:07.920	2.96	about it but if you are thread capping
+01:34:09.760	2.48	if you notice you're getting too close
+01:34:10.880	3.20	to the tank what you can do is remove
+01:34:12.239	3.36	shocks until threat is under control
+01:34:14.080	4.08	and the second step which is pretty
+01:34:15.600	4.64	harsh is to stop attacking altogether or
+01:34:18.159	3.04	equip really low level weapons like
+01:34:20.239	2.88	skinny knives
+01:34:21.199	3.92	just to keep your unleashed rage buffs
+01:34:23.120	3.84	up for your fellow melee so aldor or
+01:34:25.120	3.76	scryer's enhancement shaman the outdoor
+01:34:26.960	4.00	shelter enchants are slightly better as
+01:34:28.880	3.76	far as eps are concerned it's not a huge
+01:34:30.960	3.76	difference but aldor is the best
+01:34:32.639	4.24	however the saffron enchant is biss at
+01:34:34.719	3.28	26 attack power and 14 critical strike
+01:34:36.880	2.56	rating so if you
+01:34:38.000	3.12	have the option to get that you should
+01:34:39.440	3.84	get that but as i said in the other
+01:34:41.119	4.00	sections if profession items or early
+01:34:43.280	3.60	gear access is more important to you
+01:34:45.119	3.04	go with a faction that facilitates that
+01:34:46.880	2.72	pretty easy okay let's go over
+01:34:48.159	3.12	enhancement professions i've already
+01:34:49.600	3.28	alluded to some of this but let's talk
+01:34:51.280	3.36	about it leather working is easily
+01:34:52.880	3.84	above the alternatives in terms of your
+01:34:54.639	3.92	contribution to the raid via drums and
+01:34:56.719	2.64	relevant phase one gear blacksmithing
+01:34:58.560	3.04	gives you the best
+01:34:59.360	3.92	pre-biss weapon and an amazing pvp
+01:35:01.600	2.88	weapon in phase two the blacksmithing
+01:35:03.280	3.28	one-hander likely is
+01:35:04.480	3.68	a side grade with chaos mace
+01:35:06.560	2.08	blacksmithing again is just not this
+01:35:08.159	1.60	anymore
+01:35:08.639	2.88	for a second option if you don't want to
+01:35:09.760	3.84	go blacksmithing engineering is not bad
+01:35:11.520	2.48	gives you an active dps items with value
+01:35:13.600	2.56	beyond
+01:35:14.000	3.68	passive stats side grade biz head from
+01:35:16.159	3.36	phase two onwards and all kinds of
+01:35:17.679	2.48	utility in the forms of bombs and all
+01:35:19.520	2.48	kinds of other
+01:35:20.159	3.28	engineering doodads and if you're a
+01:35:22.000	1.76	speedrun guild you might want to go with
+01:35:23.440	1.68	that
+01:35:23.760	3.12	and of course you get a helicopter if
+01:35:25.119	3.84	you go in engineering so shout out to
+01:35:26.880	4.08	copter gang in the discord jewelcrafting
+01:35:28.960	3.92	gives a minor stat boost medium quality
+01:35:30.960	3.20	trinkets the group wide buff necks which
+01:35:32.880	3.20	we talked about in the elemental section
+01:35:34.159	2.56	and the best samwell plateau epic neck
+01:35:36.080	2.64	and tier vi
+01:35:36.719	3.20	so not a bad choice jewelcrafting also
+01:35:38.719	2.88	makes some gold with it too
+01:35:39.920	3.68	enchanted gives you a minor passive stat
+01:35:41.600	2.32	boost while tailoring does nothing for
+01:35:43.600	2.00	us
+01:35:43.920	3.28	alchemy gives us a trinket we don't want
+01:35:45.600	3.44	and access to cheap potions
+01:35:47.199	3.60	also the ability to make some cash
+01:35:49.040	2.80	here's a handy flow chart to help you
+01:35:50.800	2.80	make your decisions
+01:35:51.840	3.52	if you are the dedicated drummer in your
+01:35:53.600	3.12	group which you probably will be you're
+01:35:55.360	3.12	going to want to go with leather working
+01:35:56.719	2.08	if you're not you could do something
+01:35:58.480	2.32	with
+01:35:58.800	3.04	engineering and whatever or engineering
+01:36:00.800	2.56	and jewelcrafting
+01:36:01.840	2.96	engineering and blacksmithing there's
+01:36:03.360	2.08	pretty much a lot of options you can go
+01:36:04.800	2.32	with but
+01:36:05.440	3.68	use this flowchart to kind of make your
+01:36:07.119	3.52	decisions for you i think leatherworking
+01:36:09.119	2.24	is probably gonna be the best option for
+01:36:10.639	2.64	most people
+01:36:11.360	3.28	secondary profession it really matters
+01:36:13.280	3.12	how you're playing the game and what you
+01:36:14.639	3.28	want to do and what you have access to
+01:36:16.400	3.92	engineering will provide the best
+01:36:17.920	4.72	utility in the speed run jewelcrafting
+01:36:20.320	3.84	will provide some best items especially
+01:36:22.639	3.52	later on in the game blacksmithing is
+01:36:24.159	3.84	great for if you're an avid pvper and
+01:36:26.159	3.92	enchanting has its benefits as well so
+01:36:28.000	3.20	use this flow chart try to kind of plan
+01:36:30.080	2.40	your professions out
+01:36:31.199	2.56	personally i'm probably going to go
+01:36:32.480	2.72	leather working in blacksmithing because
+01:36:33.760	3.92	i plan the pvp a lot
+01:36:35.199	4.08	i like having access to other weapons if
+01:36:37.679	2.64	i can't get something from a raid drop
+01:36:39.280	2.72	so consider that
+01:36:40.320	3.28	as well like you'll have more weapon
+01:36:42.000	4.08	options as a blacksmith alright well in
+01:36:43.600	4.00	the final slide of the guide itself we
+01:36:46.080	3.44	have two more goodbye slides
+01:36:47.600	3.20	but these are additional resources and
+01:36:49.520	3.68	these links will be in the description
+01:36:50.800	4.80	there's a tbc raid group composition
+01:36:53.199	4.08	synergy spreadsheet by local really
+01:36:55.600	3.68	awesome lets you kind of plan
+01:36:57.280	3.68	your groups out and how they'll interact
+01:36:59.280	2.80	with each other with their buffs well it
+01:37:00.960	2.40	has a similar tool
+01:37:02.080	2.56	in the raid composition tool which
+01:37:03.360	2.80	actually just came out today when i
+01:37:04.639	2.96	recorded this video i haven't got a
+01:37:06.159	2.40	chance to check it out yet but i'm sure
+01:37:07.600	2.48	it's beneficial
+01:37:08.560	3.92	i probably would imagine lockholes is
+01:37:10.080	4.00	better to be honest asgard's tbc classic
+01:37:12.480	2.88	downranking tool and guide again i
+01:37:14.080	2.16	talked about this as a friend of mine
+01:37:15.360	2.32	who designed
+01:37:16.239	3.36	this same thing for classic and he did
+01:37:17.679	3.36	it for tbc again it lets you see how
+01:37:19.600	3.44	downranking affects your spells if
+01:37:21.040	3.52	you're a healer 70 upgrades for gear
+01:37:23.040	2.96	planning be careful with their eps
+01:37:24.560	2.40	they're usually not very accurate but
+01:37:26.000	3.76	it's really good for
+01:37:26.960	4.88	planning gear sets and sharing gear sets
+01:37:29.760	3.52	the warrior compilation from meiji i'll
+01:37:31.840	2.56	have a link to that in the description
+01:37:33.280	2.88	as well and that'll help with
+01:37:34.400	2.40	enhancement shamans mostly for melee
+01:37:36.159	2.32	mechanics
+01:37:36.800	3.92	classical armaments discord that's
+01:37:38.480	2.80	getting ai's discord i really would
+01:37:40.719	2.08	suggest
+01:37:41.280	3.04	heading over there he does a lot of work
+01:37:42.800	3.84	and really cool stuff
+01:37:44.320	4.88	exploring the less explored parts of the
+01:37:46.639	4.08	game well tbc.gg is a good comparison
+01:37:49.199	3.44	website with gear options
+01:37:50.719	3.12	however don't use their aps or their
+01:37:52.639	2.72	suggestions for biss
+01:37:53.840	3.36	i would use current theorycraft from the
+01:37:55.360	3.52	shaman discord okay we've done it thank
+01:37:57.199	3.52	you so much for watching the advanced
+01:37:58.880	2.24	shaman guide part 2. i cannot stress
+01:38:00.719	3.28	enough
+01:38:01.119	3.28	how much work was done by volunteers in
+01:38:04.000	2.48	the
+01:38:04.400	3.60	shaman discord this guide would not be
+01:38:06.480	2.32	possible without them and if it would be
+01:38:08.000	2.24	possible it'll be
+01:38:08.800	3.36	not as good nowhere near as good so
+01:38:10.239	2.24	thank you so much everyone the work you
+01:38:12.159	2.16	do
+01:38:12.480	3.12	it's amazing you know co-running a
+01:38:14.320	2.96	discord with the eag and seeing the
+01:38:15.600	3.44	amount of work that gets done is just
+01:38:17.280	3.60	really proud of what we've built so
+01:38:19.040	4.24	thank you so much there are other tbc
+01:38:20.880	4.16	sean resources to check out i've created
+01:38:23.280	4.32	with collaboration with other people
+01:38:25.040	3.28	a pve guide for each of the shaman specs
+01:38:27.600	2.72	90
+01:38:28.320	3.92	information is valid it's just the kind
+01:38:30.320	3.76	of things like professions and some
+01:38:32.239	3.36	abyss options have changed but the
+01:38:34.080	2.96	theory craft is sound so if you're
+01:38:35.600	3.12	interested in a certain spec
+01:38:37.040	3.76	i would definitely watch those guides
+01:38:38.719	4.00	advanced shaman guide part 1 for tbc
+01:38:40.800	3.60	classic is the predecessor of this
+01:38:42.719	3.04	current video it's a really good start
+01:38:44.400	3.12	to understand shaman and the
+01:38:45.760	2.96	idiosyncrasies of shaman it's a three
+01:38:47.520	3.12	hour video so i go over
+01:38:48.719	3.04	a lot and i would check those out i'll
+01:38:50.639	3.52	have a link to
+01:38:51.760	4.24	my overall shaman guide playlist in
+01:38:54.159	3.36	addition to these videos in the links
+01:38:56.000	3.04	in the description classic shaman
+01:38:57.520	3.52	discord as i said if this
+01:38:59.040	3.52	guide hasn't given you a reason to join
+01:39:01.040	3.28	this community i don't know what will
+01:39:02.560	2.40	the amount of work and dedication by
+01:39:04.320	2.56	these people
+01:39:04.960	3.52	that are in this discord is just amazing
+01:39:06.880	2.96	there'll be a link to the shaman discord
+01:39:08.480	3.04	in the description below once you click
+01:39:09.840	3.44	that link you'll go to our readme
+01:39:11.520	2.64	channel the first three reactions on the
+01:39:13.280	2.80	first post
+01:39:14.159	3.44	dictate which part of the discord that
+01:39:16.080	3.04	will be open to you so you click the
+01:39:17.600	2.96	reaction to what you want to see
+01:39:19.119	2.72	and that will be open to you if you
+01:39:20.560	2.88	don't want to see classic vanilla
+01:39:21.840	3.28	content don't click on the reaction if
+01:39:23.440	3.12	you want to see just tbc click on that
+01:39:25.119	3.04	one and we even have to wrap the lich
+01:39:26.560	3.28	king button there's nothing there yet
+01:39:28.159	3.20	but we have it built so when we build
+01:39:29.840	2.88	out the wrethlich king version
+01:39:31.360	2.72	that will be showed to you if you want
+01:39:32.719	2.32	to see it and again you can click more
+01:39:34.080	3.44	than one of course
+01:39:35.040	4.08	classic.live is a site we used for
+01:39:37.520	3.04	primarily vanilla classic
+01:39:39.119	3.60	however egregious is putting his
+01:39:40.560	3.68	progressive business for tbc on that
+01:39:42.719	3.28	site so check it out and that's what
+01:39:44.239	2.24	we'll have that information for you as
+01:39:46.000	2.88	well
+01:39:46.480	4.32	finally this slide is a special thanks
+01:39:48.880	4.24	slide to all the people who made this
+01:39:50.800	3.04	guide possible thank you all so much
+01:39:53.119	4.16	nigenin
+01:39:53.840	4.16	sophist huang italia lockgall beagle the
+01:39:57.280	3.84	logarithm
+01:39:58.000	5.76	tolian sikarnin shaq jacko garcour gitch
+01:40:01.119	3.52	eben hitbutton meiji fenris dragon hoof
+01:40:03.760	3.68	gideon ai
+01:40:04.639	3.36	the bloodborne eco senna fauxhawk slimex
+01:40:07.440	4.00	d'amp
+01:40:08.000	5.52	zoya tambard t-bone lig aided caper finn
+01:40:11.440	3.92	thick granny and juiceman thank you all
+01:40:13.520	3.76	so much i know i probably miss people
+01:40:15.360	3.20	i'm really sorry about that i try to get
+01:40:17.280	2.88	as many people in here as i could
+01:40:18.560	3.04	also thanks egregious but i didn't put
+01:40:20.159	3.28	him in here because he's like he's the
+01:40:21.600	3.04	co-founder of the discord so we work
+01:40:23.440	2.72	together right so i don't want to put
+01:40:24.639	3.28	him in here but thank you everyone
+01:40:26.159	3.36	else you just did so much work and
+01:40:27.920	3.04	collaboration to make these guides
+01:40:29.520	3.36	possible and i have to say
+01:40:30.960	3.84	i don't think there's a class in wow
+01:40:32.880	3.60	that has as much representation as we do
+01:40:34.800	3.60	as shamans and of course you know being
+01:40:36.480	2.64	a content creator we get more exposure
+01:40:38.400	2.56	but still
+01:40:39.119	3.68	it doesn't discount how much work gets
+01:40:40.960	3.20	done in the discord so thank you all
+01:40:42.800	1.76	well everyone thanks for watching this
+01:40:44.159	2.08	guide
+01:40:44.560	3.84	keep on key binding and grinding in
+01:40:46.239	19.60	peace my shannon brothers and sisters
+01:40:48.400	17.44	may the ancestors be with you
+01:41:08.930	3.36	[Music]
+01:41:17.440	2.08	you

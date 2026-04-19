@@ -7,6 +7,7 @@ Source basis:
 - Raid-night token quick sheet: [SSC/TK Raid-Night Tier Token Quick Sheet](ssc-tk-token-drop-quick-sheet.md)
 - Tier-token companion: [SSC/TK Tier 5 Token Priority and Equip Constraints](ssc-tk-tier-token-priority.md)
 - Companion appendix: [SSC/TK Weapons and Trinkets Opportunity Cost](ssc-tk-weapons-trinkets-opportunity-cost.md)
+- New transcript evidence ledger: [SSC/TK Spec Transcript Synthesis](ssc-tk-spec-transcript-synthesis.md)
 
 This is not a generic BiS list. It is an LC decision guide: who should receive the drop first, what gearing tradeoff it creates, and where an apparently "BiS" claim should lose to raid-level allocation.
 
@@ -43,7 +44,7 @@ This is not a generic BiS list. It is an LC decision guide: who should receive t
 | Vestments of the Sea-Witch | Lady Vashj | P0 Warlock | One of the best warlock items in the raid. Warlock first, then Ele, then Mage only after locks are done. |
 | Belt of One-Hundred Deaths | Lady Vashj | P0/P1 Ret, Enhance, Feral, speed tanks | In normal guilds: Ret > Enhance > Feral > Rogue > Warrior > non-threat-starved tanks. In speed/parsing guilds: main bear/prot warrior can move to top. Never Hunter. |
 | Talon of Azshara | Morogrim | P0 Rogue | Rogue main-hand until Warglaives. Warrior uses it offhand and has alternatives. Rogue first, Warrior next. |
-| Rod of the Sun King | Kael'thas | P0 Enhance | Enhance outright BiS and has less flexibility than Fury. Then Warrior. |
+| Rod of the Sun King | Kael'thas | P0 Enhance | Enhance outright BiS and has less flexibility than Fury. Later Rods are real Fury offhand candidates even if the proc is weak. |
 | The Nexus Key | Kael'thas | P0 Arcane Mage | Value is intellect/crit more than raw spell damage. Arcane Mage > Ele/Boomkin > undergeared SP/Warlock. |
 | Verdant Sphere | Kael'thas | P0 Prot Paladin first | First sphere to Prot Paladin for Darkener's Grasp, then Sun King's Talisman to Arcane/Ele, then hunters/casters/healers by relative gain. |
 | Shoulderpads of the Stranger | Hydross | P1 Enhance > Ret > DPS Warrior | Avoid giving to Rogue because the recommended rogue set uses tier shoulders and offset chest. Avoid Bear/Cat except unusual speedrun logic. |
@@ -78,10 +79,10 @@ Wowhead confirms the Tier 5 token split and slot sources:
 | Hunter BM | 4p Rift Stalker only when complete; usually no tier legs. | Do not break Beast Lord 4p for singles. Batch 4 pieces onto one hunter when ready. BM uses Leggings of Murderous Intent as offset. |
 | Hunter Survival | 4p can include tier legs. | Survival can prefer tier legs and Dexterous Manipulation gloves; handle separately from BM. |
 | Mage Arcane | Immediate 2p, then 4p; final set usually head/shoulder/chest/legs. | All mages should get 2p before finishing anyone's 4p. Do not give them Vashj chest; use Gauntlets of the Sun King as the eventual offset. |
-| Prot Paladin | Legs first, gloves high, helm if needed; shoulders/chest low. | Legs are absurdly good. Gloves are strong for threat. Helm competes with engineering goggles. Chest/shoulders often lose to T4/crush-immunity/stat tradeoffs. |
+| Prot Paladin | Legs first, gloves high, helm if it is the planned tank route; shoulders/chest low. | Legs and gloves are strong. Helm can be excellent, but competes with engineering goggles and set math. Chest/shoulders often lose to T4 chest/Justicar shoulders because of block value and the old threat bonus. |
 | Ret Paladin | Helm/chest only; low priority. | Does not care about set bonuses. Can use goggles and many offset pieces. |
 | Holy Paladin | Head/shoulder/chest; no gloves/legs. | Medium-low token priority because offsets exist and set bonuses are not top-tier. |
-| Holy Priest | 4p, typically head/shoulder/gloves/legs with Primal Mooncloth chest. | Individual pieces are excellent. Chest token is very contested, so keep PMC chest and complete 4p elsewhere. |
+| Holy Priest | 4p, typically head/shoulder/gloves/legs with Primal Mooncloth chest. | Individual pieces are excellent, and Tier 5 encounters make Circle of Healing more relevant. Chest token is very contested, so keep PMC chest when available and complete 4p elsewhere. Confirm whether the priest is IDS or CoH. |
 | Shadow Priest | 4p is strong, but individual pieces are weak. | Recommended setup: shoulders/chest/gloves/legs to avoid the contested helm token. Trickle uncontested pieces, then finish 4p deliberately. |
 | Rogue | 4p Deathmantle, recommended head/shoulders/gloves/legs plus Bloodsea chest. | Highest Champion token value. Avoid tier chest because it costs a Kael chest token and pushes rogue into Shoulderpads of the Stranger, which are contested. |
 | Enhance Shaman | 4p head/chest/gloves/legs; avoid shoulders. | 4p Flurry haste is the goal. Head/chest are good immediately; gloves/legs can wait until 4p is realistic. |
@@ -89,7 +90,8 @@ Wowhead confirms the Tier 5 token split and slot sources:
 | Elemental Shaman | Chest/legs, maybe gloves if badly geared; keep T4 head/shoulders. | T5 set bonuses are poor. Chest and legs are the main individual wins. |
 | Warlock | Helm optional; maybe chest if Vashj chest delayed; legs only stamina; no shoulders/gloves. | Low Hero token priority. Warlocks should be paid through Vashj chest, Wand of the Forgotten Star, Fathomstone, boots, and caster accessories. |
 | Prot Warrior | Wants 4p, but setup depends on helm/gloves offset. | Chest is extremely strong. 4p haste is good. Engineering helm helps the raid by avoiding a contested helm token; Royal Gauntlets setup may force tier helm. |
-| Fury Warrior | Usually no tier except maybe helm. | Offpieces are equal or better in most slots. Token is too contested to prioritize Fury. |
+| Fury Warrior | Usually no tier except maybe helm/stat filler. | Offpieces, weapons, and trinkets are the real Phase 2 plan. Token is too contested to prioritize Fury over protected Defender set users. |
+| Arms Warrior | Usually no tier project. | Treat Arms as a weapon/trinket/offpiece spec. The reviewed Arms source supports hit/expertise and weapon-spec context, not a Defender token objective. |
 
 ## Token Priority Matrix
 
@@ -99,7 +101,7 @@ Wowhead confirms the Tier 5 token split and slot sources:
 |---|---|---|
 | Gloves, Leotheras | Rogue > Prot Paladin > Enhance > biggest upgrade | Rogue wants fast 4p and gloves are good. Prot can move above Rogue if Rogue cannot realistically finish 4p soon. Enhance mostly wants them for 4p, not as a standalone item. |
 | Legs, Karathress | Prot Paladin, unless Rogue completes 4p that week > Ele > Enhance if completing 4p > Holy Paladin > Resto Shaman > Ret | Prot legs are elite. Rogue jumps if this completes 4p. Ele legs are individually BiS. Holy Paladin gets tier legs before Resto because Resto has Sunhawk Leggings later. |
-| Helm, Vashj | Rogue > Enhance > Ret/Holy/Resto > Prot > Ele | Rogue helm is key to 4p. Enhance uses it in 4p. Prot should often use engineering goggles. Ele should still be using T4 helm. |
+| Helm, Vashj | Rogue > Enhance > Prot if planned tank route > Ret/Holy/Resto > Ele | Rogue helm is key to 4p. Enhance uses it in 4p. Prot can move up if helm completes a real uncrushable/threat route; otherwise check engineering goggles. Ele should still be using T4 helm. |
 | Shoulders, Void Reaver | Rogue > Holy Paladin > Resto Shaman > Prot > others | Rogue recommended setup uses tier shoulders. Holy before Resto because it is a bigger tier upgrade and Resto wins more mail offsets. |
 | Chest, Kael'thas | Enhance > Resto/Ele/Holy > Ret/Rogue/Prot | Enhance needs it for 4p and it is a strong piece. Rogue should avoid tier chest; Prot and Ret have weaker claims. |
 
@@ -107,11 +109,11 @@ Wowhead confirms the Tier 5 token split and slot sources:
 
 | Slot | Recommended priority | Why |
 |---|---|---|
-| Gloves, Leotheras | Feral Cat/Bear > Holy Priest > Prot Warrior/Shadow/Boomkin by 4p proximity > Resto Druid > Fury | Feral gets real use. Holy Priest gets a good individual piece. Prot/Shadow/Boomkin mainly want it for 4p timing. |
-| Legs, Karathress | Bear > Holy Priest > Prot Warrior/Boomkin/Shadow by 4p proximity > Resto Druid > Fury | Bear legs are very strong. Holy Priest again gets strong individual value. |
-| Helm, Vashj | Main Bear > Balance/Holy Priest > Prot Warrior/Shadow only if committing to 4p > Fury > Resto Druid | Helm is very contested. Shadow Priest is intentionally steered away from helm to use gloves instead. Prot Warrior may avoid helm via engineering. |
-| Shoulders, Void Reaver | Bear > Prot Warrior > Balance/Holy Priest > Shadow if finishing 4p > Resto/Fury | Bear and Prot have strong claims; Balance/Holy have good 4p/individual value. |
-| Chest, Kael'thas | Prot Warrior > Feral > Balance/Shadow working 4p > Resto Druid > Fury > Holy Priest | Prot chest is exceptional. Holy Priest is last because Primal Mooncloth chest is close and they can 4p elsewhere. |
+| Gloves, Leotheras | Feral Cat/Bear > Holy Priest > Prot Warrior/Shadow/Boomkin by 4p proximity > Resto Druid > Fury/Arms | Feral gets real use. Holy Priest gets a good individual piece. Prot/Shadow/Boomkin mainly want it for 4p timing. |
+| Legs, Karathress | Bear > Holy Priest > Prot Warrior/Boomkin/Shadow by 4p proximity > Resto Druid > Fury/Arms | Bear legs are very strong. Holy Priest again gets strong individual value. |
+| Helm, Vashj | Main Bear > Balance/Holy Priest > Prot Warrior/Shadow only if committing to 4p > Fury/Arms > Resto Druid | Helm is very contested. Shadow Priest is intentionally steered away from helm to use gloves instead. Prot Warrior may avoid helm via engineering. |
+| Shoulders, Void Reaver | Bear > Prot Warrior > Balance/Holy Priest > Shadow if finishing 4p > Resto/Fury/Arms | Bear and Prot have strong claims; Balance/Holy have good 4p/individual value. |
+| Chest, Kael'thas | Prot Warrior > Feral > Balance/Shadow working 4p > Resto Druid > Fury/Arms > Holy Priest | Prot chest is exceptional. Holy Priest is last because Primal Mooncloth chest is close and they can 4p elsewhere. |
 
 ### Vanquished Hero: Hunter, Mage, Warlock
 
@@ -157,12 +159,41 @@ BM Hunter should hold Beast Lord 4p until 4p Rift Stalker is ready. This means:
 - Do not expect a Hunter to equip isolated T5 tokens immediately.
 - Once Mage 2p obligations are handled, stack one Hunter to 4p rather than spreading pieces that sit in bags.
 
+### Fury Warrior Payment Plan
+
+Fury's new transcript review reinforces the existing LC pattern: Fury has real Phase 2 wants, but very few first claims.
+
+- Keep Defender tokens low priority because the set bonus is weak and the token is shared with stronger set users.
+- If the Fury is Hammersmith, `Dragonstrike` is the clean main-hand plan and Nether Vortexes should be funneled rather than split.
+- If the Fury is not blacksmithing, or needs an offhand, `Talon of Azshara`, `Rod of the Sun King`, `Talon of the Phoenix`, and Orc `Netherbane` are all real paths, but each has a stronger first claimant.
+- `Tsunami Talisman` is a legitimate non-DST Fury progression trinket, while `Bloodlust Brooch` stays useful on short/timed fights.
+
+### Enhancement Weapon Logic
+
+The new Enhancement sources support the priority on slow one-handers but caution against treating blacksmithing as automatic Tier 5 BiS.
+
+- Two slow weapons with Windfury/Windfury are the high-scaling plan.
+- Same-speed slow weapons are ideal if the player can manage sync/stagger; mismatched slow weapons remain strong.
+- A fast offhand with Flametongue can work early, but should not beat a proper slow-weapon pair in Tier 5 loot routing.
+- Blacksmithing is race- and phase-sensitive. Do not make Enhancement a default Nether Vortex sink unless the player has a specific crafted plan.
+
+### Prot Paladin Tier Constraints
+
+Prot Paladin wants some Champion tokens badly, but not all of them.
+
+- T5 legs and gloves are strong, and helm can be strong if it fits the tank's uncrushable/threat route.
+- T4 chest and Justicar/T4-style shoulders can remain correct because of block value and the old threat bonus.
+- Champion shoulders and chest should stay low unless the Paladin can prove the full set math.
+- `Darkener's Grasp`, `Girdle of the Invulnerable`, `Wristguards of Determination`, `Boots of the Resilient` / crafted boots, and sometimes `Fang of the Leviathan` are cleaner ways to pay Prot Paladin.
+
 ### Healer Mace Equity
 
 Lightfathom Scepter is the strongest healer item in the phase. Since every healer wants it and the class delta is small:
 - Give it to the best, most reliable, highest-impact healer.
 - Use Sunshower Light Cloak, Coral Band of the Revived, Holy Priest tier, and other healer pieces to keep the rest of the core engaged.
 - Resto Shaman may gain slightly more from the MP5, but not enough to override player quality.
+- Priest `Earring of Soulful Meditation` is a narrow Priest trinket and should not be treated as broad healer compensation.
+- Resto Druid gets real value from spirit through Tree of Life aura and Innervate, so spirit cloak/ring/offhand pieces are meaningful compensation when Defender tokens go elsewhere.
 
 ### Physical Ring Split
 
@@ -179,8 +210,8 @@ Lightfathom Scepter is the strongest healer item in the phase. Since every heale
 | Spyglass of the Hidden Fleet | SSC trash | Tank without engineering stam trinket | Lower stamina than engineering options. Bear may be most likely to lack one, but not a big-deal item. |
 | Living Root of the Wildheart | Hydross | Druid who wants fun item | Not BiS. |
 | Scarab of Displacement | Hydross | P3 Prot Paladin/niche | Weak. Maybe useful toward crush immunity. |
-| Earring of Soulful Meditation | Lurker | Healing Priest, P3 | Cool but not major BiS. |
-| Tsunami Talisman | Leotheras | Feral Cat/Arms as DST-compensation; then non-DST Hunter/Fury/Enhance | Overstated item. Do not give to Rogue. Hunter usually keeps Bloodlust Brooch, and Ret/Enh lose interest if they have Darkmoon Card: Crusade. |
+| Earring of Soulful Meditation | Lurker | Healing Priest | Priest-only healer trinket. New tank/healer source calls it the notable new healer trinket; most other healers keep Phase 1 trinkets. |
+| Tsunami Talisman | Leotheras | Feral Cat/Arms as DST-compensation; then non-DST Hunter/Fury/Enhance | Overstated item. Do not give to Rogue. Fury source values it for progression/longer fights if no DST; Brooch can still win on short timed kills. Ret/Enh lose interest if they have Darkmoon Card: Crusade. |
 | Fathom-Brooch of the Tidewalker | Karathress | Shaman who wants it | Not a great item. |
 | Sextant of Unstable Currents | Karathress | Ele/Boomkin or caster without Quagmirran's Eye | Not generally ahead of Phase 1 trinkets, but Ele and Boomkin specialists have real crit/proc use cases. |
 | Serpent-Coil Braid | Morogrim | Mage P0 | Mage-only in practice and very high impact. |
@@ -196,13 +227,13 @@ Lightfathom Scepter is the strongest healer item in the phase. Since every heale
 
 | Item | Source | Priority | Nuance |
 |---|---|---|---|
-| Nether Vortex upgrades | Trash/boss drops | Dragonstrike/Fury one-handers first; then Lionheart Executioner/other true-BiS BS weapons | Twinblade can replace Lionheart for Ret/Arms if Kael dies early, so prioritize one-handers first. |
+| Nether Vortex upgrades | Trash/boss drops | Dragonstrike/Fury one-handers first; then Lionheart Executioner/other true-BiS BS weapons | Funnel Vortexes once LC commits to a weapon. Enhancement blacksmithing is not automatically Tier 5 BiS; prioritize actual slow weapon drops for Enhance unless the player has a clear crafted plan. |
 | Wildfury Greatstaff | SSC trash | Bear > Cat | Bear mitigation item. Bear may not always equip because threat stats are weak. |
 | Fathomstone | Hydross | Warlock | Small upgrade and not a huge item, but Warlock is the real target. |
 | Mallet of the Tides | Lurker | Prot Warrior | Great Prot Warrior weapon. Waste on Prot Paladin. |
-| Fang of the Leviathan | Leotheras | Warlock > Prot Paladin | Prefer Warlock in normal guilds. In speedrun guilds, Prot Paladin threat can justify moving up. Prioritize whoever lacks a good prior-phase weapon. |
+| Fang of the Leviathan | Leotheras | Warlock > Prot Paladin | Prefer Warlock in normal guilds. Prot Paladin sources treat Fang as a major threat weapon, so threat-constrained raids can move a core Prot Paladin up. Prioritize whoever lacks a good prior-phase weapon. |
 | World Breaker | Karathress | Arms/Ret if wanted; otherwise PvP | Not a major LC piece. |
-| Talon of Azshara | Morogrim | Rogue > DPS Warrior | Rogue main-hand until Warglaives; Warrior offhand has alternatives. |
+| Talon of Azshara | Morogrim | Rogue > Fury Warrior | Rogue main-hand until Warglaives; Fury offhand has alternatives but should be a real second lane. |
 | Luminescent Rod of the Naaru | Morogrim | Priest | Healing wand; narrow user pool. |
 | Fang of Vashj | Lady Vashj | Dagger Rogue > dual-wield tank/offhand threat | Strong expertise tank offhand if no dagger rogue. |
 | Lightfathom Scepter | Lady Vashj | Best/reliable healer | Biggest healer item in the phase. |
@@ -211,12 +242,12 @@ Lightfathom Scepter is the strongest healer item in the phase. Since every heale
 | Claw of the Phoenix | Al'ar | Hunter | Hunter melee stat stick; Rogue does not want it for PvE. Survival can pair this with Netherbane. |
 | Netherbane | Al'ar | Enhance/Warrior before Survival Hunter unless roster dictates | Survival wants the agility and may use Netherbane MH plus Claw OH. Double Netherbane costs personal DPS and may reduce Expose Weakness uptime. |
 | Arcanite Steam-Pistol | Al'ar | Hunter temp > Rogue by impact; Rogue by longevity | Hunter temp behind Vashj bow. Rogue can use it as a long-lived ranged stat stick, but the upgrade is modest. |
-| Talisman of the Sun King | Al'ar | Priest/Druid who wants offhand | Avoid shield users first because Magtheridon shield plus intellect enchant is strong. Some healers prefer Windcaller's Orb. |
+| Talisman of the Sun King | Al'ar | Priest/Druid offhand; Resto Shaman if using offhand route | Avoid shield users first because Magtheridon shield plus intellect enchant is strong. Resto Shaman only rises if their actual set uses an offhand. |
 | Heartrazor | Solarian | Dagger Rogue/PvP > dual-wield tank | Expertise makes it a real tank threat offhand. |
 | Ethereum Life-Staff | Solarian | Priest/Druid without Prince mace | High spirit sustain item, but generally worse than Prince mace plus offhand. |
 | Wand of the Forgotten Star | Solarian | Warlock > Shadow Priest > Mage if hit-starved | Warlock first. Shadow Priest trades very little raw shadow damage for hit/crit. Mage usually skips unless the hit fixes a real gearing problem. |
-| Twinblade of the Phoenix | Kael'thas | Ret = Arms Warrior | Slightly better than Lionheart Executioner. Hunters later for PvP/melee-weave fantasy. |
-| Rod of the Sun King | Kael'thas | Enhance > Warrior | Enhance outright BiS. Warrior has Talon of Azshara flexibility. |
+| Twinblade of the Phoenix | Kael'thas | Ret = Arms Warrior | Slightly better than Lionheart Executioner. Arms source supports common Lionheart sword use, so do not overstate the upgrade. Hunters later for PvP/melee-weave fantasy. |
+| Rod of the Sun King | Kael'thas | Enhance > Fury Warrior | Enhance outright BiS due slow weapon pairing. Fury still has a real later claim even if the proc is weak because of top-end damage. |
 | The Nexus Key | Kael'thas | Arcane Mage > Ele/Boomkin > undergeared SP/Warlock | Intellect and crit are the reason. One-hand plus offhand has more raw spell power. |
 
 ## Warlock Loot Plan
@@ -281,7 +312,7 @@ Warlocks should not feel token-starved if LC is correctly routing offpieces.
 | Choker of Animalistic Fury | Warrior, then Hunter by context | Hunter has Verdant Sphere neck path; Warrior may never see Pendant of the Perilous. Play by drops. |
 | Ancestral Ring of Conquest | DPS Warrior = Ret = Feral Cat | No-hit ring. Only award to players whose set needs no-hit item. |
 | The Seal of Danzalar | Prot Paladin | Threat ring with spell damage/resilience/stamina. |
-| Earring of Soulful Meditation | Healing Priest | Low-impact trinket. |
+| Earring of Soulful Meditation | Healing Priest | Priest-only and the notable new healer trinket; most other healers keep Phase 1 trinkets. |
 | Mallet of the Tides | Prot Warrior | Strong tank weapon; not Prot Paladin. |
 
 ### Leotheras the Blind
@@ -291,9 +322,9 @@ Warlocks should not feel token-starved if LC is correctly routing offpieces.
 | Orca-Hide Boots | Resto Druid > Resto Shaman > Holy Paladin | High +healing boots. Shaman may prefer for short fights over Tempest-Strider. |
 | Coral-Barbed Shoulderpads | Resto Shaman | Good filler; Holy Paladin has other shoulder options. |
 | True-Aim Stalker Bands | Enhance > Hunter | Enhance gets mail wrist that is equivalent to leather alternatives but uncontested by Rogue/Feral. |
-| Girdle of the Invulnerable | Prot Warrior > Prot Paladin | Paladin has Belt of the Guardian option; Warrior may use PvP belt, so confirm. |
-| Tsunami Talisman | Feral Cat/Arms as DST-compensation; then non-DST Hunter/Fury/Enhance | Do not give to Rogue or Ret. Hunter/Enhance only move up if they are unlikely to get DST or have no better trinket path. |
-| Fang of the Leviathan | Warlock > Prot Paladin | Normal guild: Warlock. Speedrun guild can move Prot Paladin up. |
+| Girdle of the Invulnerable | Prot Paladin / Prot Warrior by set need | Prot Paladin sources value this for uncrushable/mitigation; Warrior may use PvP belt, so confirm both tanks' actual sets. |
+| Tsunami Talisman | Feral Cat/Arms as DST-compensation; then non-DST Hunter/Fury/Enhance | Do not give to Rogue or Ret. Fury values it for progression if no DST; Hunter/Enhance only move up if they are unlikely to get DST or have no better trinket path. |
+| Fang of the Leviathan | Warlock > Prot Paladin | Normal guild: Warlock. Threat-constrained guilds can move a core Prot Paladin up. |
 | Gloves tokens | See token matrix | Gloves are less contested than later slots, but Mage/Rogue still matter. |
 
 ### Fathom-Lord Karathress
@@ -360,7 +391,7 @@ Warlocks should not feel token-starved if LC is correctly routing offpieces.
 | Claw of the Phoenix | Hunter | After Hunters, little raid value. |
 | Netherbane | Enhance/Warrior > Survival Hunter unless investing in Survival utility | Survival likes Netherbane MH plus Claw OH; double Netherbane is a personal DPS and Expose Weakness uptime tradeoff. |
 | Arcanite Steam-Pistol | Hunter temp > Rogue by impact; Rogue by longevity | Hunter temp behind Vashj bow; Rogue later for a modest long-lived stat stick. |
-| Talisman of the Sun King | Priest/Druid offhand | Shield users have Mag shield plus intellect enchant. |
+| Talisman of the Sun King | Priest/Druid offhand; Resto Shaman if using offhand route | Shield users have Mag shield plus intellect enchant. |
 
 ### Void Reaver
 
@@ -404,10 +435,10 @@ Warlocks should not feel token-starved if LC is correctly routing offpieces.
 | Gauntlets of the Sun King | Arcane Mage | Eventual mage offset so Vestments can go Warlock. |
 | Leggings of Murderous Intent | Hunter > Warrior > Ret | Warrior has Greaves of the Bloodwarder; Ret's BiS claim is less settled. Survival Hunter can pass for tier legs. |
 | Sunhawk Leggings | Resto Shaman > Holy Paladin | Resto Shaman first; this is why Holy Paladin gets Champion tier legs before Resto. |
-| Royal Gauntlets of Silvermoon | Prot Warrior > Prot Paladin if actually used | Very strong mitigation but awkward because using them can force tier helm. |
+| Royal Gauntlets of Silvermoon | Prot Warrior mitigation or Prot Paladin defensive set | Very strong mitigation. Prot Paladin T5 gloves are the threatier route; use Royal Gauntlets only if the tank's set wants defense/stamina over threat. |
 | Band of the Ranger-General | Warrior > Enhance > Rogue > Ret if hit | Avoid Hunter unless leftover because Hunter generally cannot use two hit rings. |
-| Twinblade of the Phoenix | Ret = Arms Warrior | Slightly better than upgraded Lionheart. |
-| Rod of the Sun King | Enhance > Warrior | Enhance less flexible than Warrior. |
+| Twinblade of the Phoenix | Ret = Arms Warrior | Slightly better than upgraded Lionheart; Arms can stay Lionheart/sword spec without being dramatically behind. |
+| Rod of the Sun King | Enhance > Fury Warrior | Enhance less flexible than Fury, but later Rods are real Fury offhands. |
 | The Nexus Key | Arcane Mage > Ele/Boomkin > undergeared SP/Warlock | Intellect/crit staff. |
 | Chest tokens | See token matrix | Hero chest: Mage > Hunter > Warlock, because Warlock gets Vashj chest. |
 | Verdant Sphere | Prot Paladin first | See dedicated sphere section. |
