@@ -1,0 +1,296 @@
+start	duration	text
+00:00:00.160	4.00	What's up everybody? In this video, I'll
+00:00:02.240	4.16	be covering the Resto Druid and all of
+00:00:04.160	4.32	the reasons why it may or may not be the
+00:00:06.400	3.76	right healer for you. As with any of my
+00:00:08.480	3.84	other class picking guides, the goal
+00:00:10.160	4.00	here is to make your decision easier.
+00:00:12.320	4.08	So, feel free to leave a comment if you
+00:00:14.160	4.96	have questions. So, with that out of the
+00:00:16.400	4.88	way, restoids in vanilla. They were
+00:00:19.119	4.16	known for being generally an undesirable
+00:00:21.279	4.40	healer, but that does not follow them
+00:00:23.279	4.24	into TPC. And that's partly due to the
+00:00:25.680	4.08	several changes that were made to the
+00:00:27.519	4.24	way that healing overtime spells worked.
+00:00:29.760	4.48	There can now be multiple applications
+00:00:31.760	4.56	of the same healing overtime spell on a
+00:00:34.239	4.32	single target, and bonus healing from
+00:00:36.320	4.16	gear has a much greater contribution to
+00:00:38.559	4.00	their effects. But that's not the only
+00:00:40.480	3.84	thing that changed with druids. They
+00:00:42.559	3.60	received a new talent called tree of
+00:00:44.320	3.92	life, which drastically changed their
+00:00:46.160	3.92	play style. This is a new shapeshift
+00:00:48.239	3.76	form that's exclusive to the resto
+00:00:50.079	4.24	druid. And like any other druid
+00:00:52.000	4.32	shapeshift form, it grants enhanced
+00:00:54.320	3.84	capabilities for your role while
+00:00:56.320	3.76	limiting your ability to use spells
+00:00:58.160	5.04	outside of your role. While in tree
+00:01:00.079	5.12	form, you have a 20% reduced cost on all
+00:01:03.199	3.84	healing overtime spells. It's hard to
+00:01:05.199	3.76	state just how good that is. The
+00:01:07.040	4.00	secondary benefit that tree form
+00:01:08.960	4.32	provides is the aura that it gives to
+00:01:11.040	5.36	your group members. It increases their
+00:01:13.280	5.28	healing taken by 25% of your total
+00:01:16.400	4.24	spirit. And that ends up being quite a
+00:01:18.560	4.24	significant bonus because of the amount
+00:01:20.640	4.08	of spirit that resto druids have on
+00:01:22.799	3.76	their gear. Like I already mentioned,
+00:01:24.720	4.24	there are some negatives that come with
+00:01:26.560	4.24	any druid shapeshift form. And tree of
+00:01:28.960	3.76	life is no exception. While in tree
+00:01:30.799	4.32	form, you're limited to casting only
+00:01:32.720	4.96	healing over time spells, swift men,
+00:01:35.119	4.96	nature swiftness, intervate, battle res,
+00:01:37.680	4.32	and cure poison effects. That means you
+00:01:40.079	4.08	can't cast any damaging spells,
+00:01:42.000	4.32	crowdcontrolling spells, healing touch,
+00:01:44.159	4.56	or deurse without being kicked out of
+00:01:46.320	4.56	tree form. That sounds bad at first, but
+00:01:48.720	3.84	most of it doesn't really interfere with
+00:01:50.880	4.16	your role as a healer. For the most
+00:01:52.560	4.88	part, TBC raids don't require healers to
+00:01:55.040	5.04	deal damage, and healing touch is only
+00:01:57.439	5.04	used in one specific scenario. So, that
+00:02:00.079	3.60	leaves deurse as the one minor annoyance
+00:02:02.479	2.88	that you'll notice with this
+00:02:03.680	3.60	restriction. You're still one of the
+00:02:05.360	4.08	only two classes that are able to
+00:02:07.280	4.24	deurse. So, it's just something you'll
+00:02:09.440	4.32	have to deal with when it comes up. The
+00:02:11.520	5.44	other downside to tree form is you move
+00:02:13.760	4.96	20% slower in this form. But if you know
+00:02:16.959	4.24	the mechanics of the fight, you won't
+00:02:18.720	4.56	actually be affected by this very often.
+00:02:21.200	4.72	As a druid, you have the incredible perk
+00:02:23.280	4.56	of being able to heal while moving, and
+00:02:25.920	3.84	this allows you to preposition yourself
+00:02:27.840	4.00	for mechanics before they actually
+00:02:29.760	4.08	happen. The benefits of tree form far
+00:02:31.840	4.32	outweigh the negatives, and outside of
+00:02:33.840	4.40	very specific scenarios, you'll always
+00:02:36.160	4.88	be in this form. So, you'll have to get
+00:02:38.239	5.12	used to this. Onto the druid's healing
+00:02:41.040	3.92	spells. Lifeloom is Rust Druid's new
+00:02:43.360	3.84	healing overtime effect with this
+00:02:44.959	3.84	expansion. It's easily their most mana
+00:02:47.200	3.84	efficient heal, and it's incredibly
+00:02:48.800	4.64	versatile once the druid understands how
+00:02:51.040	4.80	it works. The spell ticks every second
+00:02:53.440	4.16	for 7 seconds. If the druid doesn't
+00:02:55.840	3.92	refresh the lifeloom by the seventh
+00:02:57.599	4.72	tick, the effect delivers a burst of
+00:02:59.760	4.80	healing as it expires. However, if the
+00:03:02.319	4.48	druid does refresh life bloom before it
+00:03:04.560	4.08	expires, the effect gains an additional
+00:03:06.800	3.92	stack, and the healing overtime portion
+00:03:08.640	4.24	is doubled. This effect can be stacked
+00:03:10.720	4.48	up to three times for up to triple the
+00:03:12.879	4.24	initial periodic healing. A three stack
+00:03:15.200	4.16	lifelume is an incredible tool for
+00:03:17.120	4.72	dealing with heavy and sustained damage,
+00:03:19.360	5.20	particularly on tanks. But lifelume has
+00:03:21.840	4.56	other uses. A one stack lifelume can be
+00:03:24.560	3.76	used to top off raid members who have
+00:03:26.400	3.92	recently received moderate damage.
+00:03:28.319	4.16	Rejuvenation is another instant healing
+00:03:30.319	4.16	over time effect and it offers similar
+00:03:32.480	3.92	healing to a single stack of lifelume,
+00:03:34.480	4.08	but it delivers that healing at a much
+00:03:36.400	4.40	slower pace than lifeloom and at a
+00:03:38.560	4.08	significantly higher mana cost too. That
+00:03:40.799	4.00	doesn't mean rejuvenation doesn't have
+00:03:42.640	4.08	its place. For tank healing, it's used
+00:03:44.799	4.24	in addition to lifeloom, but maintaining
+00:03:46.720	4.24	its effect is not nearly as important.
+00:03:49.040	4.00	But raid healing is where rejuvenation
+00:03:50.959	4.48	really shines. even when you compare it
+00:03:53.040	4.72	to lifelume. That's because rejuvenation
+00:03:55.440	4.64	enables the use of swift mend. Swift
+00:03:57.760	4.56	mend is an instant cast burst heal spell
+00:04:00.080	4.24	with a very short cooldown. The catch is
+00:04:02.319	4.16	that you can only use it on targets with
+00:04:04.319	4.08	an active rejuvenation or regrowth
+00:04:06.480	3.84	effect. So when a party member is in
+00:04:08.400	3.68	critical condition and has no active
+00:04:10.319	3.92	hots, your best course of action is
+00:04:12.080	4.40	usually to use rejuvenation and then
+00:04:14.239	4.00	swift men. This combination produces a
+00:04:16.479	3.84	ton of healing in the span of a global
+00:04:18.239	4.08	cooldown. But like I mentioned before, a
+00:04:20.320	4.00	single stack lifelume is also a great
+00:04:22.320	4.24	tool for raid healing. And this choice
+00:04:24.320	4.32	between rejuvenation and lifelume comes
+00:04:26.560	3.76	up a lot. While it's pretty obvious that
+00:04:28.639	3.84	in situations where a large amount of
+00:04:30.320	4.16	spot healing is required, rejuvenation
+00:04:32.479	4.24	is the correct choice. What's not so
+00:04:34.479	4.00	obvious is the proper spell to use when
+00:04:36.720	3.52	only a moderate amount of healing is
+00:04:38.479	3.68	needed. It's this judgment call that
+00:04:40.240	4.24	defines the skill ceiling for the resto
+00:04:42.160	4.32	druid. Lifeloom heals faster and for
+00:04:44.479	4.00	much less mana, but rejuvenation gives
+00:04:46.479	4.00	you the option to swift men the target
+00:04:48.479	4.32	for the next 12 seconds. It's up for the
+00:04:50.479	4.40	druid to anticipate whether or not swift
+00:04:52.800	4.24	men will be needed or could be needed on
+00:04:54.880	4.00	the target in the next 12 seconds. In
+00:04:57.040	3.76	order to make the correct call all of
+00:04:58.880	3.92	the time, the druid needs to have an
+00:05:00.800	4.16	intimate understanding of the damage
+00:05:02.800	4.16	patterns for every fight. So, like I
+00:05:04.960	4.40	said, this is a huge part of mastering
+00:05:06.960	4.08	the resto druid. Regrowth is another
+00:05:09.360	4.08	healing spell in the resto druid's
+00:05:11.039	4.32	arsenal. It's a 2- second casted spell
+00:05:13.440	3.76	that has a high initial heal and leaves
+00:05:15.360	3.36	a moderate heal overtime effect. The
+00:05:17.199	3.60	initial heal of this spell is actually
+00:05:18.720	3.84	quite strong due in part to the improved
+00:05:20.800	3.84	regrowth talent. The talent gives you a
+00:05:22.560	3.84	50% increased chance to critically
+00:05:24.639	3.76	strike with the initial heal. That's
+00:05:26.400	3.76	before factoring in your base stats and
+00:05:28.400	3.44	gear. The heal overtime portion of the
+00:05:30.160	3.68	spell has its place as your third
+00:05:31.840	3.52	priority hot when assigned to healing a
+00:05:33.840	3.20	main tank. We'll talk more on healing
+00:05:35.360	3.12	assignments in a later section, but a
+00:05:37.039	3.44	lot of the spell's value comes when the
+00:05:38.479	4.24	druid is raid healing. You see, Swift
+00:05:40.479	4.00	Men has a 15-second cool down, and if
+00:05:42.720	3.84	several raid members are taking heavy
+00:05:44.479	3.84	amounts of damage, you can't use Swift
+00:05:46.560	3.76	Mend on all of them. That's where the
+00:05:48.320	3.76	initial heal from regrowth comes in. It
+00:05:50.320	4.16	also has the benefit of leaving a
+00:05:52.080	4.40	21-second hot on the target, giving you
+00:05:54.479	3.68	a much longer window to use swift men
+00:05:56.479	3.84	should they need it. The next healing
+00:05:58.160	3.84	spell on our list is Tranquility. It's a
+00:06:00.320	3.84	group healing spell that heals up to
+00:06:02.000	4.80	four of your nearby party members every
+00:06:04.160	4.80	2 seconds for 8 seconds. This spell does
+00:06:06.800	4.32	have a lengthy cooldown of 10 minutes,
+00:06:08.960	4.88	and it requires the druid to stand still
+00:06:11.120	4.96	and channel it for the full 8 seconds.
+00:06:13.840	4.00	This cooldown is so valuable that you'll
+00:06:16.080	3.76	probably be assigned to use it at a
+00:06:17.840	4.16	certain time designated by your raid
+00:06:19.840	4.08	leader. Last up is healing touch, which
+00:06:22.000	4.32	is a very niche spell for the druiden
+00:06:23.919	4.64	TBC. The spell heals for a massive
+00:06:26.319	4.96	amount, but it has a ridiculously long
+00:06:28.560	4.88	cast time of 3.5 seconds, and like I
+00:06:31.280	4.24	said before, it cannot be used in tree
+00:06:33.440	4.40	form. As a result, there's really only
+00:06:35.520	4.00	one practical application for it, and
+00:06:37.840	3.92	that's to be used in conjunction with
+00:06:39.520	4.48	nature's swiftness. Nature's swiftness
+00:06:41.759	4.80	is a resto talent that makes your next
+00:06:44.000	4.16	nature cast an instant cast. So, combine
+00:06:46.560	4.40	that with healing touch, and you've got
+00:06:48.160	4.80	the druid equivalent of lay on hands. As
+00:06:50.960	3.44	for the important non-healing spells,
+00:06:52.960	3.36	you have innervate, which is a
+00:06:54.400	4.72	threeminute cooldown that can be used on
+00:06:56.319	4.40	any raid member, including the druid. It
+00:06:59.120	4.64	works by increasing the targets
+00:07:00.720	4.96	spiritbased mana regeneration by 400%
+00:07:03.759	4.40	and allowing them to fully regenerate
+00:07:05.680	4.40	mana while casting for 20 seconds. While
+00:07:08.160	3.60	the druid does get a lot of mana out of
+00:07:10.080	3.52	intervate due to their high levels of
+00:07:11.759	4.00	spirit, they're pretty mana efficient on
+00:07:13.599	3.84	their own. This cooldown is often best
+00:07:15.759	3.28	used for the holy priest, which is
+00:07:17.440	3.76	another healer that uses a lot of
+00:07:19.039	4.48	spirit, but has a much harder time with
+00:07:21.199	4.40	mana compared to druids. Rebirth is the
+00:07:23.520	4.48	druid's resurrection spell, and it has
+00:07:25.599	4.56	the advantage of being usable in combat
+00:07:28.000	4.32	at the cost of having a 30inut cool
+00:07:30.160	4.48	down. In 25man raids, where there are
+00:07:32.319	4.32	tons of other healers, having a cooldown
+00:07:34.639	4.00	base resurrection spell is typically not
+00:07:36.639	4.08	a problem. However, it can be very
+00:07:38.639	4.56	frustrating if you do a lot of five and
+00:07:40.720	4.24	10-man content. So, if you like what
+00:07:43.199	3.12	you've heard so far, let's talk about
+00:07:44.960	3.36	the raid assignments that you'll
+00:07:46.319	3.36	typically receive as a resto druid.
+00:07:48.319	3.44	Sometimes you'll be asked to be a
+00:07:49.680	4.08	primary raid healer. While druids are
+00:07:51.759	3.60	definitely serviceable in this role,
+00:07:53.759	3.28	shamans and priests are typically
+00:07:55.360	3.92	better, but there are times where it
+00:07:57.039	4.32	makes sense for a druid to be a primary
+00:07:59.280	4.32	raid healer. One example that comes to
+00:08:01.360	4.32	mind is during the reverberation effect
+00:08:03.599	4.48	during the Grul encounter. You may also
+00:08:05.680	3.92	be asked to serve as a main tank healer.
+00:08:08.080	3.36	This responsibility is typically
+00:08:09.599	3.28	reserved for holy paladins or improved
+00:08:11.440	3.36	divine spirit priests, but it's
+00:08:12.879	3.52	sometimes delegated to a resto druid,
+00:08:14.800	2.96	especially in situations where the main
+00:08:16.400	3.28	tank healer is going to be
+00:08:17.759	3.92	crowdcontrolled. In these cases, the
+00:08:19.680	3.52	druid keeps up all his healing overtime
+00:08:21.680	3.92	effects on the main tank before the
+00:08:23.199	4.24	crowd control lands. These effects
+00:08:25.599	3.36	stabilize the main tank's health long
+00:08:27.440	3.44	enough for the druid to come out of the
+00:08:28.960	4.24	crowd control and use swift men to
+00:08:30.879	4.08	recover. But while druids are great main
+00:08:33.200	3.92	tank healers, it's still not their
+00:08:34.959	4.00	specialty. The druid truly shines when
+00:08:37.120	3.68	he's assigned to healing multiple tanks
+00:08:38.959	3.52	as well as light spot healing. They can
+00:08:40.800	3.84	do this efficiently by keeping three
+00:08:42.479	3.84	stacks of light bloom on each tank and
+00:08:44.640	3.52	then using the remaining globals to
+00:08:46.320	3.92	either heal the raid or pump more
+00:08:48.160	3.76	healing into the tanks. This assignment
+00:08:50.240	3.68	is where druids are the most flexible
+00:08:51.920	3.60	and fun to play. Which is a nice segue
+00:08:53.920	3.92	into the last section where I'll give
+00:08:55.519	4.56	you my procon list for the resto druid
+00:08:57.839	5.04	and TBC. As a disclaimer, this list is
+00:09:00.080	4.56	based only on PvE content. I made a PvP
+00:09:02.880	3.60	guide for healers which you can find by
+00:09:04.640	3.76	clicking on the top right of this video
+00:09:06.480	3.92	frame. So, as I just mentioned, druids
+00:09:08.399	4.08	are probably the most fun and flexible
+00:09:10.399	3.76	healers to play with priest being a very
+00:09:12.480	3.20	close second. There's also a lot of
+00:09:14.160	3.04	decision-making on which healing
+00:09:15.680	3.20	overtime spell to use in what
+00:09:17.200	3.36	situations, and that makes the druid
+00:09:18.880	3.52	feel very skillful compared to other
+00:09:20.560	3.76	healers. And they bring excellent
+00:09:22.399	4.48	utility with mark of the wild, tree
+00:09:24.320	4.32	form, aura, innervate, battle res, and
+00:09:26.880	3.52	tranquility. On top of that, they're
+00:09:28.640	3.68	just excellent healers. Their mana
+00:09:30.399	4.08	efficiency is unparalleled, and their
+00:09:32.320	3.68	throughput is very strong. As for the
+00:09:34.480	3.52	negatives, you're probably the worst
+00:09:36.000	4.16	healer for daily questing and gold
+00:09:38.000	4.40	farming. Also, needing to shape-shift in
+00:09:40.160	4.48	and out of tree form to perform tasks
+00:09:42.399	3.68	such as decursing and buffing may annoy
+00:09:44.640	3.36	some people. And if you're looking to
+00:09:46.080	4.00	play the all-around best healer, you
+00:09:48.000	3.68	probably won't find that in a druid.
+00:09:50.080	4.24	They're very strong, but not as strong
+00:09:51.680	4.80	as resto shamans or holy priests. So,
+00:09:54.320	5.12	are you going to play a restored in TBC?
+00:09:56.480	4.32	If so, leave a comment. If not, still
+00:09:59.440	3.04	leave a comment. Thanks for watching,
+00:10:00.800	4.40	guys. I'll see you in the next one.
+00:10:02.480	2.72	Peace.
